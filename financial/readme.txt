@@ -1,1 +1,1 @@
-This folder has all financial books
+This folder has all of financial books

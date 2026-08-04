@@ -1,1 +1,1 @@
-This folder has all agatha christie books
+This folder has all of agatha christie books
