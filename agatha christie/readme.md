@@ -60,9 +60,9 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [Cat Among the Pigeons](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Cat%20Among%20the%20Pigeons.epub)
 - [The Clocks](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Clocks.epub)
 - [Third Girl](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Third%20Girl.epub)
-- Hallowe'en Party
-- Elephants Can Remember
-- Curtain: Poirot’s Last Case
+- [Hallowe'en Party](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Hallowe'en%20Party.epub)
+- [Elephants Can Remember](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Elephants%20Can%20Remember.epub)
+- [Curtain: Poirot’s Last Case](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Curtain-Poirot's%20Last%20Case.epub)
 - [A Murder Is Announced](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Murder%20Is%20Announced.epub)
 - [Crooked House](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Crooked%20House.epub)
 
