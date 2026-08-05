@@ -1,4 +1,4 @@
-## This folder has all of history books
+## Anthony Horowitz books
 
 ### Susan Ryeland series
 Magpie Murders (2016)
