@@ -1,6 +1,6 @@
 ## This folder has all of amish tripathi books in chronological order
 
-### Ram Chandra Series
+### Ram Chandra series
 - [Scion of Ikshvaku](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/Scion%20of%20Ikshvaku.epub)
 - [Sita - Warrior of Mithila](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/Sita%20Warrior%20of%20Mithila.epub)
 - [Raavan - Enemy of Aryavarta](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/Raavan%20Enemy%20of%20Aryavarta.epub)
