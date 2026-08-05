@@ -46,14 +46,14 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [Dumb Witness](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Dumb%20Witness.epub)
 - [Death on the Nile](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Death%20on%20the%20Nile.epub)
 - [Appointment with Death](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Appointment%20with%20Death.epub)
-- Hercule Poirot's Christmas
-- Sad Cypress
-- One, Two Buckle my Shoe
+- [Hercule Poirot's Christmas](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Hercule%20Poirot's%20Christmas.epub)
+- [Sad Cypress](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Sad%20Cypress.epub)
+- [One, Two Buckle my Shoe](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/One%2C%20Two%2C%20Buckle%20My%20Shoe.epub)
 - [Evil Under the Sun](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Evil%20Under%20the%20Sun.epub)
 - [Five Little Pigs](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Five%20Little%20Pigs.epub)
 - [The Hollow](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Hollow.epub)
 - [Taken at the Flood](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Taken%20at%20the%20Flood.epub)
-- Mrs McGinty's Dead
+- [Mrs McGinty's Dead](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Mrs.%20McGinty's%20Dead.epub)
 - After the Funeral
 - Hickory Dickory Dock
 - Dead Man's Folly
