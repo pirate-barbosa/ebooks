@@ -1,0 +1,10 @@
+### This folder has all of financial books
+- [A Random Walk Down Wall Street The Time-Tested Strategy for Successful Investing](https://github.com/pirate-barbosa/ebooks/blob/main/financial/A%20Random%20Walk%20Down%20Wall%20Street%20The%20Time-Tested%20Strategy%20for%20Successful%20Investing.epub)
+- [Coffee Can Investing The Low Risk Road to Stupendous Wealth](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Coffee%20Can%20Investing%20The%20Low%20Risk%20Road%20to%20Stupendous%20Wealth.epub)
+- [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub)
+- [How to Make Money in Stocks - A Winning System in Good Times](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20in%20Stocks%20-%20A%20Winning%20System%20in%20Good%20Times%20and%20Bad%204th%20edition%202009.epub)
+- [One Up On Wall Street](https://github.com/pirate-barbosa/ebooks/blob/main/financial/One%20Up%20On%20Wall%20Street.epub)
+- [Stocks to Riches Insights on Investor Behaviour](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Stocks%20to%20Riches%20Insights%20on%20Investor%20Behaviour.epub)
+- [The Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Intelligent%20Investor%20-Graham%20Benjamin.epub)
+- [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub)
+- [Value Investing And Behavioral Finance Insights Into Indian Stock Market Realities](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Value%20Investing%20And%20Behavioral%20Finance%20Insights%20Into%20Indian%20Stock%20Market%20Realities.epub)
