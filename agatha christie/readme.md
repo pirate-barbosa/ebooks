@@ -54,12 +54,12 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [The Hollow](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Hollow.epub)
 - [Taken at the Flood](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Taken%20at%20the%20Flood.epub)
 - [Mrs McGinty's Dead](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Mrs.%20McGinty's%20Dead.epub)
-- After the Funeral
-- Hickory Dickory Dock
-- Dead Man's Folly
-- Cat Among the Pigeons
-- The Clocks
-- Third Girl
+- [After the Funeral](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/After%20the%20Funeral.epub)
+- [Hickory Dickory Dock](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Hickory%20Dickory%20Dock.epub)
+- [Dead Man's Folly](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Dead%20Man's%20Folly.epub)
+- [Cat Among the Pigeons](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Cat%20Among%20the%20Pigeons.epub)
+- [The Clocks](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Clocks.epub)
+- [Third Girl](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Third%20Girl.epub)
 - Hallowe'en Party
 - Elephants Can Remember
 - Curtain: Poirot’s Last Case
