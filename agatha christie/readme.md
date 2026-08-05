@@ -1,5 +1,34 @@
 ## This folder has all of agatha christie books
 
+
+While Agatha Christie’s Hercule Poirot novels can generally be read in any order, agathachristie.com recommends keeping a few key chronological dependencies in mind:
+
+**Essential Order (Avoid Major Spoilers)**
+
+**Curtain:** Must be read last (Poirot's final case).
+
+**Lord Edgware Dies:** Read before After the Funeral.
+
+------
+
+**Strongly Recommended (Character & Reference Continuity)**
+
+**Mrs McGinty’s Dead:** Read before Hallowe’en Party and Elephants Can Remember.
+
+**Five Little Pigs:** Read before Elephants Can Remember.
+
+**Cat Among the Pigeons:** Read before Hallowe’en Party.
+
+**Three Act Tragedy:** Read before Hercule Poirot’s Christmas.
+
+-----
+
+**Minor Recommendation (Optional Context)**
+
+**Murder on the Orient Express:** Preferably read before Murder in Mesopotamia.
+
+-----
+
 ### Hercule Poirot series
 - [The Mysterious Affair at Styles](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Mysterious%20Affair%20at%20Styles.epub)
 - [The Murder on the Links](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Murder%20on%20the%20Links.epub)
@@ -10,11 +39,11 @@
 - [Lord Edgware Dies](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Lord%20Edgware%20Dies.epub)
 - [Murder on the Orient Express](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Murder%20on%20the%20Orient%20Express.epub)
 - [Three Act Tragedy](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Three%20Act%20Tragedy.epub)
-- Death in the Clouds
+- [Death in the Clouds](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Death%20in%20the%20Clouds.epub)
 - [The ABC Murders](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20ABC%20Murders.epub)
-- Murder in Mesopotamia
-- Cards on the Table
-- Dumb Witness
+- [Murder in Mesopotamia](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Murder%20in%20Mesopotamia.epub)
+- [Cards on the Table](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Cards%20on%20the%20Table.epub)
+- [Dumb Witness](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Dumb%20Witness.epub)
 - [Death on the Nile](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Death%20on%20the%20Nile.epub)
 - [Appointment with Death](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Appointment%20with%20Death.epub)
 - Hercule Poirot's Christmas
