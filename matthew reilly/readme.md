@@ -1,4 +1,4 @@
-## This folder has all of matthew reilly books in chronological order
+## Matthew Reilly books
 
 ### Jack West.Jr series
 
