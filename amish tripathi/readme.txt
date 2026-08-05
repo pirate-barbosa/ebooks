@@ -1,1 +1,0 @@
-This folder has all of amish tripathi books
