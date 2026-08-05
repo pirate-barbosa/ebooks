@@ -1,4 +1,4 @@
-## This folder has all of financial books
+## Financial books
 - [A Random Walk Down Wall Street The Time-Tested Strategy for Successful Investing](https://github.com/pirate-barbosa/ebooks/blob/main/financial/A%20Random%20Walk%20Down%20Wall%20Street%20The%20Time-Tested%20Strategy%20for%20Successful%20Investing.epub)
 - [Coffee Can Investing The Low Risk Road to Stupendous Wealth](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Coffee%20Can%20Investing%20The%20Low%20Risk%20Road%20to%20Stupendous%20Wealth.epub)
 - [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub)
