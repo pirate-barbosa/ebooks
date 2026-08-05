@@ -1,5 +1,4 @@
-## This folder has all of agatha christie books in chronological order
-
+## Agatha Christie books
 
 While Agatha Christie’s Hercule Poirot novels can generally be read in any order, agathachristie.com recommends keeping a few key chronological dependencies in mind:
 
