@@ -1,1 +1,1 @@
-## This folder has all of kevin missal books
+## Kevin Missal books
