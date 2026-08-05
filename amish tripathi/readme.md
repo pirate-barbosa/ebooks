@@ -1,4 +1,4 @@
-## This folder has all of amish tripathi books in chronological order
+## Amish Tripathi books
 
 ### Ram Chandra series
 - [Scion of Ikshvaku](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/Scion%20of%20Ikshvaku.epub)
