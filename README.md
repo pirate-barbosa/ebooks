@@ -2,6 +2,7 @@
 
 - [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
+- [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
@@ -12,6 +13,6 @@
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
 - [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
+- [Non-Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
-- [Non Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction)
 - [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
