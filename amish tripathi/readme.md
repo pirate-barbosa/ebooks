@@ -1,9 +1,9 @@
 ## Amish Tripathi books
 
 ### The Shiva Trilogy
-- The Immortals of Meluha (2010)
-- The Secret of the Nagas (2011)
-- The Oath of the Vayuputras (2013)
+- [The Immortals of Meluha](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/Immortals%20of%20Meluha.epub)
+- [The Secret of the Nagas](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/The%20Secret%20of%20the%20Nagas.epub)
+- [The Oath of the Vayuputras](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/The%20Oath%20of%20The%20Vayuputras.epub)
 
 ### Ram Chandra series
 - [Scion of Ikshvaku](https://github.com/pirate-barbosa/ebooks/blob/main/amish%20tripathi/Scion%20of%20Ikshvaku.epub)
