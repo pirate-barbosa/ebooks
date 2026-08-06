@@ -1,11 +1,9 @@
 ## Anthony Horowitz books
 
 ### Susan Ryeland series
-Magpie Murders (2016)
-
-Moonflower Murders (2020)
-
-Marble Hall Murders (2025)
+- [Magpie Murders](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/Magpie%20Murders.epub)
+- [Moonflower Murders](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/Moonflower%20Murders.epub)
+- [Marble Hall Murders](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/Marble%20Hall%20Murders.epub)
 
 -------
 
