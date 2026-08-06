@@ -10,6 +10,7 @@
 - [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
+- [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
 - [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
