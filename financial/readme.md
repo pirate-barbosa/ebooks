@@ -8,3 +8,6 @@
 - [The Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Intelligent%20Investor%20-Graham%20Benjamin.epub)
 - [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub)
 - [Value Investing And Behavioral Finance Insights Into Indian Stock Market Realities](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Value%20Investing%20And%20Behavioral%20Finance%20Insights%20Into%20Indian%20Stock%20Market%20Realities.epub)
+- [How to Make Money With Breakout Trading A Simple Stock Market Book for Beginners - The Secret of becoming Intelligent Investor]()
+- [Price Action Trading A Simple Stock Market Trading Book for Beginners – Applicable to Intraday Trading, Swing Trading]()
+- [The Subtle Art of Intraday Trading A Handbook on How to Bank on Trading Psychology, Options Strategies and Make a Living out]()
