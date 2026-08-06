@@ -12,6 +12,6 @@
 
 ### Baahubali Prequel Trilogy
 
-- The Rise of Sivagami (2017)
-- Chaturanga (2020)
-- Queen of Mahishmathi (2020)
+- [The Rise of Sivagami](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/The%20Rise%20of%20Sivagami.epub)
+- [Chaturanga](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/Chaturanga.epub)
+- [Queen of Mahishmathi](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/Queen%20of%20Mahishmathi.epub)
