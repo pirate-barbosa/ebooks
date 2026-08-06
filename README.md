@@ -1,4 +1,4 @@
-## List ebooks based on category
+## Authors/Category list
 
 - [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
