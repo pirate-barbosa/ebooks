@@ -8,6 +8,7 @@
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
 - [Bilal Siddiqi](https://github.com/pirate-barbosa/ebooks/tree/main/bilal%20siddiqi)
 - [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
+- [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
