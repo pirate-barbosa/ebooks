@@ -1,7 +1,7 @@
 ## Anand Neelakantan books
 
-- Asura: Tale of the Vanquished
-- Vanara: The Legend of Baali, Sugreeva and Tara (2018)
+- [Asura: Tale of the Vanquished](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/Asura%20Tale%20Of%20The%20Vanquished.epub)
+- [Vanara: The Legend of Baali, Sugreeva and Tara](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/Vanara%20The%20legend%20of%20Baali%2C%20Sugreeva%20and%20Tara.epub)
 - Valmiki's Women (2021)
 - Nala Damayanti (2023)
 
