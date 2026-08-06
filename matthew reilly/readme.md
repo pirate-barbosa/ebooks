@@ -13,8 +13,8 @@
 
 ### The Scarecrow series
 
-- Ice Station (1998)
-- Area 7 (2001)
-- Scarecrow (2003)
-- Hell Island (Novella, 2005)
-- Scarecrow Returns / Scarecrow and the Army of Thieves (2011)
+- [Ice Station](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Ice%20Station.epub)
+- [Area 7](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Area%207.epub)
+- [Scarecrow](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Scarecrow.epub)
+- [Hell Island](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Hell%20Island.epub)
+- [Scarecrow and the Army of Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Scarecrow%20and%20the%20Army%20of%20Thieves.epub)
