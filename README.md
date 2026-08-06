@@ -6,6 +6,7 @@
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
 - [Bilal Siddiqi](https://github.com/pirate-barbosa/ebooks/tree/main/bilal%20siddiqi)
+- [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [History](https://github.com/pirate-barbosa/ebooks/tree/main/history)
