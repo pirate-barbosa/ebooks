@@ -1,9 +1,9 @@
 ## Kevin Missal books
 
 ### The Kalki Trilogy
-- Dharmayoddha Kalki: Avatar of Vishnu (2018)
-- Satyayoddha Kalki: Eye of Brahma (2018)
-- Mahayoddha Kalki: Sword of Shiva (2019)
+- [Dharmayoddha Kalki: Avatar of Vishnu](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Dharmayoddha%20Kalki%20-%20Avatar%20of%20Vishnu.epub)
+- [Satyayoddha Kalki: Eye of Brahma](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Satyayoddha%20Kalki%20-%20Eye%20of%20Brahma.epub)
+- [Mahayoddha Kalki: Sword of Shiva](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Mahayoddha%20Kalki%20-%20Sword%20of%20Shiva.epub)
 
 
 ### The Narasimha Trilogy
