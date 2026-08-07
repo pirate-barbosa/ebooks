@@ -6,14 +6,9 @@
 - [Marble Hall Murders](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/Marble%20Hall%20Murders.epub)
 
 ### Hawthorne and Horowitz series
-The Word Is Murder (2017)
-
-The Sentence Is Death (2019)
-
-A Line to Kill (2021)
-
-The Twist of a Knife (2022)
-
-Close to Death (2024)
-
-A Deadly Episode (2026)
+- [The Word Is Murder](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/The%20Word%20Is%20Murder.epub)
+- [The Sentence Is Death](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/The%20Sentence%20is%20Death.epub)
+- [A Line to Kill](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/A%20Line%20to%20Kill.epub)
+- [The Twist of a Knife](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/The%20Twist%20of%20a%20Knife.epub)
+- [Close to Death](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/Close%20to%20Death.epub)
+- [A Deadly Episode](https://github.com/pirate-barbosa/ebooks/blob/main/anthony%20horowitz/A%20Deadly%20Episode.epub)
