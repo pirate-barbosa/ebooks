@@ -4,7 +4,7 @@
 ### The Jack Reacher Series
 - [Killing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Killing%20Floor.epub)
 - Die Trying (1998)
-- Tripwire (1999)
+- [Tripwire](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Tripwire.epub)
 - Running Blind / The Visitor (2000)
 - Echo Burning (2001)
 - Without Fail (2002)
@@ -29,7 +29,7 @@
 - The Sentinel (2020) — The first co-authored book with Andrew Child.
 - Better Off Dead (2021)
 - No Plan B (2022)
-- The Secret (2023) — (Prequel set in 1992)
-- In Too Deep (2024)
-- Exit Strategy (2025)
+- [The Secret](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Secret.epub) — (Prequel set in 1992)
+- [In Too Deep](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/In%20Too%20Deep.epub)
+- [Exit Strategy](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Exit%20Strategy.epub)
 - Chain Reaction (Upcoming, October 2026)
