@@ -25,10 +25,10 @@
 - [Contest](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Contest.epub)
 - [Temple](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Temple.epub)
 - [Hover Car Racer](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Hover%20Car%20Racer.epub)
-- The Tournament
+- [The Tournament](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/The%20Tournament.epub)
 - [Troll Mountain](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Troll%20Mountain.epub)
-- The Great Zoo of China
-- The Secret Runners of New York
+- [The Great Zoo of China](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/The%20Great%20Zoo%20of%20China.epub)
+- [The Secret Runners of New York](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/The%20Secret%20Runners%20of%20New%20York.epub)
 - [Cobalt Blue](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Cobalt%20Blue.epub)
-- The Detective
-- Mr Einstein's Secretary
+- [The Detective](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/The%20Detective.epub)
+- [Mr Einstein's Secretary](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Mr%20Einsteins%20Secretary.epub)
