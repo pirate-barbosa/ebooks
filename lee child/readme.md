@@ -23,9 +23,9 @@
 - [Personal](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Personal.epub)
 - [Make Me](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Make%20Me.epub)
 - Night School (2016) — (Prequel set in 1996)
-- The Midnight Line (2017)
-- Past Tense (2018)
-- Blue Moon (2019)
+- [The Midnight Line](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Midnight%20Line.epub)
+- [Past Tense](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Past%20Tense.epub)
+- [Blue Moon](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Blue%20Moon.epub)
 - [The Sentinel](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Sentinel.epub) — The first co-authored book with Andrew Child.
 - [Better Off Dead](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Better%20Off%20Dead.epub)
 - [No Plan B](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/No%20Plan%20B.epub)
