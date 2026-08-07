@@ -18,3 +18,15 @@
 - [Scarecrow](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Scarecrow.epub)
 - [Hell Island](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Hell%20Island.epub)
 - [Scarecrow and the Army of Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Scarecrow%20and%20the%20Army%20of%20Thieves.epub)
+
+
+### Standalone
+
+- Contest
+- Temple
+- Hover Car Racer
+- The Tournament 
+- The Great Zoo of China
+- The Secret Runners of New York
+- Cobalt Blue
+- Mr Einstein's Secretary
