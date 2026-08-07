@@ -7,8 +7,8 @@
 
 ### The Ajaya Series (The Mahabharata Subverted)
 
-- Ajaya: Roll of the Dice (2013)
-- Ajaya: Rise of Kali (2015)
+- [Ajaya: Roll of the Dice](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/Ajaya-Roll%20of%20the%20Dice.epub)
+- [Ajaya: Rise of Kali](https://github.com/pirate-barbosa/ebooks/blob/main/anand%20neelakantan/Ajaya-Rise%20of%20Kali.epub)
 
 ### Baahubali Prequel Trilogy
 
