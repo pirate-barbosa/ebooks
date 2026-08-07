@@ -1,10 +1,10 @@
 ## Freida McFadden books
 
 ### The Housemaid Series
-- The Housemaid (2022)
-- The Housemaid's Secret (2023)
-- The Housemaid's Wedding (Short Story, 2024)
-- The Housemaid Is Watching (2024)
+- [The Housemaid](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Housemaid.epub)
+- [The Housemaid's Secret](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Housemaids%20Secret.epub)
+- [The Housemaid's Wedding](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Housemaids%20Wedding.epub)
+- [The Housemaid Is Watching](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Housemaid%20is%20Watching.epub)
 
 ### Dr. Jane McGill Series
 - The Devil Wears Scrubs (2013)
