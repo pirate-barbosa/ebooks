@@ -12,6 +12,7 @@
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
+- [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
