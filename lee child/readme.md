@@ -11,18 +11,18 @@
 - [Persuader](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Persuader.epub)
 - [The Enemy](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Enemy.epub) — (Prequel set during Reacher's military days)
 - [One Shot](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/One%20Shot.epub) — Adapted into the 2012 Tom Cruise film.
-- The Hard Way (2006)
+- [The Hard Way](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Hard%20Way.epub)
 - [Bad Luck and Trouble](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Bad%20Luck%20and%20Trouble.epub)
-- Nothing to Lose (2008)
+- [Nothing to Lose](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Nothing%20to%20Lose.epub)
 - [Gone Tomorrow](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Gone%20Tomorrow.epub)
-- 61 Hours (2010)
+- [61 Hours](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/61%20Hours.epub)
 - [Worth Dying For](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Worth%20Dying%20For.epub)
 - [The Affair](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Affair.epub) — (Prequel leading directly into the events of book 1)
 - [A Wanted Man](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/A%20Wanted%20Man.epub)
-- Never Go Back (2013) — Adapted into the 2016 film sequel.
+- [Never Go Back](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Never%20Go%20Back.epub) — Adapted into the 2016 film sequel.
 - [Personal](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Personal.epub)
 - [Make Me](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Make%20Me.epub)
-- Night School (2016) — (Prequel set in 1996)
+- [Night School](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Night%20School.epub) — (Prequel set in 1996)
 - [The Midnight Line](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Midnight%20Line.epub)
 - [Past Tense](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Past%20Tense.epub)
 - [Blue Moon](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Blue%20Moon.epub)
