@@ -2,14 +2,14 @@
 
 
 ### The Jack Reacher Series
-- Killing Floor (1997)
+- [Killing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Killing%20Floor.epub)
 - Die Trying (1998)
 - Tripwire (1999)
 - Running Blind / The Visitor (2000)
 - Echo Burning (2001)
 - Without Fail (2002)
 - Persuader (2003)
-- The Enemy (2004) — (Prequel set during Reacher's military days)
+- [The Enemy](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Enemy.epub) — (Prequel set during Reacher's military days)
 - One Shot (2005) — Adapted into the 2012 Tom Cruise film.
 - The Hard Way (2006)
 - Bad Luck and Trouble (2007)
