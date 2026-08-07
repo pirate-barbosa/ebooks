@@ -8,17 +8,17 @@
 - [The Visitor](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Visitor.epub) - Running Blind [US Title]
 - [Echo Burning](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Echo%20Burning.epub)
 - [Without Fail](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Without%20Fail.epub)
-- Persuader (2003)
+- [Persuader](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Persuader.epub)
 - [The Enemy](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Enemy.epub) — (Prequel set during Reacher's military days)
-- One Shot (2005) — Adapted into the 2012 Tom Cruise film.
+- [One Shot](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/One%20Shot.epub) — Adapted into the 2012 Tom Cruise film.
 - The Hard Way (2006)
 - [Bad Luck and Trouble](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Bad%20Luck%20and%20Trouble.epub)
 - Nothing to Lose (2008)
 - [Gone Tomorrow](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Gone%20Tomorrow.epub)
 - 61 Hours (2010)
-- Worth Dying For (2010)
-- The Affair (2011) — (Prequel leading directly into the events of book 1)
-- A Wanted Man (2012)
+- [Worth Dying For](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Worth%20Dying%20For.epub)
+- [The Affair](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Affair.epub) — (Prequel leading directly into the events of book 1)
+- [A Wanted Man](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/A%20Wanted%20Man.epub)
 - Never Go Back (2013) — Adapted into the 2016 film sequel.
 - [Personal](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Personal.epub)
 - [Make Me](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Make%20Me.epub)
