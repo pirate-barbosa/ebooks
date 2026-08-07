@@ -22,11 +22,13 @@
 
 ### Standalone
 
-- Contest
-- Temple
-- Hover Car Racer
-- The Tournament 
+- [Contest](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Contest.epub)
+- [Temple](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Temple.epub)
+- [Hover Car Racer](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Hover%20Car%20Racer.epub)
+- The Tournament
+- [Troll Mountain](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Troll%20Mountain.epub)
 - The Great Zoo of China
 - The Secret Runners of New York
-- Cobalt Blue
+- [Cobalt Blue](https://github.com/pirate-barbosa/ebooks/blob/main/matthew%20reilly/Cobalt%20Blue.epub)
+- The Detective
 - Mr Einstein's Secretary
