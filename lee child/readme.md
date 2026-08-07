@@ -3,16 +3,16 @@
 
 ### The Jack Reacher Series
 - [Killing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Killing%20Floor.epub)
-- Die Trying (1998)
+- [Die Trying](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Die%20Trying.epub)
 - [Tripwire](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Tripwire.epub)
-- Running Blind / The Visitor (2000)
+- [The Visitor](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Visitor.epub) - Running Blind [US Title]
 - [Echo Burning](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Echo%20Burning.epub)
-- Without Fail (2002)
+- [Without Fail](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Without%20Fail.epub)
 - Persuader (2003)
 - [The Enemy](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/The%20Enemy.epub) — (Prequel set during Reacher's military days)
 - One Shot (2005) — Adapted into the 2012 Tom Cruise film.
 - The Hard Way (2006)
-- Bad Luck and Trouble (2007)
+- [Bad Luck and Trouble](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Bad%20Luck%20and%20Trouble.epub)
 - Nothing to Lose (2008)
 - [Gone Tomorrow](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Gone%20Tomorrow.epub)
 - 61 Hours (2010)
@@ -20,8 +20,8 @@
 - The Affair (2011) — (Prequel leading directly into the events of book 1)
 - A Wanted Man (2012)
 - Never Go Back (2013) — Adapted into the 2016 film sequel.
-- Personal (2014)
-- Make Me (2015)
+- [Personal](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Personal.epub)
+- [Make Me](https://github.com/pirate-barbosa/ebooks/blob/main/lee%20child/Make%20Me.epub)
 - Night School (2016) — (Prequel set in 1996)
 - The Midnight Line (2017)
 - Past Tense (2018)
