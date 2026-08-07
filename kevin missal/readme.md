@@ -7,9 +7,9 @@
 
 
 ### The Narasimha Trilogy
-- Narasimha (2019)
-- Hiranyakashyap (2020)
-- Prahlad (2023)
+- [Narasimha](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Narasimha.epub)
+- [Hiranyakashyap](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Hiranyakashyap.epub)
+- [Prahlad](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Prahlad.epub)
 
 ### The Karna Chronicles
 - Karna: The King of Anga (2021)
