@@ -1,22 +1,22 @@
 ## Authors/Category list
 
-- [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie) 👍
-- [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi) 👍
-- [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan) 👍
-- [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz) 👍
-- [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle) 👍
-- [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi) 👍
+- [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
+- [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
+- [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
+- [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
+- [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
+- [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
 - [Bilal Siddiqi](https://github.com/pirate-barbosa/ebooks/tree/main/bilal%20siddiqi)
-- [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography) 👍
-- [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown) 👍
+- [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
+- [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
-- [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial) 👍
+- [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
-- [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson) 👍
-- [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling) 👍
+- [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
+- [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
-- [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child) 👍
-- [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly) 👍
-- [Non-Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction) 👍
+- [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
+- [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
+- [Non-Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
 - [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
