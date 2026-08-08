@@ -6,9 +6,9 @@
 - [Memory Man](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Memory%20Man.epub)
 - [The Last Mile](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Last%20Mile.epub)
 - [The Fix](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Fix.epub)
-- The Fallen (2018)
-- Redemption (2019)
-- Walk the Wire (2020)
+- [The Fallen](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Fallen.epub)
+- [Redemption](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Redemption.epub)
+- [Walk the Wire](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Walk%20the%20Wire.epub)
 - [Long Shadows](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Long%20Shadows.epub)
 
 ### Will Robie series
