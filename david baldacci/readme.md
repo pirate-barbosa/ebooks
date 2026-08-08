@@ -3,13 +3,13 @@
 
 ### Amos Decker / Memory Man series
 
-- Memory Man (2015)
-- The Last Mile (2016)
+- [Memory Man](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Memory%20Man.epub)
+- [The Last Mile](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Last%20Mile.epub)
 - The Fix (2017)
 - The Fallen (2018)
 - Redemption (2019)
 - Walk the Wire (2020)
-- Long Shadows (2022)
+- [Long Shadows](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Long%20Shadows.epub)
 
 ### Will Robie series
 
@@ -86,4 +86,4 @@
 - One Summer (2011)
 - Simply Lies (2023)
 - A Calamity of Souls (2024)
-- Strangers in Time (2025)
+- [Strangers in Time](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Strangers%20in%20Time.epub)
