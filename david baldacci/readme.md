@@ -33,11 +33,11 @@
 - Mercy (2021)
 
 ### Camel Club series
-- The Camel Club (2005)
-- The Collectors (2006)
-- Stone Cold (2007)
-- Divine Justice (2008)
-- Hell's Corner (2010)
+- [The Camel Club](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Camel%20Club.epub)
+- [The Collectors](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Collectors.epub)
+- [Stone Cold](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Stone%20Cold.epub)
+- [Divine Justice](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Divine%20Justice.epub)
+- [Hell's Corner](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Hells%20Corner.epub)
 
 ### King & Maxwell series
 - Split Second (2003)
