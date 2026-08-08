@@ -13,11 +13,11 @@
 
 ### Will Robie series
 
-- The Innocent (2012)
-- The Hit (2013)
-- The Target (2014)
-- The Guilty (2015)
-- End Game (2017)
+- [The Innocent](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Innocent.epub)
+- [The Hit](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Hit.epub)
+- [The Target](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Target.epub)
+- [The Guilty](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Guilty.epub)
+- [End Game](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/End%20Game.epub)
 - Bullseye (2014) - short story
 
 ### John Puller series
