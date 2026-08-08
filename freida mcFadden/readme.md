@@ -19,7 +19,7 @@
 - The Ex (2020)
 - The Surrogate Mother (2020)
 - The Wife Upstairs (2020)
-- One by One (2020)
+- [One by One](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/One%20by%20One.epub)
 - Want to Know a Secret? (2021)
 - The Locked Door (2021)
 - Do Not Disturb (2021)
