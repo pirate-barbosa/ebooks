@@ -1,6 +1,6 @@
 ## Authors/Category list
 
-- [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
+- [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie) 👍
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi) 👍
 - [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan) 👍
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz) 👍
