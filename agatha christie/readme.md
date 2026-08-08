@@ -62,10 +62,45 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [Hallowe'en Party](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Hallowe'en%20Party.epub)
 - [Elephants Can Remember](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Elephants%20Can%20Remember.epub)
 - [Curtain: Poirot’s Last Case](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Curtain-Poirot's%20Last%20Case.epub)
+
+
+### Miss Marple series
+
+- The Murder at the Vicarage (1930)
+- The Body in the Library (1942)
+- The Moving Finger (1942)
 - [A Murder Is Announced](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Murder%20Is%20Announced.epub)
+- They Do It with Mirrors (1952)
+- A Pocket Full of Rye (1953)
+- 4.50 from Paddington (1957)
+- The Mirror Crack'd from Side to Side (1962)
+- A Caribbean Mystery (1964)
+- At Bertram's Hotel (1965)
+- Nemesis (1971)
+- Sleeping Murder (1976)
+
+### Tommy & Tuppence series
+
+- The Secret Adversary (1922)
+- N or M? (1941)
+- By the Pricking of My Thumbs (1968)
+- Postern of Fate (1973)
+
+### Standalone
+
+- The Man in the Brown Suit (1924)
+- The Secret of Chimneys (1925)
+- The Seven Dials Mystery (1929)
+- The Sittaford Mystery (1931)
+- Why Didn't They Ask Evans? (1934)
+- And Then There Were None (1939)
+- Murder Is Easy (1939)
+- Death Comes as the End (1944)
+- Sparkling Cyanide (1945)
 - [Crooked House](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Crooked%20House.epub)
-
-
-
-
-
+- They Came to Baghdad (1951)
+- Destination Unknown (1954)
+- Ordeal by Innocence (1958)
+- The Pale Horse (1961)
+- Endless Night (1967)
+- Passenger to Frankfurt (1970)
