@@ -5,7 +5,7 @@
 
 - [Memory Man](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Memory%20Man.epub)
 - [The Last Mile](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Last%20Mile.epub)
-- The Fix (2017)
+- [The Fix](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Fix.epub)
 - The Fallen (2018)
 - Redemption (2019)
 - Walk the Wire (2020)
