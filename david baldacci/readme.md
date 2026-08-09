@@ -48,9 +48,9 @@
 - King and Maxwell (2013)
 
 ### Aloysius Archer series
-- One Good Deed (2019)
-- A Gambling Man (2021)
-- Dream Town (2022)
+- [One Good Deed](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/One%20Good%20Deed.epub)
+- [A Gambling Man](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/A%20Gambling%20Man.epub)
+- [Dream Town](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Dream%20Town.epub)
 
 ### Travis Devine / The 6:20 Man series
 - The 6:20 Man (2022)
@@ -74,8 +74,8 @@
 
 ### Standalone novels
 
-- Absolute Power (1996)
-- Total Control (1996)
+- [Absolute Power](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Absolute%20Power.epub)
+- [Total Control](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Total%20Control.epub)
 - The Winner (1997)
 - The Simple Truth (1998)
 - Saving Faith (1999)
