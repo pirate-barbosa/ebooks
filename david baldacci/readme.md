@@ -53,14 +53,14 @@
 - [Dream Town](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Dream%20Town.epub)
 
 ### Travis Devine / The 6:20 Man series
-- The 6:20 Man (2022)
-- The Edge (2023)
-- To Die For (2024)
+- [The 6:20 Man](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20620%20Man.epub)
+- [The Edge](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Edge.epub)
+- [To Die For](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/To%20Die%20For.epub)
 - All In (2026)
 
 ### Shaw series
-- The Whole Truth (2008)
-- Deliver Us from Evil (2010)
+- [The Whole Truth](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Whole%20Truth.epub)
+- [Deliver Us from Evil](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Deliver%20Us%20From%20Evil.epub)
 
 ### Vega Jane series
 - The Finisher (2014)
