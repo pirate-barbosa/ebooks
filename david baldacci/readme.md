@@ -27,10 +27,10 @@
 - [No Man's Land](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/No%20Man%E2%80%99s%20Land.epub)
 
 ### Atlee Pine
-- Long Road to Mercy (2018)
-- A Minute to Midnight (2019)
-- Daylight (2020)
-- Mercy (2021)
+- [Long Road to Mercy](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Long%20Road%20to%20Mercy.epub)
+- [A Minute to Midnight](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/A%20Minute%20to%20Midnight.epub)
+- [Daylight](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Daylight.epub)
+- [Mercy](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Mercy.epub)
 
 ### Camel Club series
 - [The Camel Club](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Camel%20Club.epub)
