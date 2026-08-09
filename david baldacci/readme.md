@@ -21,10 +21,10 @@
 - Bullseye (2014) - short story
 
 ### John Puller series
-- Zero Day (2011)
-- The Forgotten (2012)
-- The Escape (2014)
-- No Man's Land (2016)
+- [Zero Day](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Zero%20Day.epub)
+- [The Forgotten](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Forgotten.epub)
+- [The Escape](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Escape.epub)
+- [No Man's Land](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/No%20Man%E2%80%99s%20Land.epub)
 
 ### Atlee Pine
 - Long Road to Mercy (2018)
