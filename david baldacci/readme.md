@@ -68,10 +68,6 @@
 - [The Width of the World](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Width%20of%20the%20World.epub)
 - [The Stars Below](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Stars%20Below.epub)
 
-### Freddy and the French Fries — 2 books
-- Fries Alive! (2005)
-- The Mystery of Silas Finklebean (2006)
-
 ### Standalone novels
 
 - [Absolute Power](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Absolute%20Power.epub)
