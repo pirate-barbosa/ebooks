@@ -5,6 +5,7 @@
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) - Eric Ries
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
 - [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) - Héctor García, Francesc Miralles
+- [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
 
 
 
@@ -12,7 +13,6 @@
 
 
 
-- Thinking, Fast and Slow — Daniel Kahneman
 - The Righteous Mind — Jonathan Haidt
 - Influence — Robert Cialdini
 - Man's Search for Meaning — Viktor E. Frankl
