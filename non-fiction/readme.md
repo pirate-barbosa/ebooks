@@ -4,16 +4,16 @@
 - [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) - Peter Thiel
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) - Eric Ries
 
-Thinking, Fast and Slow — Daniel Kahneman
-The Righteous Mind — Jonathan Haidt
-Influence — Robert Cialdini
-Man's Search for Meaning — Viktor E. Frankl
-Sapiens — Yuval Noah Harari
-The Lessons of History — Will & Ariel Durant
-The Silk Roads — Peter Frankopan
-The Psychology of Money — Morgan Housel
-Poor Charlie's Almanack — Charlie Munger
-The Almanack of Naval Ravikant — Eric Jorgenson
-A Brief History of Time — Stephen Hawking
-The Gene — Siddhartha Mukherjee
-The Sixth Extinction — Elizabeth Kolbert
+- Thinking, Fast and Slow — Daniel Kahneman
+- The Righteous Mind — Jonathan Haidt
+- Influence — Robert Cialdini
+- Man's Search for Meaning — Viktor E. Frankl
+- Sapiens — Yuval Noah Harari
+- The Lessons of History — Will & Ariel Durant
+- The Silk Roads — Peter Frankopan
+- The Psychology of Money — Morgan Housel
+- Poor Charlie's Almanack — Charlie Munger
+- The Almanack of Naval Ravikant — Eric Jorgenson
+- A Brief History of Time — Stephen Hawking
+- The Gene — Siddhartha Mukherjee
+- The Sixth Extinction — Elizabeth Kolbert
