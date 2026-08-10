@@ -63,10 +63,10 @@
 - [Deliver Us from Evil](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Deliver%20Us%20From%20Evil.epub)
 
 ### Vega Jane series
-- The Finisher (2014)
-- The Keeper (2015)
-- The Width of the World (2017)
-- The Stars Below (2019)
+- [The Finisher](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Finisher.epub)
+- [The Keeper](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Keeper.epub)
+- [The Width of the World](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Width%20of%20the%20World.epub)
+- [The Stars Below](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Stars%20Below.epub)
 
 ### Freddy and the French Fries — 2 books
 - Fries Alive! (2005)
