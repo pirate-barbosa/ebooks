@@ -40,11 +40,11 @@
 - [Hell's Corner](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Hells%20Corner.epub)
 
 ### King & Maxwell series
-- Split Second (2003)
-- Hour Game (2004)
-- Simple Genius (2007)
-- First Family (2009)
-- The Sixth Man (2011)
+- [Split Second](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Split%20Second.epub)
+- [Hour Game](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Hour%20Game.epub)
+- [Simple Genius](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/Simple%20Genius.epub)
+- [First Family](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/First%20Family.epub)
+- [The Sixth Man](https://github.com/pirate-barbosa/ebooks/blob/main/david%20baldacci/The%20Sixth%20Man.epub)
 - King and Maxwell (2013)
 
 ### Aloysius Archer series
