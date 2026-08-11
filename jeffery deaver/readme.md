@@ -35,10 +35,10 @@
 
 **Features a professional reward seeker and tracker.**
 
-- The Never Game (2019)
-- The Goodbye Man (2020)
-- The Final Twist (2021)
-- Hunting Time (2022)
+- [The Never Game](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Never%20Game.epub)
+- [The Goodbye Man](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Goodbye%20Man.epub)
+- [The Final Twist](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Final%20Twist.epub)
+- [Hunting Time](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Hunting%20Time.epub)
 - South of Nowhere (2025)
 
 ### Standalone Thrillers
@@ -51,7 +51,7 @@
 - Speaking in Tongues (2000)
 - The Blue Nowhere (2001)
 - Garden of Beasts (2004)
-- The Bodies Left Behind (2008)
+- [The Bodies Left Behind](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Bodies%20Left%20Behind.epub)
 - Edge (2010)
 - Carte Blanche (2011) (Official James Bond continuation novel)
 - The October List (2013) (Written in reverse chronological order)  
