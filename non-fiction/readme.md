@@ -6,12 +6,7 @@
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
 - [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) - Héctor García, Francesc Miralles
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
-
-
-
-
-
-
+- [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) - Babak Nivi, Naval Ravikant 
 
 - The Righteous Mind — Jonathan Haidt
 - Influence — Robert Cialdini
