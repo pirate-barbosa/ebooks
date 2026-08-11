@@ -72,11 +72,11 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [A Murder Is Announced](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Murder%20Is%20Announced.epub)
 - [They Do It with Mirrors](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/They%20Do%20It%20With%20Mirrors.epub)
 - [A Pocket Full of Rye](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Pocket%20Full%20of%20Rye.epub)
-- 4.50 from Paddington (1957)
-- The Mirror Crack'd from Side to Side (1962)
-- A Caribbean Mystery (1964)
-- At Bertram's Hotel (1965)
-- Nemesis (1971)
+- [4.50 from Paddington](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/4.50%20from%20Paddington.epub)
+- [The Mirror Crack'd from Side to Side](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Mirror%20Crackd%20From%20Side%20to%20Side.epub)
+- [A Caribbean Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Caribbean%20Mystery.epub)
+- [At Bertram's Hotel](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/At%20Bertrams%20Hotel.epub)
+- [Nemesis](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Nemesis.epub)
 - Sleeping Murder (1976)
 
 ### Tommy & Tuppence series
