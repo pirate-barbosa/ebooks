@@ -77,14 +77,14 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [A Caribbean Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Caribbean%20Mystery.epub)
 - [At Bertram's Hotel](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/At%20Bertrams%20Hotel.epub)
 - [Nemesis](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Nemesis.epub)
-- Sleeping Murder (1976)
+- [Sleeping Murder](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Sleeping%20Murder.epub)
 
 ### Tommy & Tuppence series
 
-- The Secret Adversary (1922)
-- N or M? (1941)
-- By the Pricking of My Thumbs (1968)
-- Postern of Fate (1973)
+- [The Secret Adversary](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Secret%20Adversary.epub)
+- [N or M?](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/N%20or%20M.epub)
+- [By the Pricking of My Thumbs](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/By%20the%20Pricking%20of%20My%20Thumbs.epub)
+- [Postern of Fate](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Postern%20of%20Fate.epub)
 
 ### Standalone
 
