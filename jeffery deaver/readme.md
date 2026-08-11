@@ -17,7 +17,7 @@
 - [The Skin Collector](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Skin%20Collector.epub)
 - [The Steel Kiss](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Steel%20Kiss.epub)
 - [The Burial Hour](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Burial%20Hour.epub)
-- The Cutting Edge (2018)
+- [The Cutting Edge](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Cutting%20Edge.epub)
 - [The Midnight Lock](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Midnight%20Lock.epub)
 - [The Watchmaker's Hand](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Watchmaker%E2%80%99s%20Hand.epub)
 - The Collateral Heart (2026)
@@ -26,10 +26,10 @@
 
 **Focuses on a California body language and kinesics expert.**
 
-- The Sleeping Doll (2007)
-- Roadside Crosses (2009)
-- XO (2012)
-- Solitude Creek (2015)
+- [The Sleeping Doll](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Sleeping%20Doll.epub)
+- [Roadside Crosses](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Roadside%20Crosses.epub)
+- [XO](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/XO.epub)
+- [Solitude Creek](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Solitude%20Creek.epub)
 
 ### Colter Shaw Series
 
