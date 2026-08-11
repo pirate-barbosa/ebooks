@@ -66,12 +66,12 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 
 ### Miss Marple series
 
-- The Murder at the Vicarage (1930)
-- The Body in the Library (1942)
-- The Moving Finger (1942)
+- [The Murder at the Vicarage](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Murder%20at%20the%20Vicarage.epub)
+- [The Body in the Library](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Body%20in%20the%20Library.epub)
+- [The Moving Finger](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Moving%20Finger.epub)
 - [A Murder Is Announced](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Murder%20Is%20Announced.epub)
-- They Do It with Mirrors (1952)
-- A Pocket Full of Rye (1953)
+- [They Do It with Mirrors](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/They%20Do%20It%20With%20Mirrors.epub)
+- [A Pocket Full of Rye](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Pocket%20Full%20of%20Rye.epub)
 - 4.50 from Paddington (1957)
 - The Mirror Crack'd from Side to Side (1962)
 - A Caribbean Mystery (1964)
