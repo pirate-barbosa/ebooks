@@ -4,13 +4,13 @@
 
 **Follows quadriplegic forensic criminalist Lincoln Rhyme and NYPD officer Amelia Sachs.**
 
-- The Bone Collector (1997)
-- The Coffin Dancer (1998)
-- The Empty Chair (2000)
+- [The Bone Collector](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Bone%20Collector.epub)
+- [The Coffin Dancer](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Coffin%20Dancer.epub)
+- [The Empty Chair](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Empty%20Chair.epub)
 - The Stone Monkey (2002)
 - The Vanished Man (2003)
 - The Twelfth Card (2005)
-- The Cold Moon (2006) (Introduces Kathryn Dance)
+- [The Cold Moon](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Cold%20Moon.epub) - Introduces Kathryn Dance
 - The Broken Window (2008)
 - The Burning Wire (2010)
 - The Kill Room (2013)
@@ -19,7 +19,7 @@
 - The Burial Hour (2017)
 - The Cutting Edge (2018)
 - The Midnight Lock (2021)
-- The Watchmaker's Hand (2023)
+- [The Watchmaker's Hand](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Watchmaker%E2%80%99s%20Hand.epub)
 - The Collateral Heart (2026)
 
 ### Kathryn Dance Series
