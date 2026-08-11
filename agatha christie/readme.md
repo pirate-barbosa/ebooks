@@ -88,12 +88,12 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 
 ### Standalone
 
-- The Man in the Brown Suit (1924)
-- The Secret of Chimneys (1925)
-- The Seven Dials Mystery (1929)
-- The Sittaford Mystery (1931)
-- Why Didn't They Ask Evans? (1934)
-- And Then There Were None (1939)
+- [The Man in the Brown Suit](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Man%20in%20the%20Brown%20Suit.epub)
+- [The Secret of Chimneys](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Secret%20of%20Chimneys.epub)
+- [The Seven Dials Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Seven%20Dials%20Mystery.epub)
+- [The Sittaford Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Sittaford%20Mystery.epub)
+- [Why Didn't They Ask Evans?](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Why%20Didnt%20They%20Ask%20Evans.epub)
+- [And Then There Were None](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/And%20Then%20There%20Were%20None.epub)
 - Murder Is Easy (1939)
 - Death Comes as the End (1944)
 - Sparkling Cyanide (1945)
