@@ -12,13 +12,13 @@
 - [The Twelfth Card](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Twelfth%20Card.epub)
 - [The Cold Moon](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Cold%20Moon.epub) - Introduces Kathryn Dance
 - [The Broken Window](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Broken%20Window.epub)
-- The Burning Wire (2010)
-- The Kill Room (2013)
-- The Skin Collector (2014)
+- [The Burning Wire](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Burning%20Wire.epub)
+- [The Kill Room](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Kill%20Room.epub)
+- [The Skin Collector](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Skin%20Collector.epub)
 - [The Steel Kiss](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Steel%20Kiss.epub)
-- The Burial Hour (2017)
+- [The Burial Hour](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Burial%20Hour.epub)
 - The Cutting Edge (2018)
-- The Midnight Lock (2021)
+- [The Midnight Lock](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Midnight%20Lock.epub)
 - [The Watchmaker's Hand](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Watchmaker%E2%80%99s%20Hand.epub)
 - The Collateral Heart (2026)
 
