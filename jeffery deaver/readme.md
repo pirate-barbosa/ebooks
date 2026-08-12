@@ -43,15 +43,15 @@
 
 ### Standalone Thrillers
 
-- Mistress of Justice (1992)
+- [Mistress of Justice](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Mistress%20Of%20Justice.epub)
 - The Lesson of Her Death (1993)
 - Praying for Sleep (1994)
-- A Maiden's Grave (1995)
+- [A Maiden's Grave](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/A%20Maidens%20Grave.epub)
 - The Devil's Teardrop (1999) (Lincoln Rhyme cameo)
 - Speaking in Tongues (2000)
 - The Blue Nowhere (2001)
-- Garden of Beasts (2004)
+- [Garden of Beasts](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Garden%20of%20Beasts.epub)
 - [The Bodies Left Behind](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Bodies%20Left%20Behind.epub)
-- Edge (2010)
+- [Edge](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Edge.epub)
 - Carte Blanche (2011) (Official James Bond continuation novel)
-- The October List (2013) (Written in reverse chronological order)  
+- [The October List](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/October%20List.epub) - Written in reverse chronological order
