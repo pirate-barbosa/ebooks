@@ -44,12 +44,12 @@
 ### Standalone Thrillers
 
 - [Mistress of Justice](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Mistress%20Of%20Justice.epub)
-- The Lesson of Her Death (1993)
-- Praying for Sleep (1994)
+- [The Lesson of Her Death](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Lesson%20of%20Her%20Death.epub)
+- [Praying for Sleep](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Praying%20for%20Sleep.epub)
 - [A Maiden's Grave](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/A%20Maidens%20Grave.epub)
-- The Devil's Teardrop (1999) (Lincoln Rhyme cameo)
-- Speaking in Tongues (2000)
-- The Blue Nowhere (2001)
+- [The Devil's Teardrop](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Devils%20Teardrop.epub) - Lincoln Rhyme cameo
+- [Speaking in Tongues](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Speaking%20in%20Tongues.epub)
+- [The Blue Nowhere](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Blue%20Nowhere.epub)
 - [Garden of Beasts](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Garden%20of%20Beasts.epub)
 - [The Bodies Left Behind](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/The%20Bodies%20Left%20Behind.epub)
 - [Edge](https://github.com/pirate-barbosa/ebooks/blob/main/jeffery%20deaver/Edge.epub)
