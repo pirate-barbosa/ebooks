@@ -7,13 +7,13 @@
 
 
 ### The Narasimha Trilogy
-- Narasimha (2019)
-- Hiranyakashyap (2020)
-- Prahlad (2023)
+- [Narasimha](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Narasimha.epub)
+- [Hiranyakashyap](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Hiranyakashyap.epub)
+- [Prahlad](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Prahlad.epub)
 
 ### The Karna Chronicles
-- Karna: The King of Anga (2021)
-- Karna: Son of Surya (2024)
+- [Karna: The King of Anga](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Karna-The%20King%20of%20Anga.epub)
+- [Karna: Son of Surya](https://github.com/pirate-barbosa/ebooks/blob/main/kevin%20missal/Karna-Son%20of%20Surya.epub)
 - Karna: After Death (2025)
 
 ### The Sinbad Series

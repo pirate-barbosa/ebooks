@@ -62,10 +62,45 @@ While Agatha Christie’s Hercule Poirot novels can generally be read in any ord
 - [Hallowe'en Party](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Hallowe'en%20Party.epub)
 - [Elephants Can Remember](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Elephants%20Can%20Remember.epub)
 - [Curtain: Poirot’s Last Case](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Curtain-Poirot's%20Last%20Case.epub)
+
+
+### Miss Marple series
+
+- [The Murder at the Vicarage](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Murder%20at%20the%20Vicarage.epub)
+- [The Body in the Library](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Body%20in%20the%20Library.epub)
+- [The Moving Finger](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Moving%20Finger.epub)
 - [A Murder Is Announced](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Murder%20Is%20Announced.epub)
+- [They Do It with Mirrors](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/They%20Do%20It%20With%20Mirrors.epub)
+- [A Pocket Full of Rye](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Pocket%20Full%20of%20Rye.epub)
+- [4.50 from Paddington](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/4.50%20from%20Paddington.epub)
+- [The Mirror Crack'd from Side to Side](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Mirror%20Crackd%20From%20Side%20to%20Side.epub)
+- [A Caribbean Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/A%20Caribbean%20Mystery.epub)
+- [At Bertram's Hotel](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/At%20Bertrams%20Hotel.epub)
+- [Nemesis](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Nemesis.epub)
+- [Sleeping Murder](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Sleeping%20Murder.epub)
+
+### Tommy & Tuppence series
+
+- [The Secret Adversary](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Secret%20Adversary.epub)
+- [N or M?](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/N%20or%20M.epub)
+- [By the Pricking of My Thumbs](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/By%20the%20Pricking%20of%20My%20Thumbs.epub)
+- [Postern of Fate](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Postern%20of%20Fate.epub)
+
+### Standalone
+
+- [The Man in the Brown Suit](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Man%20in%20the%20Brown%20Suit.epub)
+- [The Secret of Chimneys](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Secret%20of%20Chimneys.epub)
+- [The Seven Dials Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Seven%20Dials%20Mystery.epub)
+- [The Sittaford Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Sittaford%20Mystery.epub)
+- [Why Didn't They Ask Evans?](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Why%20Didnt%20They%20Ask%20Evans.epub)
+- [And Then There Were None](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/And%20Then%20There%20Were%20None.epub)
+- [Murder Is Easy](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Murder%20Is%20Easy.epub)
+- [Death Comes as the End](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Death%20Comes%20As%20the%20End.epub)
+- [Sparkling Cyanide](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Sparkling%20cyanide.epub)
 - [Crooked House](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Crooked%20House.epub)
-
-
-
-
-
+- [They Came to Baghdad](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/They%20Came%20to%20Baghdad.epub)
+- [Destination Unknown](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Destination%20Unknown.epub)
+- [Ordeal by Innocence](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Ordeal%20by%20Innocence.epub)
+- [The Pale Horse](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/The%20Pale%20Horse.epub)
+- [Endless Night](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Endless%20Night.epub)
+- [Passenger to Frankfurt](https://github.com/pirate-barbosa/ebooks/blob/main/agatha%20christie/Passenger%20to%20Frankfurt.epub)
