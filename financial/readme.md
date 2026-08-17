@@ -22,3 +22,5 @@
 - [Price Action Trading A Simple Stock Market Trading Book for Beginners – Applicable to Intraday Trading, Swing Trading](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Price%20Action%20Trading%20A%20Simple%20Stock%20Market%20Trading%20Book%20for%20Beginners%20%E2%80%93%20Applicable%20to%20Intraday%20Trading%2C%20Swing%20Trading.epub) - Indrazith Shantharaj
 
 - [The Subtle Art of Intraday Trading A Handbook on How to Bank on Trading Psychology, Options Strategies and Make a Living out](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Subtle%20Art%20of%20Intraday%20Trading%20A%20Handbook%20on%20How%20to%20Bank%20on%20Trading%20Psychology%2C%20Options%20Strategies%20and%20Make%20a%20Living%20out.epub) - Indrazith Shantharaj
+
+- [The Money Guide by Anushka Rathod  How to Manage Your Taxes, Investments, Insurances, Goals and Lifestyle - All at Once]() - Anushka Rathod
