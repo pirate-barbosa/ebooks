@@ -6,18 +6,18 @@
 - [The House on the Cliff](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20House%20on%20the%20Cliff.epub)
 - [The Secret of the Old Mill](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Old%20Mill.epub)
 - [The Missing Chums](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Missing%20Chums.epub)
-- Hunting for Hidden Gold
+- [Hunting for Hidden Gold](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Hunting%20for%20Hidden%20Gold.epub)
 - [The Shore Road Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shore%20Road%20Mystery.epub)
 - [The Secret of the Caves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Caves.epub)
 - [The Mystery of Cabin Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20Cabin%20Island.epub)
 - [The Great Airport Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Great%20Airport%20Mystery.epub)
 - What Happened at Midnight
 - [While the Clock Ticked](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/While%20the%20Clock%20Ticked.epub)
-- Footprints Under the Window
-- The Mark on the Door
+- [Footprints Under the Window](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Footprints%20Under%20the%20Window.epub)
+- [The Mark on the Door](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mark%20on%20the%20Door.epub)
 - [The Hidden Harbor Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hidden%20Harbor%20Mystery.epub)
 - The Sinister Signpost
-- A Figure in Hiding
+- [A Figure in Hiding](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/A%20Figure%20in%20Hiding.epub)
 - The Secret Warning
 - The Twisted Claw
 - [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
@@ -33,7 +33,7 @@
 - The Secret of the Lost Tunnel
 - [The Wailing Siren Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Wailing%20Siren%20Mystery.epub)
 - The Secret of Wildcat Swamp
-- The Crisscross Shadow
+- [The Crisscross Shadow](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crisscross%20Shadow.epub)
 - [The Yellow Feather Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Yellow%20Feather%20Mystery.epub)
 - [The Hooded Hawk Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hooded%20Hawk%20Mystery.epub)
 - The Clue in the Embers
