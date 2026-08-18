@@ -20,7 +20,7 @@
 - A Figure in Hiding
 - The Secret Warning
 - The Twisted Claw
-- The Disappearing Floor
+- [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
 - The Mystery of the Flying Express
 - The Clue of the Broken Blade
 - The Flickering Torch Mystery
