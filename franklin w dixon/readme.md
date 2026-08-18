@@ -8,11 +8,11 @@
 - [The Missing Chums](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Missing%20Chums.epub)
 - Hunting for Hidden Gold
 - [The Shore Road Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shore%20Road%20Mystery.epub)
-- The Secret of the Caves
+- [The Secret of the Caves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Caves.epub)
 - [The Mystery of Cabin Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20Cabin%20Island.epub)
 - [The Great Airport Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Great%20Airport%20Mystery.epub)
 - What Happened at Midnight
-- While the Clock Ticked
+- [While the Clock Ticked](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/While%20the%20Clock%20Ticked.epub)
 - Footprints Under the Window
 - The Mark on the Door
 - The Hidden Harbor Mystery
@@ -21,7 +21,7 @@
 - The Secret Warning
 - The Twisted Claw
 - [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
-- The Mystery of the Flying Express
+- [The Mystery of the Flying Express](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Flying%20Express.epub)
 - The Clue of the Broken Blade
 - The Flickering Torch Mystery
 - The Melted Coins
@@ -31,7 +31,7 @@
 - The Secret of Skull Mountain
 - The Sign of the Crooked Arrow
 - The Secret of the Lost Tunnel
-- The Wailing Siren Mystery
+- [The Wailing Siren Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Wailing%20Siren%20Mystery.epub)
 - The Secret of Wildcat Swamp
 - The Crisscross Shadow
 - The Yellow Feather Mystery
@@ -39,7 +39,7 @@
 - The Clue in the Embers
 - The Secret of Pirates' Hill
 - The Ghost at Skeleton Rock
-- The Mystery at Devil's Paw
+- [The Mystery at Devil's Paw](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20at%20Devils%20Paw.epub)
 - The Mystery of the Chinese Junk
 - [Mystery of the Desert Giant](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Desert%20Giant.epub)
 - The Clue of the Screeching Owl
