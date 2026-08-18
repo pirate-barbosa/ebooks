@@ -12,6 +12,7 @@
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
+- [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
 - [Harlan Coben](https://github.com/pirate-barbosa/ebooks/tree/main/harlan%20coben)
 - [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
