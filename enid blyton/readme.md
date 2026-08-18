@@ -27,7 +27,7 @@
 - The Secret Seven
 -	Secret Seven Adventure
 -	[Well Done, Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Well%20Done%2C%20Secret%20Seven.epub)
--	Secret Seven On the Trail
+-	[Secret Seven On the Trail](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20on%20the%20Trail.epub)
 -	Go Ahead Secret Seven
 -	Good Work Secret Seven
 -	[Secret Seven Win Through](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Win%20Through.epub)
