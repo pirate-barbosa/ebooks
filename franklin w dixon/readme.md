@@ -16,15 +16,15 @@
 - [Footprints Under the Window](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Footprints%20Under%20the%20Window.epub)
 - [The Mark on the Door](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mark%20on%20the%20Door.epub)
 - [The Hidden Harbor Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hidden%20Harbor%20Mystery.epub)
-- The Sinister Signpost
+- [The Sinister Signpost](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sinister%20Signpost.epub)
 - [A Figure in Hiding](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/A%20Figure%20in%20Hiding.epub)
-- The Secret Warning
+- [The Secret Warning](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20Warning.epub)
 - The Twisted Claw
 - [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
 - [The Mystery of the Flying Express](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Flying%20Express.epub)
 - The Clue of the Broken Blade
 - [The Flickering Torch Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Flickering%20Torch%20Mystery.epub)
-- The Melted Coins
+- [The Melted Coins](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Melted%20Coins.epub)
 - The Short-Wave Mystery
 - The Secret Panel
 - The Phantom Freighter
@@ -57,6 +57,6 @@
 - The Clue of the Hissing Serpent
 - [The Mysterious Caravan](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mysterious%20Caravan.epub)
 - The Witchmaster's Key
-- The Jungle Pyramid
+- [The Jungle Pyramid](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Jungle%20Pyramid.epub)
 - The Firebird Rocket
 - The Sting of the Scorpion
