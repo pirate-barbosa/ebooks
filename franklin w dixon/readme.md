@@ -15,7 +15,7 @@
 - [While the Clock Ticked](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/While%20the%20Clock%20Ticked.epub)
 - Footprints Under the Window
 - The Mark on the Door
-- The Hidden Harbor Mystery
+- [The Hidden Harbor Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hidden%20Harbor%20Mystery.epub)
 - The Sinister Signpost
 - A Figure in Hiding
 - The Secret Warning
@@ -23,7 +23,7 @@
 - [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
 - [The Mystery of the Flying Express](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Flying%20Express.epub)
 - The Clue of the Broken Blade
-- The Flickering Torch Mystery
+- [The Flickering Torch Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Flickering%20Torch%20Mystery.epub)
 - The Melted Coins
 - The Short-Wave Mystery
 - The Secret Panel
@@ -40,13 +40,13 @@
 - The Secret of Pirates' Hill
 - The Ghost at Skeleton Rock
 - [The Mystery at Devil's Paw](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20at%20Devils%20Paw.epub)
-- The Mystery of the Chinese Junk
+- [The Mystery of the Chinese Junk](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Chinese%20Junk.epub)
 - [Mystery of the Desert Giant](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Desert%20Giant.epub)
 - The Clue of the Screeching Owl
 - The Viking Symbol Mystery
-- The Mystery of the Aztec Warrior
+- [The Mystery of the Aztec Warrior](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Aztec%20Warrior.epub)
 - The Haunted Fort
-- The Mystery of the Spiral Bridge
+- [The Mystery of the Spiral Bridge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Spiral%20Bridge.epub)
 - The Secret Agent on Flight 101
 - [Mystery of the Whale Tattoo](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Whale%20Tattoo.epub)
 - The Arctic Patrol Mystery
