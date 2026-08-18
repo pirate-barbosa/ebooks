@@ -22,13 +22,13 @@
 - [The Twisted Claw](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Twisted%20Claw.epub)
 - [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
 - [The Mystery of the Flying Express](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Flying%20Express.epub)
-- The Clue of the Broken Blade
+- [The Clue of the Broken Blade](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Clue%20of%20the%20Broken%20Blade.epub)
 - [The Flickering Torch Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Flickering%20Torch%20Mystery.epub)
 - [The Melted Coins](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Melted%20Coins.epub)
 - The Short-Wave Mystery
 - The Secret Panel
 - The Phantom Freighter
-- The Secret of Skull Mountain
+- [The Secret of Skull Mountain](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Skull%20Mountain.epub)
 - The Sign of the Crooked Arrow
 - The Secret of the Lost Tunnel
 - [The Wailing Siren Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Wailing%20Siren%20Mystery.epub)
@@ -45,13 +45,13 @@
 - The Clue of the Screeching Owl
 - [The Viking Symbol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Viking%20Symbol%20Mystery.epub)
 - [The Mystery of the Aztec Warrior](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Aztec%20Warrior.epub)
-- The Haunted Fort
+- [The Haunted Fort](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Haunted%20Fort.epub)
 - [The Mystery of the Spiral Bridge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Spiral%20Bridge.epub)
 - The Secret Agent on Flight 101
 - [Mystery of the Whale Tattoo](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Whale%20Tattoo.epub)
 - [The Arctic Patrol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Arctic%20Patrol%20Mystery.epub)
-- The Bombay Boomerang
-- Danger on Vampire Trail
+- [The Bombay Boomerang](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Bombay%20Boomerang.epub)
+- [Danger on Vampire Trail](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20Vampire%20Trail.epub)
 - The Masked Monkey
 - The Shattered Helmet
 - The Clue of the Hissing Serpent
