@@ -5,12 +5,12 @@
 - [The Tower Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Tower%20Treasure.epub)
 - [The House on the Cliff](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20House%20on%20the%20Cliff.epub)
 - [The Secret of the Old Mill](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Old%20Mill.epub)
-- The Missing Chums
+- [The Missing Chums](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Missing%20Chums.epub)
 - Hunting for Hidden Gold
-- The Shore Road Mystery
+- [The Shore Road Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shore%20Road%20Mystery.epub)
 - The Secret of the Caves
-- The Mystery of Cabin Island
-- The Great Airport Mystery
+- [The Mystery of Cabin Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20Cabin%20Island.epub)
+- [The Great Airport Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Great%20Airport%20Mystery.epub)
 - What Happened at Midnight
 - While the Clock Ticked
 - Footprints Under the Window
@@ -48,7 +48,7 @@
 - The Haunted Fort
 - The Mystery of the Spiral Bridge
 - The Secret Agent on Flight 101
-- Mystery of the Whale Tattoo
+- [Mystery of the Whale Tattoo](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Whale%20Tattoo.epub)
 - The Arctic Patrol Mystery
 - The Bombay Boomerang
 - Danger on Vampire Trail
