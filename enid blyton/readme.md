@@ -26,15 +26,15 @@
 ### The Secret Seven series
 - The Secret Seven
 -	Secret Seven Adventure
--	Well Done Secret Seven
+-	[Well Done, Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Well%20Done%2C%20Secret%20Seven.epub)
 -	Secret Seven On the Trail
 -	Go Ahead Secret Seven
 -	Good Work Secret Seven
 -	[Secret Seven Win Through](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Win%20Through.epub)
--	Three Cheers Secret Seven
--	Secret Seven Mystery
+-	[Three Cheers, Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Three%20Cheers%2C%20Secret%20Seven.epub)
+-	[Secret Seven Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Mystery.epub)
 -	[Puzzle for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Puzzle%20for%20the%20Secret%20Seven.epub)
--	Secret Seven Fireworks
+-	[Secret Seven Fireworks](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Fireworks.epub)
 -	Good Old Secret Seven
 -	Shock for the Secret Seven
 -	Look Out Secret Seven
