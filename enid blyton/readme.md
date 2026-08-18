@@ -30,10 +30,10 @@
 -	Secret Seven On the Trail
 -	Go Ahead Secret Seven
 -	Good Work Secret Seven
--	Secret Seven Win Through
+-	[Secret Seven Win Through](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Win%20Through.epub)
 -	Three Cheers Secret Seven
 -	Secret Seven Mystery
--	Puzzle for the Secret Seven
+-	[Puzzle for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Puzzle%20for%20the%20Secret%20Seven.epub)
 -	Secret Seven Fireworks
 -	Good Old Secret Seven
 -	Shock for the Secret Seven
