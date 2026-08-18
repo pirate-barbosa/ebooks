@@ -2,7 +2,7 @@
 - [A Random Walk Down Wall Street The Time-Tested Strategy for Successful Investing](https://github.com/pirate-barbosa/ebooks/blob/main/financial/A%20Random%20Walk%20Down%20Wall%20Street%20The%20Time-Tested%20Strategy%20for%20Successful%20Investing.epub) - Burton Malkiel
 - [Coffee Can Investing The Low Risk Road to Stupendous Wealth](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Coffee%20Can%20Investing%20The%20Low%20Risk%20Road%20to%20Stupendous%20Wealth.epub) - Pranab Uniyal, Rakshit Ranjan, and Saurabh Mukherjea
 - [How to Make Money in Stocks - A Winning System in Good Times](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20in%20Stocks%20-%20A%20Winning%20System%20in%20Good%20Times%20and%20Bad%204th%20edition%202009.epub) - William J. O'Neil
-- [24 Essential Lessons for Investment Success](https://github.com/pirate-barbosa/ebooks/blob/main/financial/24%20Essential%20Lessons%20for%20Investment%20Success.epub)
+- [24 Essential Lessons for Investment Success](https://github.com/pirate-barbosa/ebooks/blob/main/financial/24%20Essential%20Lessons%20for%20Investment%20Success.epub) - William J. O'Neil
 - [One Up On Wall Street](https://github.com/pirate-barbosa/ebooks/blob/main/financial/One%20Up%20On%20Wall%20Street.epub) - Peter Lynch
 - [The Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Intelligent%20Investor%20-Graham%20Benjamin.epub) - Benjamin Graham
 - [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub) - Morgan Housel
