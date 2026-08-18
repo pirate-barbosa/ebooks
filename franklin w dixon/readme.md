@@ -19,7 +19,7 @@
 - [The Sinister Signpost](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sinister%20Signpost.epub)
 - [A Figure in Hiding](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/A%20Figure%20in%20Hiding.epub)
 - [The Secret Warning](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20Warning.epub)
-- The Twisted Claw
+- [The Twisted Claw](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Twisted%20Claw.epub)
 - [The Disappearing Floor](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Disappearing%20Floor.epub)
 - [The Mystery of the Flying Express](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Flying%20Express.epub)
 - The Clue of the Broken Blade
