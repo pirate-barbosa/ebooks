@@ -11,16 +11,16 @@
 -	Five Get Into Trouble
 -	Five Fall Into Adventure
 -	Five on a Hike Together
--	Five Have a Wonderful Time
+-	[Five Have a Wonderful Time](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20Have%20a%20Wonderful%20Time.epub)
 -	[Five Go Down to the Sea](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20Go%20Down%20to%20the%20Sea.epub)
--	Five Go to Mystery Moor
+-	[Five Go to Mystery Moor](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20Go%20to%20Mystery%20Moor.epub)
 -	[Five Have Plenty of Fun](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20Have%20Plenty%20of%20Fun.epub)
--	Five on a Secret Trail
+-	[Five on a Secret Trail](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20on%20a%20Secret%20Trail.epub)
 -	Five Go to Billycock Hill
 -	Five Get Into a Fix
--	Five on Finniston Farm
+-	[Five on Finniston Farm](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20On%20Finniston%20Farm.epub)
 -	Five Go to Demon's Rocks
--	Five Have a Mystery to Solve
+-	[Five Have a Mystery to Solve](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20Have%20A%20Mystery%20To%20Solve.epub)
 -	Five Are Together Again
 
 ### The Secret Seven series
