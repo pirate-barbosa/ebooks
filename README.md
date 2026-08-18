@@ -12,6 +12,7 @@
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
 - [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
+- [Franklin W Dixon](https://github.com/pirate-barbosa/ebooks/tree/main/franklin%20dixon)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
 - [Harlan Coben](https://github.com/pirate-barbosa/ebooks/tree/main/harlan%20coben)
