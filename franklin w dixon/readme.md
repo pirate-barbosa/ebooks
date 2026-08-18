@@ -34,8 +34,8 @@
 - [The Wailing Siren Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Wailing%20Siren%20Mystery.epub)
 - The Secret of Wildcat Swamp
 - The Crisscross Shadow
-- The Yellow Feather Mystery
-- The Hooded Hawk Mystery
+- [The Yellow Feather Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Yellow%20Feather%20Mystery.epub)
+- [The Hooded Hawk Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hooded%20Hawk%20Mystery.epub)
 - The Clue in the Embers
 - The Secret of Pirates' Hill
 - The Ghost at Skeleton Rock
@@ -43,19 +43,19 @@
 - [The Mystery of the Chinese Junk](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Chinese%20Junk.epub)
 - [Mystery of the Desert Giant](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Desert%20Giant.epub)
 - The Clue of the Screeching Owl
-- The Viking Symbol Mystery
+- [The Viking Symbol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Viking%20Symbol%20Mystery.epub)
 - [The Mystery of the Aztec Warrior](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Aztec%20Warrior.epub)
 - The Haunted Fort
 - [The Mystery of the Spiral Bridge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Spiral%20Bridge.epub)
 - The Secret Agent on Flight 101
 - [Mystery of the Whale Tattoo](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Whale%20Tattoo.epub)
-- The Arctic Patrol Mystery
+- [The Arctic Patrol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Arctic%20Patrol%20Mystery.epub)
 - The Bombay Boomerang
 - Danger on Vampire Trail
 - The Masked Monkey
 - The Shattered Helmet
 - The Clue of the Hissing Serpent
-- The Mysterious Caravan
+- [The Mysterious Caravan](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mysterious%20Caravan.epub)
 - The Witchmaster's Key
 - The Jungle Pyramid
 - The Firebird Rocket
