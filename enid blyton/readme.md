@@ -35,8 +35,8 @@
 -	[Secret Seven Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Mystery.epub)
 -	[Puzzle for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Puzzle%20for%20the%20Secret%20Seven.epub)
 -	[Secret Seven Fireworks](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Fireworks.epub)
--	Good Old Secret Seven
--	Shock for the Secret Seven
+-	[Good Old Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Good%20Old%20Secret%20Seven.epub)
+-	[Shock for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Shock%20for%20the%20Secret%20Seven.epub)
 -	Look Out Secret Seven
--	Fun for the Secret Seven
+-	[Fun for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Fun%20for%20the%20Secret%20Seven.epub)
   
