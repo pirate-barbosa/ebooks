@@ -8,5 +8,5 @@
 - [The Impossible Fortune](https://github.com/pirate-barbosa/ebooks/blob/main/richard%20osman/The%20Impossible%20Fortune.epub)
 
 ### We Solve Murders series
-- We Solve Murders (2024)
-- We Chase Shadows (2026)
+- [We Solve Murders](https://github.com/pirate-barbosa/ebooks/blob/main/richard%20osman/We%20Solve%20Murders.epub)
+- [We Chase Shadows](https://github.com/pirate-barbosa/ebooks/blob/main/richard%20osman/We%20Chase%20Shadows.epub)
