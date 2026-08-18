@@ -2,9 +2,9 @@
 
 ### The Hardy Boys series
 
-- The Tower Treasure
-- The House on the Cliff
-- The Secret of the Old Mill
+- [The Tower Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Tower%20Treasure.epub)
+- [The House on the Cliff](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20House%20on%20the%20Cliff.epub)
+- [The Secret of the Old Mill](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Old%20Mill.epub)
 - The Missing Chums
 - Hunting for Hidden Gold
 - The Shore Road Mystery
@@ -41,7 +41,7 @@
 - The Ghost at Skeleton Rock
 - The Mystery at Devil's Paw
 - The Mystery of the Chinese Junk
-- Mystery of the Desert Giant
+- [Mystery of the Desert Giant](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Desert%20Giant.epub)
 - The Clue of the Screeching Owl
 - The Viking Symbol Mystery
 - The Mystery of the Aztec Warrior
