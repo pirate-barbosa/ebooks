@@ -29,8 +29,8 @@
 - The Secret Panel
 - The Phantom Freighter
 - [The Secret of Skull Mountain](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Skull%20Mountain.epub)
-- The Sign of the Crooked Arrow
-- The Secret of the Lost Tunnel
+- [The Sign of the Crooked Arrow](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sign%20of%20the%20Crooked%20Arrow.epub)
+- [The Secret of the Lost Tunnel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Lost%20Tunnel.epub)
 - [The Wailing Siren Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Wailing%20Siren%20Mystery.epub)
 - The Secret of Wildcat Swamp
 - [The Crisscross Shadow](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crisscross%20Shadow.epub)
@@ -52,11 +52,11 @@
 - [The Arctic Patrol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Arctic%20Patrol%20Mystery.epub)
 - [The Bombay Boomerang](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Bombay%20Boomerang.epub)
 - [Danger on Vampire Trail](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20Vampire%20Trail.epub)
-- The Masked Monkey
-- The Shattered Helmet
+- [The Masked Monkey](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Masked%20Monkey.epub)
+- [The Shattered Helmet](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shattered%20Helmet.epub)
 - The Clue of the Hissing Serpent
 - [The Mysterious Caravan](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mysterious%20Caravan.epub)
 - The Witchmaster's Key
 - [The Jungle Pyramid](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Jungle%20Pyramid.epub)
 - The Firebird Rocket
-- The Sting of the Scorpion
+- [The Sting of the Scorpion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sting%20of%20the%20Scorpion.epub)
