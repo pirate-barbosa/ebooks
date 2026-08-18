@@ -10,6 +10,7 @@
 - [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
 - [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
+- [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
