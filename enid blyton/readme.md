@@ -24,12 +24,12 @@
 -	[Five Are Together Again](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Five%20Are%20Together%20Again.epub)
 
 ### The Secret Seven series
-- The Secret Seven
--	Secret Seven Adventure
+- [The Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/The%20Secret%20Seven.epub)
+-	[Secret Seven Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Adventure.epub)
 -	[Well Done, Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Well%20Done%2C%20Secret%20Seven.epub)
 -	[Secret Seven On the Trail](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20on%20the%20Trail.epub)
--	Go Ahead Secret Seven
--	Good Work Secret Seven
+-	[Go Ahead Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Go%20Ahead%2C%20Secret%20Seven.epub)
+-	[Good Work Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Good%20Work%2C%20Secret%20Seven.epub)
 -	[Secret Seven Win Through](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Win%20Through.epub)
 -	[Three Cheers, Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Three%20Cheers%2C%20Secret%20Seven.epub)
 -	[Secret Seven Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Mystery.epub)
@@ -37,6 +37,6 @@
 -	[Secret Seven Fireworks](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Secret%20Seven%20Fireworks.epub)
 -	[Good Old Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Good%20Old%20Secret%20Seven.epub)
 -	[Shock for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Shock%20for%20the%20Secret%20Seven.epub)
--	Look Out Secret Seven
+-	[Look Out Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Look%20Out%2C%20Secret%20Seven.epub)
 -	[Fun for the Secret Seven](https://github.com/pirate-barbosa/ebooks/blob/main/enid%20blyton/Fun%20for%20the%20Secret%20Seven.epub)
   
