@@ -27,18 +27,18 @@
 - [The Melted Coins](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Melted%20Coins.epub)
 - The Short-Wave Mystery
 - The Secret Panel
-- The Phantom Freighter
+- [The Phantom Freighter](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Phantom%20Freighter.epub)
 - [The Secret of Skull Mountain](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Skull%20Mountain.epub)
 - [The Sign of the Crooked Arrow](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sign%20of%20the%20Crooked%20Arrow.epub)
 - [The Secret of the Lost Tunnel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Lost%20Tunnel.epub)
 - [The Wailing Siren Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Wailing%20Siren%20Mystery.epub)
-- The Secret of Wildcat Swamp
+- [The Secret of Wildcat Swamp](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Wildcat%20Swamp.epub)
 - [The Crisscross Shadow](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crisscross%20Shadow.epub)
 - [The Yellow Feather Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Yellow%20Feather%20Mystery.epub)
 - [The Hooded Hawk Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hooded%20Hawk%20Mystery.epub)
 - The Clue in the Embers
 - The Secret of Pirates' Hill
-- The Ghost at Skeleton Rock
+- [The Ghost at Skeleton Rock](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Ghost%20at%20Skeleton%20Rock.epub)
 - [The Mystery at Devil's Paw](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20at%20Devils%20Paw.epub)
 - [The Mystery of the Chinese Junk](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Chinese%20Junk.epub)
 - [Mystery of the Desert Giant](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Desert%20Giant.epub)
@@ -54,9 +54,9 @@
 - [Danger on Vampire Trail](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20Vampire%20Trail.epub)
 - [The Masked Monkey](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Masked%20Monkey.epub)
 - [The Shattered Helmet](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shattered%20Helmet.epub)
-- The Clue of the Hissing Serpent
+- [The Clue of the Hissing Serpent](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Clue%20of%20the%20Hissing%20Serpent.epub)
 - [The Mysterious Caravan](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mysterious%20Caravan.epub)
 - The Witchmaster's Key
 - [The Jungle Pyramid](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Jungle%20Pyramid.epub)
-- The Firebird Rocket
+- [The Firebird Rocket](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Firebird%20Rocket.epub)
 - [The Sting of the Scorpion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sting%20of%20the%20Scorpion.epub)
