@@ -11,7 +11,7 @@
 - [The Secret of the Caves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Caves.epub)
 - [The Mystery of Cabin Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20Cabin%20Island.epub)
 - [The Great Airport Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Great%20Airport%20Mystery.epub)
-- What Happened at Midnight
+- [What Happened at Midnight](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/What%20Happened%20at%20Midnight.epub)
 - [While the Clock Ticked](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/While%20the%20Clock%20Ticked.epub)
 - [Footprints Under the Window](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Footprints%20Under%20the%20Window.epub)
 - [The Mark on the Door](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mark%20on%20the%20Door.epub)
@@ -26,7 +26,7 @@
 - [The Flickering Torch Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Flickering%20Torch%20Mystery.epub)
 - [The Melted Coins](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Melted%20Coins.epub)
 - The Short-Wave Mystery
-- The Secret Panel
+- [The Secret Panel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20Panel.epub)
 - [The Phantom Freighter](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Phantom%20Freighter.epub)
 - [The Secret of Skull Mountain](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Skull%20Mountain.epub)
 - [The Sign of the Crooked Arrow](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sign%20of%20the%20Crooked%20Arrow.epub)
@@ -37,17 +37,17 @@
 - [The Yellow Feather Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Yellow%20Feather%20Mystery.epub)
 - [The Hooded Hawk Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hooded%20Hawk%20Mystery.epub)
 - The Clue in the Embers
-- The Secret of Pirates' Hill
+- [The Secret of Pirates' Hill](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Pirates%20Hill.epub)
 - [The Ghost at Skeleton Rock](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Ghost%20at%20Skeleton%20Rock.epub)
 - [The Mystery at Devil's Paw](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20at%20Devils%20Paw.epub)
 - [The Mystery of the Chinese Junk](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Chinese%20Junk.epub)
 - [Mystery of the Desert Giant](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Desert%20Giant.epub)
-- The Clue of the Screeching Owl
+- [The Clue of the Screeching Owl](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Clue%20Of%20The%20Screeching%20Owl.epub)
 - [The Viking Symbol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Viking%20Symbol%20Mystery.epub)
 - [The Mystery of the Aztec Warrior](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20of%20the%20Aztec%20Warrior.epub)
 - [The Haunted Fort](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Haunted%20Fort.epub)
 - [The Mystery of the Spiral Bridge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Spiral%20Bridge.epub)
-- The Secret Agent on Flight 101
+- [The Secret Agent on Flight](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20Agent%20on%20Flight.epub)
 - [Mystery of the Whale Tattoo](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Whale%20Tattoo.epub)
 - [The Arctic Patrol Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Arctic%20Patrol%20Mystery.epub)
 - [The Bombay Boomerang](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Bombay%20Boomerang.epub)
