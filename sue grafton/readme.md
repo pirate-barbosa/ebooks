@@ -2,11 +2,11 @@
 
 ### The Kinsey Millhone "Alphabet" Series
 
-- "A" is for Alibi (1982)  
+- ["A" is for Alibi](https://github.com/pirate-barbosa/ebooks/blob/main/sue%20grafton/A%20is%20for%20Alibi.epub)
 - "B" is for Burglar (1985)
-- "C" is for Corpse (1986)
+- ["C" is for Corpse](https://github.com/pirate-barbosa/ebooks/blob/main/sue%20grafton/C%20is%20for%20Corpse.epub)
 - "D" is for Deadbeat (1987)
-- "E" is for Evidence (1988)
+- ["E" is for Evidence](https://github.com/pirate-barbosa/ebooks/blob/main/sue%20grafton/E%20Is%20for%20Evidence.epub)
 - "F" is for Fugitive (1989)
 - "G" is for Gumshoe (1990)
 - "H" is for Homicide (1991)
@@ -24,6 +24,6 @@
 - "T" is for Trespass (2007)
 - "U" is for Undertow (2009)
 - "V" is for Vengeance (2011)
-- "W" is for Wasted (2013)
+- ["W" is for Wasted](https://github.com/pirate-barbosa/ebooks/blob/main/sue%20grafton/W%20is%20for%20Wasted.epub)
 - X (2015)
-- "Y" is for Yesterday (2017)  
+- ["Y" is for Yesterday](https://github.com/pirate-barbosa/ebooks/blob/main/sue%20grafton/Y%20is%20for%20Yesterday.epub)  
