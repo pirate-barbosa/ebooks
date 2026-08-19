@@ -29,4 +29,5 @@
 - [Non-Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
+- [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
 - [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
