@@ -4,11 +4,11 @@
 **Best reading order: I recommend reading them chronologically because Kaga's personal story develops across the books, although you won't be lost if you start with Malice or Newcomer.**
 - Graduation
 - The Forest of Sleep
-- Malice
+- [Malice](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/Malice.epub)
 - The Red Finger
 - Newcomer
-- A Death in Tokyo
-- The Final Curtain
+- [A Death in Tokyo](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/A%20Death%20in%20Tokyo.epub)
+- [The Final Curtain](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/The%20Final%20Curtain.epub)
 - The Thread of Hope
 - You Killed Someone
 
