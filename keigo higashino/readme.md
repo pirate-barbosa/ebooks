@@ -16,12 +16,12 @@
 **These are also individually solvable mysteries, so you don't strictly need to read them in order.**
 - Detective Galileo — short stories
 - Precognition Dream — short stories
-- The Devotion of Suspect X
-- Salvation of a Saint
+- [The Devotion of Suspect X](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/The%20Devotion%20of%20Suspect%20X.epub)
+- [Salvation of a Saint](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/Salvation%20of%20a%20Saint.epub)
 - The Agony of Galileo
-- The Midsummer's Equation
-- Silent Parade
-- The Invisible Helix
+- [The Midsummer's Equation](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/A%20Midsummers%20Equation.epub)
+- [Silent Parade](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/Silent%20Parade.epub)
+- [The Invisible Helix](https://github.com/pirate-barbosa/ebooks/blob/main/keigo%20higashino/Invisible%20Helix.epub)
 
 ### Masquerade series
 - Masquerade Hotel
