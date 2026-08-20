@@ -22,6 +22,7 @@
 - [James Rollins](https://github.com/pirate-barbosa/ebooks/tree/main/james%20rollins)
 - [Jeffery Deaver](https://github.com/pirate-barbosa/ebooks/tree/main/jeffery%20deaver)
 - [John Grisham](https://github.com/pirate-barbosa/ebooks/tree/main/john%20grisham)
+- [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
 - [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
