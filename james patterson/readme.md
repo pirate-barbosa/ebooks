@@ -108,3 +108,13 @@ Private Princess
 Private Moscow
 Private Rogue / Missing Persons
 Private Rome
+
+### Treasure Hunters
+
+Treasure Hunters
+Treasure Hunters: Danger Down the Nile
+Treasure Hunters: Secret of the Forbidden City
+Treasure Hunters: Peril at the Top of the World
+Treasure Hunters: Quest for the City of Gold
+Treasure Hunters: The Plunder Down Under
+Treasure Hunters: The Ultimate Quest
