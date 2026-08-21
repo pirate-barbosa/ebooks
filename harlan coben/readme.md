@@ -4,7 +4,7 @@
 - [Deal Breaker](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Deal%20Breaker.epub)
 - [Drop Shot](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Drop%20Shot.epub)
 - [Fade Away](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Fade%20Away.epub)
-- Back Spin (1997)
+- [Back Spin](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Back%20Spin.epub)
 - [One False Move](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/One%20False%20Move.epub)
 - The Final Detail (1999)
 - [Darkest Fear](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Darkest%20Fear.epub)
