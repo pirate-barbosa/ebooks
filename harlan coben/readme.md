@@ -1,17 +1,17 @@
 ## Harlan Coben books
 
 ### Myron Bolitar Series
-- Deal Breaker (1995)
-- Drop Shot (1996)
-- Fade Away (1996)
+- [Deal Breaker](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Deal%20Breaker.epub)
+- [Drop Shot](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Drop%20Shot.epub)
+- [Fade Away](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Fade%20Away.epub)
 - Back Spin (1997)
-- One False Move (1998)
+- [One False Move](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/One%20False%20Move.epub)
 - The Final Detail (1999)
-- Darkest Fear (2000)
-- Promise Me (2006)
-- Long Lost (2009)
-- Live Wire (2011)
-- Home (2016)
+- [Darkest Fear](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Darkest%20Fear.epub)
+- [Promise Me](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Promise%20Me.epub)
+- [Long Lost](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Long%20Lost.epub)
+- [Live Wire](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Live%20Wire.epub)
+- [Home](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Home.epub)
 - Think Twice (2024)
   
 ### Mickey Bolitar Series (Young Adult)
