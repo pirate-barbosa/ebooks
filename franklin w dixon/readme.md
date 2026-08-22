@@ -60,12 +60,12 @@
 - [The Jungle Pyramid](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Jungle%20Pyramid.epub)
 - [The Firebird Rocket](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Firebird%20Rocket.epub)
 - [The Sting of the Scorpion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sting%20of%20the%20Scorpion.epub)
-- Night of the Werewolf
-- Mystery of the Samurai Sword
+- [Night of the Werewolf](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Night%20of%20the%20Werewolf.epub)
+- [Mystery of the Samurai Sword](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Samurai%20Sword.epub)
 - The Pentagon Spy
 - The Apeman's Secret
 - The Mummy Case
-- Mystery of Smuggler's Cove
+- [Mystery of Smuggler's Cove](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20Smugglers%20Cove.epub)
 - The Stone Idol
 - The Vanishing Thieves
 - The Outlaw's Silver
