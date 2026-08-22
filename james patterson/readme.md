@@ -10,7 +10,7 @@
 - [Pop Goes the Weasel](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Pop%20Goes%20the%20Weasel.epub)
 - [Roses Are Red](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Roses%20Are%20Red.epub)
 - [Violets Are Blue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Violets%20Are%20Blue.epub)
-- Four Blind Mice
+- [Four Blind Mice](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Four%20Blind%20Mice.epub)
 - [The Big Bad Wolf](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20Big%20Bad%20Wolf.epub)
 - [London Bridges](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/London%20Bridges.epub)
 - [Mary, Mary](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Mary%2C%20Mary.epub)
@@ -25,7 +25,7 @@
 - [Alex Cross's Run](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%2C%20Run.epub)
 - [Cross My Heart](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20My%20Heart.epub)
 - [Hope to Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Hope%20to%20Die.epub)
-- Cross Justice
+- [Cross Justice](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Justice.epub)
 - [Cross Kill](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Kill.epub)
 - [Cross the Line](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20the%20Line.epub)
 - [Detective Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Detective%20Cross.epub)
@@ -37,7 +37,7 @@
 - [Triple Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Triple%20Cross.epub)
 - [Cross Down](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Down.epub)
 - [Alex Cross Must Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Must%20Die.epub)
-- The House of Cross
+- [The House of Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20House%20of%20Cross.epub)
 - [Return of the Spider](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Return%20of%20the%20Spider.epub)
 - Cross and Sampson
 - The Family Cross
