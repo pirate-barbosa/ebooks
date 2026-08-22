@@ -34,8 +34,9 @@
 - [John Grisham](https://github.com/pirate-barbosa/ebooks/tree/main/john%20grisham)
 
 **❤️ Romance & Contemporary Fiction**
-- [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 - [Ali Hazelwood](https://github.com/pirate-barbosa/ebooks/tree/main/ali%20hazelwood)
+- [Chetan Bhagat](https://github.com/pirate-barbosa/ebooks/tree/main/chetan%20bhagat)
+- [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 
 **🏛️ Indian Mythology, Historical & Mythological Fiction**
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
