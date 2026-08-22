@@ -87,6 +87,5 @@
 - [The Swamp Monster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Swamp%20Monster.epub)
 - [Revenge of the Desert Phantom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Revenge%20of%20the%20Desert%20Phantom.epub)
 - [The Skyfire Puzzle](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Skyfire%20Puzzle.epub)
-- The Hooded Hawk Mystery
 - The Clue of the Broken Blade
 - The Flickering Torch Mystery
