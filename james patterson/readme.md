@@ -21,20 +21,20 @@
 - [I, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Alex%20Cross.epub)
 - Cross Fire
 - Kill Alex Cross
-- Merry Christmas, Alex Cross
+- [Merry Christmas, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Merry%20Christmas%2C%20Alex%20Cross.epub)
 - Alex Cross's Run
 - Cross My Heart
-- Hope to Die
+- [Hope to Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Hope%20to%20Die.epub)
 - Cross Justice
 - Cross Kill
 - [Cross the Line](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20the%20Line.epub)
-- Detective Cross
+- [Detective Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Detective%20Cross.epub)
 - [The People vs. Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20People%20Vs.%20Alex%20Cross.epub)
 - [Target: Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Target%20Alex%20Cross.epub)
 - Criss Cross
 - Deadly Cross
-- Fear No Evil
-- Triple Cross
+- [Fear No Evil](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Fear%20No%20Evil.epub)
+- [Triple Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Triple%20Cross.epub)
 - [Cross Down](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Down.epub)
 - [Alex Cross Must Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Must%20Die.epub)
 - The House of Cross
