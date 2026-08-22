@@ -15,7 +15,7 @@
 - London Bridges
 - [Mary, Mary](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Mary%2C%20Mary.epub)
 - [Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross.epub)
-- Double Cross
+- [Double Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Double%20Cross.epub)
 - [Cross Country](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Country.epub)
 - [Alex Cross's Trial](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Trial.epub)
 - [I, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Alex%20Cross.epub)
