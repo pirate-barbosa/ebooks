@@ -7,7 +7,7 @@
 - [Revolution 2020](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/Revolution%202020.epub)
 - [Half Girlfriend](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/Half%20Girlfriend.epub)
 - [One Indian Girl](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/One%20Indian%20Girl.epub)
-- The Girl in Room 105
-- One Arranged Murder
-- 400 Days
-- 12 Years: My Messed-up Love Story
+- [The Girl in Room 105](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/The%20Girl%20in%20Room%20105.epub)
+- [One Arranged Murder](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/One%20Arranged%20Murder.epub)
+- [400 Days](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/400%20Days.epub)
+- [12 Years: My Messed-up Love Story](https://github.com/pirate-barbosa/ebooks/blob/main/chetan%20bhagat/12%20Years%20My%20Messed-up%20Love%20Story.epub)
