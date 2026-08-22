@@ -35,7 +35,7 @@
 
 **❤️ Romance & Contemporary Fiction**
 - [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
-
+- [Ali Hazelwood](https://github.com/pirate-barbosa/ebooks/tree/main/ali%20hazelwood)
 
 **🏛️ Indian Mythology, Historical & Mythological Fiction**
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
