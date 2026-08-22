@@ -73,20 +73,20 @@
 - [The Four-Headed Dragon](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Four-Headed%20Dragon.epub)
 - [The Infinity Clue](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Infinity%20Clue.epub)
 - [Track of the Zombie](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Track%20of%20the%20Zombie.epub)
-- The Voodoo Plot
+- [The Voodoo Plot](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Voodoo%20Plot.epub)
 - [The Billion Dollar Ransom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Billion%20Dollar%20Ransom.epub)
 - [Tic-Tac-Terror](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Tic-Tac-Terror.epub)
 - [Trapped at Sea](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Trapped%20at%20Sea.epub)
 - [Game Plan for Disaster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Game%20Plan%20for%20Disaster.epub)
 - [The Crimson Flame](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crimson%20Flame.epub)
-- Cave-In
+- [Cave-In](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Cave-In.epub)
 - [Sky Sabotage](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Sky%20Sabotage.epub)
 - [The Roaring River Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Roaring%20River%20Mystery.epub)
 - [The Demon's Den](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Demons%20Den.epub)
 - [The Blackwing Puzzle](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Blackwing%20Puzzle.epub)
-- The Swamp Monster
-- Revenge of the Desert Phantom
-- The Skyfire Puzzle
+- [The Swamp Monster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Swamp%20Monster.epub)
+- [Revenge of the Desert Phantom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Revenge%20of%20the%20Desert%20Phantom.epub)
+- [The Skyfire Puzzle](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Skyfire%20Puzzle.epub)
 - The Hooded Hawk Mystery
 - The Clue of the Broken Blade
 - The Flickering Torch Mystery
