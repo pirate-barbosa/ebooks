@@ -69,9 +69,9 @@
 - [The Stone Idol](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Stone%20Idol.epub)
 - [The Vanishing Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Vanishing%20Thieves.epub)
 - [The Outlaw's Silver](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Outlaws%20Silver.epub)
-- The Submarine Caper
-- The Four-Headed Dragon
-- The Infinity Clue
+- [The Submarine Caper](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Submarine%20Caper.epub)
+- [The Four-Headed Dragon](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Four-Headed%20Dragon.epub)
+- [The Infinity Clue](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Infinity%20Clue.epub)
 - [Track of the Zombie](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Track%20of%20the%20Zombie.epub)
 - The Voodoo Plot
 - [The Billion Dollar Ransom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Billion%20Dollar%20Ransom.epub)
@@ -80,10 +80,10 @@
 - [Game Plan for Disaster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Game%20Plan%20for%20Disaster.epub)
 - [The Crimson Flame](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crimson%20Flame.epub)
 - Cave-In
-- Sky Sabotage
+- [Sky Sabotage](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Sky%20Sabotage.epub)
 - [The Roaring River Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Roaring%20River%20Mystery.epub)
 - [The Demon's Den](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Demons%20Den.epub)
-- The Blackwing Puzzle
+- [The Blackwing Puzzle](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Blackwing%20Puzzle.epub)
 - The Swamp Monster
 - Revenge of the Desert Phantom
 - The Skyfire Puzzle
