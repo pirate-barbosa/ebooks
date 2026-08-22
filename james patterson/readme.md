@@ -17,21 +17,21 @@ Mary, Mary
 Cross
 Double Cross
 Cross Country
-Alex Cross's Trial
+- Alex Cross's Trial](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Trial.epub)
 Cross Fire
-I, Alex Cross
+- [I, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Alex%20Cross.epub)
 Alex Cross's Run
 Cross My Heart
 Hope to Die
 Cross Justice
 Cross the Line
-The People vs. Alex Cross
-Target: Alex Cross
+- [The People vs. Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20People%20Vs.%20Alex%20Cross.epub)
+- [Target: Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Target%20Alex%20Cross.epub)
 Criss Cross
 Deadly Cross
 Fear No Evil
 Triple Cross
-Alex Cross Must Die
+- [Alex Cross Must Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Must%20Die.epub)
 The House of Cross
 Return of the Spider
 
