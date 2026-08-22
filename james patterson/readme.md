@@ -19,14 +19,14 @@
 - [Cross Country](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Country.epub)
 - [Alex Cross's Trial](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Trial.epub)
 - [I, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Alex%20Cross.epub)
-- Cross Fire
+- [Cross Fire](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Fire.epub)
 - [Kill Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Kill%20Alex%20Cross.epub)
 - [Merry Christmas, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Merry%20Christmas%2C%20Alex%20Cross.epub)
 - [Alex Cross's Run](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%2C%20Run.epub)
-- Cross My Heart
+- [Cross My Heart](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20My%20Heart.epub)
 - [Hope to Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Hope%20to%20Die.epub)
 - Cross Justice
-- Cross Kill
+- [Cross Kill](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Kill.epub)
 - [Cross the Line](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20the%20Line.epub)
 - [Detective Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Detective%20Cross.epub)
 - [The People vs. Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20People%20Vs.%20Alex%20Cross.epub)
