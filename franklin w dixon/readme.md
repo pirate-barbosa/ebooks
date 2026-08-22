@@ -60,3 +60,33 @@
 - [The Jungle Pyramid](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Jungle%20Pyramid.epub)
 - [The Firebird Rocket](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Firebird%20Rocket.epub)
 - [The Sting of the Scorpion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sting%20of%20the%20Scorpion.epub)
+- Night of the Werewolf
+- Mystery of the Samurai Sword
+- The Pentagon Spy
+- The Apeman's Secret
+- The Mummy Case
+- Mystery of Smuggler's Cove
+- The Stone Idol
+- The Vanishing Thieves
+- The Outlaw's Silver
+- The Submarine Caper
+- The Four-Headed Dragon
+- The Infinity Clue
+- Track of the Zombie
+- The Voodoo Plot
+- The Billion Dollar Ransom
+- Tic-Tac-Terror
+- Trapped at Sea
+- Game Plan for Disaster
+- The Crimson Flame
+- Cave-In
+- Sky Sabotage
+- The Roaring River Mystery
+- The Demon's Den
+- The Blackwing Puzzle
+- The Swamp Monster
+- Revenge of the Desert Phantom
+- The Skyfire Puzzle
+- The Hooded Hawk Mystery
+- The Clue of the Broken Blade
+- The Flickering Torch Mystery
