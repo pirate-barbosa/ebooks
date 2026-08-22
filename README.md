@@ -36,6 +36,7 @@
 **❤️ Romance & Contemporary Fiction**
 - [Ali Hazelwood](https://github.com/pirate-barbosa/ebooks/tree/main/ali%20hazelwood)
 - [Chetan Bhagat](https://github.com/pirate-barbosa/ebooks/tree/main/chetan%20bhagat)
+- [Elle Kennedy](https://github.com/pirate-barbosa/ebooks/tree/main/elle%20kennedy)
 - [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 
 **🏛️ Indian Mythology, Historical & Mythological Fiction**
