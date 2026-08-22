@@ -5,15 +5,15 @@
 
 - Along Came a Spider
 - Kiss the Girls
-- Jack & Jill
+- [Jack & Jill](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Jack%20%26%20Jill.epub)
 - Cat & Mouse
-- Pop Goes the Weasel
-- Roses Are Red
+- [Pop Goes the Weasel](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Pop%20Goes%20the%20Weasel.epub)
+- [Roses Are Red](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Roses%20Are%20Red.epub)
 - Violets Are Blue
 - Four Blind Mice
-- The Big Bad Wolf
+- [The Big Bad Wolf](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20Big%20Bad%20Wolf.epub)
 - London Bridges
-- Mary, Mary
+- [Mary, Mary](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Mary%2C%20Mary.epub)
 - [Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross.epub)
 - Double Cross
 - [Cross Country](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Country.epub)
