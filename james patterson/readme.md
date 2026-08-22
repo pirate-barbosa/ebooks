@@ -3,13 +3,13 @@
 ### Alex Cross series
 **The most famous Patterson series, featuring psychologist/detective Alex Cross.**
 
-- Along Came a Spider
-- Kiss the Girls
+- [Along Came a Spider](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Along%20Came%20a%20Spider.epub)
+- [Kiss the Girls](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Kiss%20the%20Girls.epub)
 - [Jack & Jill](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Jack%20%26%20Jill.epub)
 - Cat & Mouse
 - [Pop Goes the Weasel](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Pop%20Goes%20the%20Weasel.epub)
 - [Roses Are Red](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Roses%20Are%20Red.epub)
-- Violets Are Blue
+- [Violets Are Blue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Violets%20Are%20Blue.epub)
 - Four Blind Mice
 - [The Big Bad Wolf](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20Big%20Bad%20Wolf.epub)
 - London Bridges
@@ -20,9 +20,9 @@
 - [Alex Cross's Trial](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Trial.epub)
 - [I, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Alex%20Cross.epub)
 - Cross Fire
-- Kill Alex Cross
+- [Kill Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Kill%20Alex%20Cross.epub)
 - [Merry Christmas, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Merry%20Christmas%2C%20Alex%20Cross.epub)
-- Alex Cross's Run
+- [Alex Cross's Run](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%2C%20Run.epub)
 - Cross My Heart
 - [Hope to Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Hope%20to%20Die.epub)
 - Cross Justice
