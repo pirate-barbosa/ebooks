@@ -10,6 +10,7 @@
 - [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
 - [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
+- [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 - [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
 - [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
 - [Franklin W Dixon](https://github.com/pirate-barbosa/ebooks/tree/main/franklin%20w%20dixon)
@@ -32,3 +33,4 @@
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
 - [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
+
