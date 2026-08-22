@@ -18,13 +18,17 @@
 - Double Cross
 - [Cross Country](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20Country.epub)
 - [Alex Cross's Trial](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Trial.epub)
-- Cross Fire
 - [I, Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Alex%20Cross.epub)
+- Cross Fire
+- Kill Alex Cross
+- Merry Christmas, Alex Cross
 - Alex Cross's Run
 - Cross My Heart
 - Hope to Die
 - Cross Justice
+- Cross Kill
 - [Cross the Line](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Cross%20the%20Line.epub)
+- Detective Cross
 - [The People vs. Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20People%20Vs.%20Alex%20Cross.epub)
 - [Target: Alex Cross](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Target%20Alex%20Cross.epub)
 - Criss Cross
@@ -35,6 +39,8 @@
 - [Alex Cross Must Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alex%20Cross%20Must%20Die.epub)
 - The House of Cross
 - Return of the Spider
+- Cross and Sampson
+- The Family Cross
 
 ### Women's Murder Club series
 **Featuring Lindsay Boxer, Claire Washburn, Cindy Thomas and Yuki Castellano. This is one of Patterson's longest-running series.**
