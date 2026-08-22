@@ -63,21 +63,21 @@
 - [Night of the Werewolf](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Night%20of%20the%20Werewolf.epub)
 - [Mystery of the Samurai Sword](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Samurai%20Sword.epub)
 - [The Pentagon Spy](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Pentagon%20Spy.epub)
-- The Apeman's Secret
+- [The Apeman's Secret](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Apemans%20Secret.epub)
 - [The Mummy Case](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mummy%20Case.epub)
 - [Mystery of Smuggler's Cove](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20Smugglers%20Cove.epub)
-- The Stone Idol
+- [The Stone Idol](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Stone%20Idol.epub)
 - [The Vanishing Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Vanishing%20Thieves.epub)
-- The Outlaw's Silver
+- [The Outlaw's Silver](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Outlaws%20Silver.epub)
 - The Submarine Caper
 - The Four-Headed Dragon
 - The Infinity Clue
-- Track of the Zombie
+- [Track of the Zombie](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Track%20of%20the%20Zombie.epub)
 - The Voodoo Plot
 - The Billion Dollar Ransom
 - Tic-Tac-Terror
 - Trapped at Sea
-- Game Plan for Disaster
+- [Game Plan for Disaster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Game%20Plan%20for%20Disaster.epub)
 - The Crimson Flame
 - Cave-In
 - Sky Sabotage
