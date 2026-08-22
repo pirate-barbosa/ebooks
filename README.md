@@ -1,36 +1,66 @@
 ## Authors/Category list
 
+**🔎 Mystery, Crime & Detective Fiction**
 - [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
-- [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
-- [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
-- [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
-- [Bilal Siddiqi](https://github.com/pirate-barbosa/ebooks/tree/main/bilal%20siddiqi)
-- [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
-- [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
-- [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
-- [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
-- [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
-- [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
-- [Franklin W Dixon](https://github.com/pirate-barbosa/ebooks/tree/main/franklin%20w%20dixon)
+- [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
+- [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
+- [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
+
+
+**🕵️ Thriller, Psychological Thriller & Suspense**
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
 - [Harlan Coben](https://github.com/pirate-barbosa/ebooks/tree/main/harlan%20coben)
 - [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
-- [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
 - [James Patterson](https://github.com/pirate-barbosa/ebooks/tree/main/james%20patterson)
-- [James Rollins](https://github.com/pirate-barbosa/ebooks/tree/main/james%20rollins)
 - [Jeffery Deaver](https://github.com/pirate-barbosa/ebooks/tree/main/jeffery%20deaver)
-- [John Grisham](https://github.com/pirate-barbosa/ebooks/tree/main/john%20grisham)
-- [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
-- [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
+- [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
+- [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
+- [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
+
+
+**🔫 Action, Espionage & Adventure**
+- [Bilal Siddiqi](https://github.com/pirate-barbosa/ebooks/tree/main/bilal%20siddiqi)
+- [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
+- [James Rollins](https://github.com/pirate-barbosa/ebooks/tree/main/james%20rollins)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
 - [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
-- [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
+
+
+**⚖️ Legal Thriller**
+- [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
+- [John Grisham](https://github.com/pirate-barbosa/ebooks/tree/main/john%20grisham)
+
+**❤️ Romance & Contemporary Fiction**
+- [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
+
+
+**🏛️ Indian Mythology, Historical & Mythological Fiction**
+- [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
+- [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
+- [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
+- [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
+
+
+**🧙 Fantasy**
+- [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
+
+
+**👶 Children's Fiction**
+- [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
+- [Franklin W Dixon](https://github.com/pirate-barbosa/ebooks/tree/main/franklin%20w%20dixon)
+
+
+**📚 Non-Fiction**
 - [Non-Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction)
-- [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
-- [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
-- [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
-- [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
+- [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
+
+
+**💰 Finance & Business**
+- [Financial](https://github.com/pirate-barbosa/ebooks/tree/main/financial)
+
+
+
 
