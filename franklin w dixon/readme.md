@@ -74,15 +74,15 @@
 - The Infinity Clue
 - [Track of the Zombie](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Track%20of%20the%20Zombie.epub)
 - The Voodoo Plot
-- The Billion Dollar Ransom
-- Tic-Tac-Terror
-- Trapped at Sea
+- [The Billion Dollar Ransom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Billion%20Dollar%20Ransom.epub)
+- [Tic-Tac-Terror](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Tic-Tac-Terror.epub)
+- [Trapped at Sea](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Trapped%20at%20Sea.epub)
 - [Game Plan for Disaster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Game%20Plan%20for%20Disaster.epub)
-- The Crimson Flame
+- [The Crimson Flame](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crimson%20Flame.epub)
 - Cave-In
 - Sky Sabotage
 - [The Roaring River Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Roaring%20River%20Mystery.epub)
-- The Demon's Den
+- [The Demon's Den](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Demons%20Den.epub)
 - The Blackwing Puzzle
 - The Swamp Monster
 - Revenge of the Desert Phantom
