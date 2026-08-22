@@ -62,12 +62,12 @@
 - [The Sting of the Scorpion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sting%20of%20the%20Scorpion.epub)
 - [Night of the Werewolf](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Night%20of%20the%20Werewolf.epub)
 - [Mystery of the Samurai Sword](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20the%20Samurai%20Sword.epub)
-- The Pentagon Spy
+- [The Pentagon Spy](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Pentagon%20Spy.epub)
 - The Apeman's Secret
-- The Mummy Case
+- [The Mummy Case](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mummy%20Case.epub)
 - [Mystery of Smuggler's Cove](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20of%20Smugglers%20Cove.epub)
 - The Stone Idol
-- The Vanishing Thieves
+- [The Vanishing Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Vanishing%20Thieves.epub)
 - The Outlaw's Silver
 - The Submarine Caper
 - The Four-Headed Dragon
@@ -81,7 +81,7 @@
 - The Crimson Flame
 - Cave-In
 - Sky Sabotage
-- The Roaring River Mystery
+- [The Roaring River Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Roaring%20River%20Mystery.epub)
 - The Demon's Den
 - The Blackwing Puzzle
 - The Swamp Monster
