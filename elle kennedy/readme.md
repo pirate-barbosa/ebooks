@@ -2,11 +2,11 @@
 
 **Off-Campus series**
 
-- The Deal (2015)
-- The Mistake (2015)
-- The Score (2016)
-- The Goal (2016)
-- The Legacy (2021)
+- [The Deal](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Deal.epub)
+- [The Mistake](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Mistake.epub)
+- [The Score](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Score.epub)
+- [The Goal](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Goal.epub)
+- [The Legacy](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Legacy.epub)
 
 
 **Briar U series**
