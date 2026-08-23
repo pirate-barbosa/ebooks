@@ -48,6 +48,7 @@
 
 **🧙 Fantasy**
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
+- [J.R.R Tolkien](https://github.com/pirate-barbosa/ebooks/tree/main/j%20r%20r%20tolkien)
 
 
 **👶 Children's Fiction**
