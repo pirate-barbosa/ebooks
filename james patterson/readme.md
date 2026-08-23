@@ -55,13 +55,13 @@
 - [The 8th Confession](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/8th%20Confession.epub)
 - [The 9th Judgment](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/9th%20Judgement.epub)
 - [10th Anniversary](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/10th%20Anniversary.epub)
-- 11th Hour
-- 12th of Never
-- Unlucky 13
+- [11th Hour](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/11th%20Hour.epub)
+- [12th of Never](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/12th%20of%20Never.epub)
+- [Unlucky 13](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Unlucky%2013.epub)
 - [14th Deadly Sin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/14th%20Deadly%20Sin.epub)
 - [15th Affair](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/15th%20Affair.epub)
-- 16th Seduction
-- 17th Suspect
+- [16th Seduction](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/16th%20Seduction.epub)
+- [17th Suspect](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/17th%20Suspect.epub)
 - 18th Abduction
 - [19th Christmas](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%2019th%20Christmas.epub)
 - [20th Victim](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/20th%20Victim.epub)
