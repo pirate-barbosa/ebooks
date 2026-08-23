@@ -98,23 +98,23 @@ Lies He Told Me
 ### Private series
 **The international private-investigation series.**
 
-Private
-Private London
-Private Games
-Private: #1 Suspect
-Private Berlin
-Private Down Under
-Private L.A.
-Private India
-Private Vegas
-Private Sydney / Missing
-Private Paris
-The Games
-Private Delhi / Count to Ten
-Private Princess
-Private Moscow
-Private Rogue / Missing Persons
-Private Rome
+- Private
+- Private London
+- Private Games
+- Private: #1 Suspect
+- Private Berlin
+- Private Down Under
+- Private L.A.
+- Private India
+- Private Vegas
+- Private Sydney / Missing
+- Private Paris
+- The Games
+- Private Delhi / Count to Ten
+- Private Princess
+- Private Moscow
+- Private Rogue / Missing Persons
+- Private Rome
 
 ### Treasure Hunters
 
