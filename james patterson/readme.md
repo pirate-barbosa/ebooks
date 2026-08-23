@@ -45,11 +45,11 @@
 ### Women's Murder Club series
 **Featuring Lindsay Boxer, Claire Washburn, Cindy Thomas and Yuki Castellano. This is one of Patterson's longest-running series.**
 
-- 1st to Die
-- 2nd Chance
+- [1st to Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/1st%20to%20Die.epub)
+- [2nd Chance](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/2nd%20Chance.epub)
 - 3rd Degree
-- 4th of July
-- The 5th Horseman
+- [4th of July](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/4th%20of%20July.epub)
+- [The 5th Horseman](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%205th%20Horseman.epub)
 - The 6th Target
 - 7th Heaven
 - The 8th Confession
@@ -58,17 +58,17 @@
 - 11th Hour
 - 12th of Never
 - Unlucky 13
-- 14th Deadly Sin
-- 15th Affair
+- [14th Deadly Sin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/14th%20Deadly%20Sin.epub)
+- [15th Affair](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/15th%20Affair.epub)
 - 16th Seduction
 - 17th Suspect
 - 18th Abduction
-- 19th Christmas
-- 20th Victim
-- 21st Birthday
+- [19th Christmas](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%2019th%20Christmas.epub)
+- [20th Victim](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/20th%20Victim.epub)
+- [21st Birthday](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/21st%20Birthday.epub)
 - 22 Seconds
 - The 23rd Midnight
-- The 24th Hour
+- [The 24th Hour](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%2024th%20Hour.epub)
 - 25 Alive
 - 26 Beauties
 - 27 Stars
