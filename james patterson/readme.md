@@ -62,15 +62,15 @@
 - [15th Affair](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/15th%20Affair.epub)
 - [16th Seduction](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/16th%20Seduction.epub)
 - [17th Suspect](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/17th%20Suspect.epub)
-- 18th Abduction
+- [18th Abduction](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%2018th%20Abduction.epub)
 - [19th Christmas](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%2019th%20Christmas.epub)
 - [20th Victim](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/20th%20Victim.epub)
 - [21st Birthday](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/21st%20Birthday.epub)
-- 22 Seconds
-- The 23rd Midnight
+- [22 Seconds](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/22%20Seconds.epub)
+- [The 23rd Midnight](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/23rd%20Midnight.epub)
 - [The 24th Hour](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%2024th%20Hour.epub)
-- 25 Alive
-- 26 Beauties
+- [25 Alive](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/25%20Alive.epub)
+- [26 Beauties](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/26%20Beauties.epub)
 - 27 Stars
 
 ### Michael Bennett series
