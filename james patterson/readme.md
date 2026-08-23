@@ -50,11 +50,11 @@
 - [3rd Degree](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/3rd%20Degre.epub)
 - [4th of July](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/4th%20of%20July.epub)
 - [The 5th Horseman](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%205th%20Horseman.epub)
-- The 6th Target
-- 7th Heaven
-- The 8th Confession
-- The 9th Judgment
-- 10th Anniversary
+- [The 6th Target](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%206th%20Target.epub)
+- [7th Heaven](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/7th%20Heaven.epub)
+- [The 8th Confession](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/8th%20Confession.epub)
+- [The 9th Judgment](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/9th%20Judgement.epub)
+- [10th Anniversary](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/10th%20Anniversary.epub)
 - 11th Hour
 - 12th of Never
 - Unlucky 13
