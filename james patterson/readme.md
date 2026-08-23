@@ -45,33 +45,33 @@
 ### Women's Murder Club series
 **Featuring Lindsay Boxer, Claire Washburn, Cindy Thomas and Yuki Castellano. This is one of Patterson's longest-running series.**
 
-1st to Die
-2nd Chance
-3rd Degree
-4th of July
-The 5th Horseman
-The 6th Target
-7th Heaven
-The 8th Confession
-The 9th Judgment
-10th Anniversary
-11th Hour
-12th of Never
-Unlucky 13
-14th Deadly Sin
-15th Affair
-16th Seduction
-17th Suspect
-18th Abduction
-19th Christmas
-20th Victim
-21st Birthday
-22 Seconds
-The 23rd Midnight
-The 24th Hour
-25 Alive
-26 Beauties
-27 Stars
+- 1st to Die
+- 2nd Chance
+- 3rd Degree
+- 4th of July
+- The 5th Horseman
+- The 6th Target
+- 7th Heaven
+- The 8th Confession
+- The 9th Judgment
+- 10th Anniversary
+- 11th Hour
+- 12th of Never
+- Unlucky 13
+- 14th Deadly Sin
+- 15th Affair
+- 16th Seduction
+- 17th Suspect
+- 18th Abduction
+- 19th Christmas
+- 20th Victim
+- 21st Birthday
+- 22 Seconds
+- The 23rd Midnight
+- The 24th Hour
+- 25 Alive
+- 26 Beauties
+- 27 Stars
 
 ### Michael Bennett series
 **Featuring NYPD detective Michael Bennett.**
