@@ -11,7 +11,7 @@
 
 **Briar U series**
 
-- The Chase (2018)
-- The Risk (2019)
-- The Play (2019)
-- The Dare (2020)  
+- [The Chase](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Chase.epub)
+- [The Risk](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Risk.epub)
+- [The Play](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Play.epub)
+- [The Dare](https://github.com/pirate-barbosa/ebooks/blob/main/elle%20kennedy/The%20Dare.epub)  
