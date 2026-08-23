@@ -47,7 +47,7 @@
 
 - [1st to Die](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/1st%20to%20Die.epub)
 - [2nd Chance](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/2nd%20Chance.epub)
-- 3rd Degree
+- [3rd Degree](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/3rd%20Degre.epub)
 - [4th of July](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/4th%20of%20July.epub)
 - [The 5th Horseman](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%205th%20Horseman.epub)
 - The 6th Target
