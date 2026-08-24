@@ -99,16 +99,16 @@
 **The international private-investigation series.**
 
 - Private: The Gold Normal (Novella)
-- Private
+- [Private](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private.epub)
 - [Private London](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20London.epub)
-- Private Games
+- [Private Games](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Games.epub)
 - [Private: #1 Suspect](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20%231%20Suspect.epub)
 - [Private Berlin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Berlin.epub)
-- Private Down Under
+- [Private Down Under](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Down%20Under.epub)
 - [Private L.A](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20L.A.epub)
 - Private India: City on Fire
 - Private Club (Novella)
-- Private Vegas
+- [Private Vegas](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Vegas.epub)
 - [Private Paris](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Paris.epub)
 - Private Rio/The Games
 - [Private Sydney](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Sydney.epub)
@@ -118,7 +118,7 @@
 - [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
 - [Private Rome](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rome.epub)
 - Private Desert (Novella)
-- Private Royals
+- [Private Royals](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20-%20The%20Royals.epub)
 - [Private Beijing](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Beijing.epub)
 - [Private Monaco](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Monaco.epub)
 - [Private Dublin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Dublin.epub)
