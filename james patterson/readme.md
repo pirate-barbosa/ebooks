@@ -98,6 +98,7 @@
 ### Private series
 **The international private-investigation series.**
 
+- Private: The Gold Normal (Novella)
 - Private
 - [Private London](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20London.epub)
 - Private Games
@@ -105,16 +106,22 @@
 - [Private Berlin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Berlin.epub)
 - Private Down Under
 - [Private L.A](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20L.A.epub)
+- Private: Oz (Short Story)
 - Private India
+- Private Club (Novella)
 - Private Vegas
-- Private Sydney / Missing
 - [Private Paris](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Paris.epub)
-- The Games
+- Private Rio/The Games
+- Private Sydney / Missing
 - Private Delhi / Count to Ten
 - Private Princess
 - [Private Moscow](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Moscow.epub)
 - [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
 - [Private Rome](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rome.epub)
+- Private Desert (Novella)
+- Private Royal
+- Private Beijing
+- Private Monaco
 
 ### Treasure Hunters
 
