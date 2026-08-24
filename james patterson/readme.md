@@ -104,17 +104,17 @@
 - [Private: #1 Suspect](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20%231%20Suspect.epub)
 - [Private Berlin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Berlin.epub)
 - Private Down Under
-- Private L.A.
+- [Private L.A](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20L.A.epub)
 - Private India
 - Private Vegas
 - Private Sydney / Missing
-- Private Paris
+- [Private Paris](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Paris.epub)
 - The Games
 - Private Delhi / Count to Ten
 - Private Princess
 - [Private Moscow](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Moscow.epub)
 - [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
-- Private Rome
+- [Private Rome](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rome.epub)
 
 ### Treasure Hunters
 
