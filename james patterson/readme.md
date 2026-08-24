@@ -106,8 +106,7 @@
 - [Private Berlin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Berlin.epub)
 - Private Down Under
 - [Private L.A](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20L.A.epub)
-- Private: Oz (Short Story)
-- Private India
+- Private India: City on Fire
 - Private Club (Novella)
 - Private Vegas
 - [Private Paris](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Paris.epub)
@@ -119,9 +118,10 @@
 - [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
 - [Private Rome](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rome.epub)
 - Private Desert (Novella)
-- Private Royal
+- Private Royals
 - Private Beijing
 - [Private Monaco](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Monaco.epub)
+- Private Dublin
 
 ### Treasure Hunters
 
