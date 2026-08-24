@@ -79,17 +79,17 @@
 - Step on a Crack
 - Run for Your Life
 - Worst Case
-- Tick Tock
+- [Tick Tock](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Tick%20Tock.epub)
 - I, Michael Bennett
 - Gone
-- Burn
-- Alert
+- [Burn](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Burn.epub)
+- [Alert](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alert.epub)
 - Bullseye
 - Haunted
-- Ambush
+- [Ambush](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Ambush.epub)
 - Manhunt
 - Lethal
-- Shattered
+- [Shattered](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Shattered.epub)
 - Crosshairs
 - Blindside
 - Obsessed
