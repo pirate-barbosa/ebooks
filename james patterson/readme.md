@@ -131,5 +131,6 @@
 - Treasure Hunters: Secret of the Forbidden City
 - Treasure Hunters: Peril at the Top of the World
 - Treasure Hunters: Quest for the City of Gold
+- Treasure Hunters: All-American Adventure
 - Treasure Hunters: The Plunder Down Under
 - Treasure Hunters: The Ultimate Quest
