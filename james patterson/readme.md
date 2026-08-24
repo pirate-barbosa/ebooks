@@ -98,7 +98,7 @@
 ### Private series
 **The international private-investigation series.**
 
-- Private: The Gold Normal (Novella)
+- [Private: The Gold Normal](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Gold.epub) - (Novella)
 - [Private](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private.epub)
 - [Private London](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20London.epub)
 - [Private Games](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Games.epub)
@@ -106,14 +106,14 @@
 - [Private Berlin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Berlin.epub)
 - [Private Down Under](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Down%20Under.epub)
 - [Private L.A](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20L.A.epub)
-- Private India: City on Fire
+- [Private India: City on Fire](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20India%2C%20City%20on%20Fire.epub)
 - Private Club (Novella)
 - [Private Vegas](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Vegas.epub)
 - [Private Paris](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Paris.epub)
-- Private Rio/The Games
+- [The Games](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20Games.epub)
 - [Private Sydney](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Sydney.epub)
 - [Private Delhi](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Delhi.epub)
-- Private Princess
+- Private Princess](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Princess.epub)
 - [Private Moscow](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Moscow.epub)
 - [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
 - [Private Rome](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rome.epub)
