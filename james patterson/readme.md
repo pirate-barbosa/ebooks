@@ -121,7 +121,7 @@
 - Private Desert (Novella)
 - Private Royal
 - Private Beijing
-- Private Monaco
+- [Private Monaco](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Monaco.epub)
 
 ### Treasure Hunters
 
