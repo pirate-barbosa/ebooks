@@ -111,17 +111,18 @@
 - Private Vegas
 - [Private Paris](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Paris.epub)
 - Private Rio/The Games
-- Private Sydney / Missing
-- Private Delhi / Count to Ten
+- [Private Sydney](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Sydney.epub)
+- [Private Delhi](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Delhi.epub)
 - Private Princess
 - [Private Moscow](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Moscow.epub)
 - [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
 - [Private Rome](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rome.epub)
 - Private Desert (Novella)
 - Private Royals
-- Private Beijing
+- [Private Beijing](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Beijing.epub)
 - [Private Monaco](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Monaco.epub)
-- Private Dublin
+- [Private Dublin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Dublin.epub)
+- [Private Tokyo](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Tokyo.epub)
 
 ### Treasure Hunters
 
