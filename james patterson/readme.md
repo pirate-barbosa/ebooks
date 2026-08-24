@@ -76,18 +76,18 @@
 ### Michael Bennett series
 **Featuring NYPD detective Michael Bennett.**
 
-- Step on a Crack
-- Run for Your Life
-- Worst Case
+- [Step on a Crack](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Step%20on%20a%20Crack.epub)
+- [Run for Your Life](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Run%20for%20Your%20Life.epub)
+- [Worst Case](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Worst%20Case.epub)
 - [Tick Tock](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Tick%20Tock.epub)
 - I, Michael Bennett
-- Gone
+- [Gone](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Gone.epub)
 - [Burn](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Burn.epub)
 - [Alert](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alert.epub)
 - Bullseye
 - Haunted
 - [Ambush](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Ambush.epub)
-- Manhunt
+- [Manhunt](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Manhunt.epub)
 - Lethal
 - [Shattered](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Shattered.epub)
 - Crosshairs
