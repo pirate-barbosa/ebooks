@@ -5,6 +5,7 @@
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
 - [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
+- [Raymond Chandler](https://github.com/pirate-barbosa/ebooks/tree/main/raymond%20chandler)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
 
