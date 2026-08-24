@@ -99,10 +99,10 @@
 **The international private-investigation series.**
 
 - Private
-- Private London
+- [Private London](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20London.epub)
 - Private Games
-- Private: #1 Suspect
-- Private Berlin
+- [Private: #1 Suspect](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20%231%20Suspect.epub)
+- [Private Berlin](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Berlin.epub)
 - Private Down Under
 - Private L.A.
 - Private India
@@ -112,8 +112,8 @@
 - The Games
 - Private Delhi / Count to Ten
 - Private Princess
-- Private Moscow
-- Private Rogue / Missing Persons
+- [Private Moscow](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Moscow.epub)
+- [Private Rogue](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Private%20Rogue.epub)
 - Private Rome
 
 ### Treasure Hunters
