@@ -80,20 +80,22 @@
 - [Run for Your Life](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Run%20for%20Your%20Life.epub)
 - [Worst Case](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Worst%20Case.epub)
 - [Tick Tock](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Tick%20Tock.epub)
-- I, Michael Bennett
+- [I, Michael Bennett](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/I%2C%20Michael%20Bennett.epub)
 - [Gone](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Gone.epub)
 - [Burn](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Burn.epub)
 - [Alert](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alert.epub)
-- Bullseye
+- [Bullseye](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Bullseye.epub)
+- Chase
 - Haunted
-- [Ambush](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Ambush.epub)
 - [Manhunt](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Manhunt.epub)
-- Lethal
+- [Ambush](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Ambush.epub)
+- [Blindside](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Blindside.epub)
+- [The Russian](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20Russian.epub)
 - [Shattered](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Shattered.epub)
-- Crosshairs
-- Blindside
 - Obsessed
-- Lies He Told Me
+- Crosshairs
+- [Paranoia](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Paranoia.epub)
+- Delusional
 
 ### Private series
 **The international private-investigation series.**
