@@ -85,17 +85,17 @@
 - [Burn](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Burn.epub)
 - [Alert](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Alert.epub)
 - [Bullseye](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Bullseye.epub)
-- Chase
-- Haunted
+- [Chase](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Chase.epub)
+- [Haunted](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Haunted.epub)
 - [Manhunt](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Manhunt.epub)
 - [Ambush](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Ambush.epub)
 - [Blindside](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Blindside.epub)
 - [The Russian](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/The%20Russian.epub)
 - [Shattered](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Shattered.epub)
-- Obsessed
-- Crosshairs
+- [Obsessed](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Obsessed.epub)
+- [Crosshairs](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Crosshairs.epub)
 - [Paranoia](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Paranoia.epub)
-- Delusional
+- [Delusional](https://github.com/pirate-barbosa/ebooks/blob/main/james%20patterson/Delusional.epub)
 
 ### Private series
 **The international private-investigation series.**
