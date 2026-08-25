@@ -27,3 +27,21 @@
 - Havana Storm
 - Odessa Sea
 - Celtic Empire
+
+### Oregon Files series
+
+- Golden Buddha
+- Sacred Stone
+- Dark Watch
+- Skeleton Coast
+- Plague Ship
+- Corsair
+- The Silent Sea
+- The Jungle
+- Mirage
+- Piranha
+- The Emperor's Revenge
+- Typhoon Fury
+- Shadow Tyrants
+- Final Option
+- Marauder
