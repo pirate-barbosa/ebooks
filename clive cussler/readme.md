@@ -6,14 +6,14 @@
 - [The Mediterranean Caper](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Mediterranean%20Caper.epub)
 - Iceberg
 - [Raise the Titanic!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Raise%20the%20Titanic.epub)
-- Vixen 03
-- Night Probe!
+- [Vixen 03](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Vixon%2003.epub)
+- [Night Probe!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Night%20Probe.epub)
 - Deep Six
 - [Cyclops](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Cyclops.epub)
-- Treasure
+- [Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Treasure.epub)
 - [Dragon](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Dragon.epub)
-- Sahara
-- Inca Gold
+- [Sahara](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Sahara.epub)
+- [Inca Gold](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Inca%20Gold.epub)
 - [Shock Wave](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Shock%20Wave.epub)
 - [Flood Tide](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Flood%20Tide.epub)
 - Atlantis Found
