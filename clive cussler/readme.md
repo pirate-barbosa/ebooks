@@ -55,14 +55,14 @@
 - [Lost City](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Lost%20City.epub)
 - Polar Shift
 - [The Navigator](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Navigator.epub)
-- Medusa
+- [Medusa](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Medusa.epub)
 - [Devil's Gate](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Devils%20Gate.epub)
 - [The Storm](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Storm.epub)
-- Zero Hour
+- [Zero Hour](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Zero%20Hour.epub)
 - [Ghost Ship](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Ghost%20Ship.epub)
-- The Pharaoh's Secret
+- [The Pharaoh's Secret](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Pharaohs%20Secret.epub)
 - [Nighthawk](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Nighthawk.epub)
 - [The Rising Sea](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Rising%20Sea.epub)
-- Sea of Greed
-- Journey of the Pharaohs
+- [Sea of Greed](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Sea%20of%20Greed.epub)
+- [Journey of the Pharaohs](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Journey%20of%20the%20Pharaohs.epub)
 - Fast Ice
