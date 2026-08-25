@@ -8,3 +8,9 @@
 - [Broken Harbor](https://github.com/pirate-barbosa/ebooks/blob/main/tana%20french/Broken%20Harbor.epub)
 - [The Secret Place](https://github.com/pirate-barbosa/ebooks/blob/main/tana%20french/The%20Secret%20Place.epub)
 - [The Trespasser](https://github.com/pirate-barbosa/ebooks/blob/main/tana%20french/The%20Trespasser.epub)
+
+### Cal Hooper Series
+
+- The Searcher
+- The Hunter
+- The Keeper
