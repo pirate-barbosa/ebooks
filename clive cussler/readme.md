@@ -30,15 +30,15 @@
 
 ### Oregon Files series
 
-- Golden Buddha
-- Sacred Stone
+- [Golden Buddha](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Golden%20Buddha.epub)
+- [Sacred Stone](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Sacred%20Stone.epub)
 - Dark Watch
 - Skeleton Coast
 - Plague Ship
-- Corsair
+- [Corsair](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Corsair.epub)
 - The Silent Sea
-- The Jungle
-- Mirage
+- [The Jungle](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Jungle.epub)
+- [Mirage](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Mirage.epub)
 - Piranha
 - The Emperor's Revenge
 - Typhoon Fury
