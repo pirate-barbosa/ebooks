@@ -16,14 +16,14 @@
 - [Inca Gold](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Inca%20Gold.epub)
 - [Shock Wave](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Shock%20Wave.epub)
 - [Flood Tide](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Flood%20Tide.epub)
-- Atlantis Found
-- Valhalla Rising
-- Trojan Odyssey
+- [Atlantis Found](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Atlantis%20Found.epub)
+- [Valhalla Rising](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Valhalla%20Rising.epub)
+- [Trojan Odyssey](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Trojan%20Odyssey.epub)
 - [Black Wind](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Black%20Wind.epub)
 - [Treasure of Khan](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Treasure%20of%20Khan.epub)
 - [Arctic Drift](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Arctic%20Drift.epub)
-- Crescent Dawn
-- Poseidon's Arrow
+- [Crescent Dawn](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Crescent%20Dawn.epub)
+- [Poseidon's Arrow](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Poseidons%20Arrow.epub)
 - Havana Storm
 - Odessa Sea
 - Celtic Empire
