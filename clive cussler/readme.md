@@ -50,10 +50,10 @@
 
 - [Serpent](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Serpent.epub)
 - [Blue Gold](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Blue%20Gold.epub)
-- Fire Ice
+- [Fire Ice](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Fire%20Ice.epub)
 - [White Death](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/White%20Death.epub)
 - [Lost City](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Lost%20City.epub)
-- Polar Shift
+- [Polar Shift](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Polar%20Shift.epub)
 - [The Navigator](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Navigator.epub)
 - [Medusa](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Medusa.epub)
 - [Devil's Gate](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Devils%20Gate.epub)
@@ -65,4 +65,4 @@
 - [The Rising Sea](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Rising%20Sea.epub)
 - [Sea of Greed](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Sea%20of%20Greed.epub)
 - [Journey of the Pharaohs](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Journey%20of%20the%20Pharaohs.epub)
-- Fast Ice
+- [Fast Ice](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Fast%20Ice.epub)
