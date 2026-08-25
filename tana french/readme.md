@@ -11,6 +11,6 @@
 
 ### Cal Hooper Series
 
-- The Searcher
-- The Hunter
-- The Keeper
+- [The Searcher](https://github.com/pirate-barbosa/ebooks/blob/main/tana%20french/The%20Searcher.epub)
+- [The Hunter](https://github.com/pirate-barbosa/ebooks/blob/main/tana%20french/The%20Hunter.epub)
+- [The Keeper](https://github.com/pirate-barbosa/ebooks/blob/main/tana%20french/The%20Keeper.epub)
