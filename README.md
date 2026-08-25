@@ -8,7 +8,7 @@
 - [Raymond Chandler](https://github.com/pirate-barbosa/ebooks/tree/main/raymond%20chandler)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
-
+- [Tana French](https://github.com/pirate-barbosa/ebooks/tree/main/tana%20french)
 
 **🕵️ Thriller, Psychological Thriller & Suspense**
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
