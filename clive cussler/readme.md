@@ -49,20 +49,20 @@
 ### NUMA Files series
 
 - [Serpent](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Serpent.epub)
-- Blue Gold
+- [Blue Gold](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Blue%20Gold.epub)
 - Fire Ice
 - [White Death](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/White%20Death.epub)
 - [Lost City](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Lost%20City.epub)
 - Polar Shift
-- The Navigator
+- [The Navigator](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Navigator.epub)
 - Medusa
 - [Devil's Gate](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Devils%20Gate.epub)
 - [The Storm](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Storm.epub)
 - Zero Hour
-- Ghost Ship
+- [Ghost Ship](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Ghost%20Ship.epub)
 - The Pharaoh's Secret
-- Nighthawk
-- The Rising Sea
+- [Nighthawk](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Nighthawk.epub)
+- [The Rising Sea](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Rising%20Sea.epub)
 - Sea of Greed
 - Journey of the Pharaohs
 - Fast Ice
