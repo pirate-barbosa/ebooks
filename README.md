@@ -19,7 +19,6 @@
 - [Jeffery Deaver](https://github.com/pirate-barbosa/ebooks/tree/main/jeffery%20deaver)
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
-- [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
 
 
 **🔫 Action, Espionage & Adventure**
@@ -41,12 +40,16 @@
 - [Elle Kennedy](https://github.com/pirate-barbosa/ebooks/tree/main/elle%20kennedy)
 - [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 
-**🏛️ Indian Mythology, Historical & Mythological Fiction**
+**:🇮🇳 Indian Mythology, Historical & Mythological Fiction**
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
 - [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
 
+
+**🏛️ Literary & Historical Fiction**
+- [Khaled Hosseini](https://github.com/pirate-barbosa/ebooks/blob/main/khaled%20hosseini)
+- [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
 
 **🧙 Fantasy**
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
