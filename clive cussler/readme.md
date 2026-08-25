@@ -4,11 +4,11 @@
 
 - [Pacific Vortex!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Pacific%20Vortex.epub)
 - [The Mediterranean Caper](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Mediterranean%20Caper.epub)
-- Iceberg
+- [Iceberg](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Iceberg.epub)
 - [Raise the Titanic!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Raise%20the%20Titanic.epub)
 - [Vixen 03](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Vixon%2003.epub)
 - [Night Probe!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Night%20Probe.epub)
-- Deep Six
+- [Deep Six](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Deep%20Six.epub)
 - [Cyclops](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Cyclops.epub)
 - [Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Treasure.epub)
 - [Dragon](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Dragon.epub)
@@ -24,9 +24,9 @@
 - [Arctic Drift](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Arctic%20Drift.epub)
 - [Crescent Dawn](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Crescent%20Dawn.epub)
 - [Poseidon's Arrow](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Poseidons%20Arrow.epub)
-- Havana Storm
-- Odessa Sea
-- Celtic Empire
+- [Havana Storm](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Havana%20Storm.epub)
+- [Odessa Sea](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Odessa%20Sea.epub)
+- [Celtic Empire](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Celtic%20Empire.epub)
 
 ### Oregon Files series
 
