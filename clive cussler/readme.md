@@ -32,16 +32,16 @@
 
 - [Golden Buddha](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Golden%20Buddha.epub)
 - [Sacred Stone](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Sacred%20Stone.epub)
-- Dark Watch
-- Skeleton Coast
-- Plague Ship
+- [Dark Watch](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Dark%20Watch.epub)
+- [Skeleton Coast](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Skeleton%20Coast.epub)
+- [Plague Ship](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Plague%20Ship.epub)
 - [Corsair](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Corsair.epub)
-- The Silent Sea
+- [The Silent Sea](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Silent%20Sea.epub)
 - [The Jungle](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Jungle.epub)
 - [Mirage](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Mirage.epub)
-- Piranha
-- The Emperor's Revenge
-- Typhoon Fury
-- Shadow Tyrants
-- Final Option
-- Marauder
+- [Piranha](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Piranha.epub)
+- [The Emperor's Revenge](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Emperors%20Revenge.epub)
+- [Typhoon Fury](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Typhoon%20Fury.epub)
+- [Shadow Tyrants](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Shadow%20Tyrants.epub)
+- [Final Option](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Final%20Option.epub)
+- [Marauder](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Marauder.epub)
