@@ -45,3 +45,24 @@
 - [Shadow Tyrants](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Shadow%20Tyrants.epub)
 - [Final Option](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Final%20Option.epub)
 - [Marauder](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Marauder.epub)
+
+### NUMA Files series
+
+- Serpent
+- Blue Gold
+- Fire Ice
+- White Death
+- Lost City
+- Polar Shift
+- The Navigator
+- Medusa
+- Devil's Gate
+- The Storm
+- Zero Hour
+- Ghost Ship
+- The Pharaoh's Secret
+- Nighthawk
+- The Rising Sea
+- Sea of Greed
+- Journey of the Pharaohs
+- Fast Ice
