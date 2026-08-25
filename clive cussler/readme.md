@@ -2,20 +2,20 @@
 
 ### Dirk Pitt series
 
-- Pacific Vortex!
+- [Pacific Vortex!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Pacific%20Vortex.epub)
 - [The Mediterranean Caper](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/The%20Mediterranean%20Caper.epub)
 - Iceberg
 - [Raise the Titanic!](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Raise%20the%20Titanic.epub)
 - Vixen 03
 - Night Probe!
 - Deep Six
-- Cyclops
+- [Cyclops](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Cyclops.epub)
 - Treasure
 - [Dragon](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Dragon.epub)
 - Sahara
 - Inca Gold
-- Shock Wave
-- Flood Tide
+- [Shock Wave](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Shock%20Wave.epub)
+- [Flood Tide](https://github.com/pirate-barbosa/ebooks/blob/main/clive%20cussler/Flood%20Tide.epub)
 - Atlantis Found
 - Valhalla Rising
 - Trojan Odyssey
