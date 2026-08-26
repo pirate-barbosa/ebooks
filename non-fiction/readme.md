@@ -17,3 +17,4 @@
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) - Daniel Kahneman
 - [Chip War - The Fight for the Worlds Most Critical Technology](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) - Chris Miller
 - [Apple in China - The Capture of the Worlds Greatest Company](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) - Patrick McGee
+- [India After Gandhi](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/India%20After%20Gandhi.epub) - Ramachandra Guha
