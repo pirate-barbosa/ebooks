@@ -57,6 +57,7 @@
 
 
 **:🔭 Science Fiction**
+- [Andy Weir](https://github.com/pirate-barbosa/ebooks/tree/main/andy%20weir)
 - [Michael Crichton](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20crichton)
 
 **👶 Children's Fiction**
