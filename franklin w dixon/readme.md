@@ -87,21 +87,21 @@
 - [The Swamp Monster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Swamp%20Monster.epub)
 - [Revenge of the Desert Phantom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Revenge%20of%20the%20Desert%20Phantom.epub)
 - [The Skyfire Puzzle](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Skyfire%20Puzzle.epub)
-- The Mystery of the Silver Star
+- [The Mystery of the Silver Star](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Silver%20Star.epub)
 - Program for Destruction
-- Tricky Business
+- [Tricky Business](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Tricky%20Business.epub)
 - Sky Blue Frame
 - [Danger on the Diamond](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20the%20Diamond.epub)
-- Shield of Fear
+- [Shield of Fear](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Shield%20of%20Fear.epub)
 - [The Shadow Killers](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shadow%20Killers.epub)
 - The Serpent's Tooth Mystery
 - Breakdown in Axeblade
 - [Danger on the Air](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20The%20Air.epub)
-- Wipeout
+- [Wipeout](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Wipeout.epub)
 - [Cast of Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Cast%20of%20Criminals.epub)
 - Spark of Suspicion
 - [Dungeon of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Dungeon%20of%20Doom.epub)
-- The Secret of the Island Treasure
+- [The Secret of the Island Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Island%20Treasure.epub)
 
 
 
