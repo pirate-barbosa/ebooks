@@ -15,3 +15,4 @@
 - [How To Win Friends and Influence People](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/How%20To%20Win%20Friends%20and%20Influence%20People.epub) - Dale Carnegie
 - [Influence-The Psychology of Persuasion](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) - Robert B Cialdini
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) - Daniel Kahneman
+- [Chip War - The Fight for the Worlds Most Critical Technology](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) - Chris Miller
