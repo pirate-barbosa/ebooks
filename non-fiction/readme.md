@@ -8,7 +8,9 @@
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
 - [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) - Babak Nivi, Naval Ravikant 
 - [Man's Search for Meaning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Man%E2%80%99s%20Search%20for%20Meaning.epub) — Viktor E. Frankl
-- The Innovator’s Dilemma - Clayton Christensen
+- [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) - Clayton Christensen
+- [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) - Ben Horowitz
+- [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) - Rolf Dobelli
 - Autobiography of a Yogi - Paramahansa Yogananda
 - Factfulness - Hans Rosling
 - Nonviolent Communication - Marshall B. Rosenberg
