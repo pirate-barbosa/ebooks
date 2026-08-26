@@ -47,7 +47,6 @@
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
 
-
 **🏛️ Literary & Historical Fiction**
 - [Khaled Hosseini](https://github.com/pirate-barbosa/ebooks/blob/main/khaled%20hosseini)
 - [Vikram Chandra](https://github.com/pirate-barbosa/ebooks/tree/main/vikram%20chandra)
@@ -56,6 +55,9 @@
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
 - [J.R.R Tolkien](https://github.com/pirate-barbosa/ebooks/tree/main/j%20r%20r%20tolkien)
 
+
+**:🔭 Science Fiction**
+- [Michael Crichton](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20crichton)
 
 **👶 Children's Fiction**
 - [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
