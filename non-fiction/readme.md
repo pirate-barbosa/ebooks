@@ -12,3 +12,6 @@
 - [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) - Ben Horowitz
 - [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) - Rolf Dobel
 - [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
+- [How To Win Friends and Influence People](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/How%20To%20Win%20Friends%20and%20Influence%20People.epub) - Dale Carnegie
+- [Influence-The Psychology of Persuasion](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) - Robert B Cialdini
+- [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) - Daniel Kahneman
