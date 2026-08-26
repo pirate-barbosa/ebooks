@@ -91,16 +91,16 @@
 - Program for Destruction
 - Tricky Business
 - Sky Blue Frame
-- Danger on the Diamond
+- [Danger on the Diamond](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20the%20Diamond.epub)
 - Shield of Fear
-- The Shadow Killers
+- [The Shadow Killers](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shadow%20Killers.epub)
 - The Serpent's Tooth Mystery
 - Breakdown in Axeblade
-- Danger on the Air
+- [Danger on the Air](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20The%20Air.epub)
 - Wipeout
-- Cast of Criminals
+- [Cast of Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Cast%20of%20Criminals.epub)
 - Spark of Suspicion
-- Dungeon of Doom
+- [Dungeon of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Dungeon%20of%20Doom.epub)
 - The Secret of the Island Treasure
 
 
