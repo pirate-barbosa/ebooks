@@ -111,10 +111,10 @@
 - [Panic on Gull Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Panic%20on%20Gull%20Island.epub)
 - [Fear on Wheels](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Fear%20on%20Wheels.epub)
 - [The Prime-Time Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Prime-Time%20Crime.epub)
-- The Secret of Sigma Seven
+- [The Secret of Sigma Seven](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Sigma%20Seven.epub)
 - Three-Ring Terror
 - Demolition Mission
-- Radical Moves
+- [Radical Moves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Radical%20Moves.epub)
 - [The Case of the Counterfeit Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Counterfeit%20Criminals.epub)
 - Sabotage at Sports City
 - [Rock 'N' Roll Renegades](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Rock%20n%20Roll%20Renegades.epub)
@@ -129,14 +129,14 @@
 - [Mystery on Makatunk Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20on%20Makatunk%20Island.epub)
 - Racing to Disaster
 - Reel Thrills
-- Day of the Dinosaur
+- [Day of the Dinosaur](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Day%20of%20the%20Dinosaur.epub)
 - The Treasure at Dolphin Bay
 - Sidetracked To Danger
 - Crusade of the Flaming Sword
 - Maximum Challenge
 - [Crime in the Kennel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crime%20in%20the%20Kennel.epub)
 - Cross-Country Crime
-- The Hypersonic Secret
+- [The Hypersonic Secret](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hypersonic%20Secret.epub)
 - The Cold Cash Caper
 - High Speed Showdown
 - [The Alaskan Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Alaskan%20Adventure.epub)
