@@ -103,11 +103,11 @@
 - [Dungeon of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Dungeon%20of%20Doom.epub)
 - [The Secret of the Island Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Island%20Treasure.epub)
 - [The Money Hunt](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Money%20Hunt.epub)
-- Terminal Shock
+- [Terminal Shock](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Terminal%20Shock.epub)
 - [The Million Dollar Nightmare](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Million-dollar%20Nightmare.epub)
-- Tricks of the Trade
+- [Tricks of the Trade](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Tricks%20of%20the%20Trade.epub)
 - [Smoke Screen Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Smoke%20Screen%20Mystery.epub)
-- Attack of the Video Villains
+- [Attack of the Video Villains](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Attack%20of%20the%20Video%20Villains.epub)
 - [Panic on Gull Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Panic%20on%20Gull%20Island.epub)
 - [Fear on Wheels](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Fear%20on%20Wheels.epub)
 - [The Prime-Time Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Prime-Time%20Crime.epub)
@@ -118,7 +118,7 @@
 - [The Case of the Counterfeit Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Counterfeit%20Criminals.epub)
 - Sabotage at Sports City
 - [Rock 'N' Roll Renegades](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Rock%20n%20Roll%20Renegades.epub)
-- The Baseball Card Conspiracy
+- [The Baseball Card Conspiracy](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Baseball%20Card%20Conspiracy.epub)
 - Danger in the Fourth Dimension
 - Trouble at Coyote Canyon
 - The Case of the Cosmic Kidnapping
@@ -139,7 +139,7 @@
 - The Hypersonic Secret
 - The Cold Cash Caper
 - High Speed Showdown
-- The Alaskan Adventure
+- [The Alaskan Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Alaskan%20Adventure.epub)
 - The Search for the Snow Leopard
 - Slam Dunk Sabotage
 - The Desert Thieves
