@@ -113,15 +113,15 @@
 - [The Prime-Time Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Prime-Time%20Crime.epub)
 - [The Secret of Sigma Seven](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Sigma%20Seven.epub)
 - [Three-Ring Terror](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Three-ring%20Terror.epub)
-- Demolition Mission
+- [Demolition Mission](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Demolition%20Mission.epub)
 - [Radical Moves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Radical%20Moves.epub)
 - [The Case of the Counterfeit Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Counterfeit%20Criminals.epub)
-- Sabotage at Sports City
+- [Sabotage at Sports City](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Sabotage%20at%20Sports%20City.epub)
 - [Rock 'N' Roll Renegades](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Rock%20n%20Roll%20Renegades.epub)
 - [The Baseball Card Conspiracy](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Baseball%20Card%20Conspiracy.epub)
-- Danger in the Fourth Dimension
-- Trouble at Coyote Canyon
-- The Case of the Cosmic Kidnapping
+- [Danger in the Fourth Dimension](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20in%20the%20Fourth%20Dimension.epub)
+- [Trouble at Coyote Canyon](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Trouble%20at%20Coyote%20Canyon.epub)
+- [The Case of the Cosmic Kidnapping](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Cosmic%20Kidnapping.epub)
 - [The Mystery in the Old Mine](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20in%20the%20Old%20Mine.epub)
 - [Carnival of Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Carnival%20of%20Crime.epub)
 - The Robot's Revenge
