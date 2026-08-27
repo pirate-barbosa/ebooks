@@ -151,10 +151,10 @@
 - [Trial and Terror](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Trial%20and%20Terror.epub)
 - [The Ice Cold Case](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Ice-Cold%20Case.epub)
 - [The Chase for the Mystery Twister](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Chase%20for%20the%20Mystery%20Twister.epub)
-- The Crisscross Crime
-- The Rocky Road to Revenge
-- Danger in the Extreme
-- Eye on Crime
+- [The Crisscross Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Crisscross%20Crime.epub)
+- [The Rocky Road to Revenge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Rocky%20Road%20To%20Revenge.epub)
+- [Danger in the Extreme](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20in%20the%20Extreme.epub)
+- [Eye on Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Eye%20on%20Crime.epub)
 - [The Caribbean Cruise Caper](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Caribbean%20Cruise%20Caper.epub)
 - The Hunt for the Four Brothers
 - A Will to Survive
