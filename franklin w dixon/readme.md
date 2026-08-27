@@ -140,11 +140,11 @@
 - [The Cold Cash Caper](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Cold%20Cash%20Caper.epub)
 - [High Speed Showdown](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/High%20Speed%20Showdown.epub)
 - [The Alaskan Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Alaskan%20Adventure.epub)
-- The Search for the Snow Leopard
-- Slam Dunk Sabotage
-- The Desert Thieves
-- Lost in Gator Swamp
-- The Giant Rat of Sumatra
+- [The Search for the Snow Leopard](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Search%20For%20The%20Snow%20Leopard.epub)
+- [Slam Dunk Sabotage](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Slam%20Dunk%20Sabotage.epub)
+- [The Desert Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Desert%20Thieves.epub)
+- [Lost in Gator Swamp](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Lost%20in%20Gator%20Swamp.epub)
+- [The Giant Rat of Sumatra](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Giant%20Rat%20of%20Sumatra.epub)
 - The Secret of Skeleton Reef
 - Terror at High Tide
 - The Mark of the Blue Tattoo
