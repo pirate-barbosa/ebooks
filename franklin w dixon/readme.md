@@ -145,11 +145,11 @@
 - [The Desert Thieves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Desert%20Thieves.epub)
 - [Lost in Gator Swamp](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Lost%20in%20Gator%20Swamp.epub)
 - [The Giant Rat of Sumatra](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Giant%20Rat%20of%20Sumatra.epub)
-- The Secret of Skeleton Reef
-- Terror at High Tide
-- The Mark of the Blue Tattoo
-- Trial and Terror
-- The Ice Cold Case
+- [The Secret of Skeleton Reef](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Skeleton%20Reef.epub)
+- [Terror at High Tide](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Terror%20at%20High%20Tide.epub)
+- [The Mark of the Blue Tattoo](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mark%20of%20the%20Blue%20Tattoo.epub)
+- [Trial and Terror](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Trial%20and%20Terror.epub)
+- [The Ice Cold Case](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Ice-Cold%20Case.epub)
 - [The Chase for the Mystery Twister](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Chase%20for%20the%20Mystery%20Twister.epub)
 - The Crisscross Crime
 - The Rocky Road to Revenge
