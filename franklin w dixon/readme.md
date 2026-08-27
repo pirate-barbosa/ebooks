@@ -106,7 +106,7 @@
 - Terminal Shock
 - The Million Dollar Nightmare
 - Tricks of the Trade
-- Smoke Screen Mystery
+- [Smoke Screen Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Smoke%20Screen%20Mystery.epub)
 - Attack of the Video Villains
 - Panic on Gull Island
 - Fear on Wheels
@@ -122,11 +122,11 @@
 - Danger in the Fourth Dimension
 - Trouble at Coyote Canyon
 - The Case of the Cosmic Kidnapping
-- The Mystery in the Old Mine
+- The Mystery in the Old Mine](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20in%20the%20Old%20Mine.epub)
 - Carnival of Crime
 - The Robot's Revenge
-- Mystery with a Dangerous Beat
-- Mystery on Makatunk Island
+- [Mystery with a Dangerous Beat](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20with%20a%20Dangerous%20Beat.epub)
+- [Mystery on Makatunk Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20on%20Makatunk%20Island.epub)
 - Racing to Disaster
 - Reel Thrills
 - Day of the Dinosaur
@@ -150,7 +150,7 @@ Slam Dunk Sabotage
 - The Mark of the Blue Tattoo
 - Trial and Terror
 - The Ice Cold Case
-- The Chase for the Mystery Twister
+- [The Chase for the Mystery Twister](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Chase%20for%20the%20Mystery%20Twister.epub)
 - The Crisscross Crime
 - The Rocky Road to Revenge
 - Danger in the Extreme
