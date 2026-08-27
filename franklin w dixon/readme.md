@@ -124,14 +124,14 @@
 - [The Case of the Cosmic Kidnapping](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Cosmic%20Kidnapping.epub)
 - [The Mystery in the Old Mine](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20in%20the%20Old%20Mine.epub)
 - [Carnival of Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Carnival%20of%20Crime.epub)
-- The Robot's Revenge
+- [The Robot's Revenge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Robots%20Revenge.epub)
 - [Mystery with a Dangerous Beat](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20with%20a%20Dangerous%20Beat.epub)
 - [Mystery on Makatunk Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20on%20Makatunk%20Island.epub)
-- Racing to Disaster
-- Reel Thrills
+- [Racing to Disaster](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Racing%20to%20Disaster.epub)
+- [Reel Thrills](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Reel%20Thrills.epub)
 - [Day of the Dinosaur](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Day%20of%20the%20Dinosaur.epub)
-- The Treasure at Dolphin Bay
-- Sidetracked To Danger
+- [The Treasure at Dolphin Bay](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Treasure%20at%20Dolphin%20Bay.epub)
+- [Sidetracked To Danger](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Sidetracked%20to%20Danger.epub)
 - Crusade of the Flaming Sword
 - Maximum Challenge
 - [Crime in the Kennel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crime%20in%20the%20Kennel.epub)
