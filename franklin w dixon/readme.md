@@ -108,14 +108,14 @@
 - Tricks of the Trade
 - [Smoke Screen Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Smoke%20Screen%20Mystery.epub)
 - Attack of the Video Villains
-- Panic on Gull Island
+- [Panic on Gull Island](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Panic%20on%20Gull%20Island.epub)
 - Fear on Wheels
-- The Prime-Time Crime
+- [The Prime-Time Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Prime-Time%20Crime.epub)
 - The Secret of Sigma Seven
 - Three-Ring Terror
 - Demolition Mission
 - Radical Moves
-- The Case of the Counterfeit Criminals
+- [The Case of the Counterfeit Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Counterfeit%20Criminals.epub)
 - Sabotage at Sports City
 - Rock 'N' Roll Renegades
 - The Baseball Card Conspiracy
@@ -134,7 +134,7 @@
 - Sidetracked To Danger
 - Crusade of the Flaming Sword
 - Maximum Challenge
-- Crime in the Kennel
+- [Crime in the Kennel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crime%20in%20the%20Kennel.epub)
 - Cross-Country Crime
 - The Hypersonic Secret
 - The Cold Cash Caper
@@ -155,7 +155,7 @@
 - The Rocky Road to Revenge
 - Danger in the Extreme
 - Eye on Crime
-- The Caribbean Cruise Caper
+- [The Caribbean Cruise Caper](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Caribbean%20Cruise%20Caper.epub)
 - The Hunt for the Four Brothers
 - A Will to Survive
 - The Lure of the Italian Treasure
