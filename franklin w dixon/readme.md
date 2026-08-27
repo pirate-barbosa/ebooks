@@ -88,18 +88,18 @@
 - [Revenge of the Desert Phantom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Revenge%20of%20the%20Desert%20Phantom.epub)
 - [The Skyfire Puzzle](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Skyfire%20Puzzle.epub)
 - [The Mystery of the Silver Star](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20Of%20The%20Silver%20Star.epub)
-- Program for Destruction
+- [Program for Destruction](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Program%20for%20Destruction.epub)
 - [Tricky Business](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Tricky%20Business.epub)
-- Sky Blue Frame
+- [Sky Blue Frame](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Sky%20Blue%20Frame.epub)
 - [Danger on the Diamond](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20the%20Diamond.epub)
 - [Shield of Fear](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Shield%20of%20Fear.epub)
 - [The Shadow Killers](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Shadow%20Killers.epub)
-- The Serpent's Tooth Mystery
-- Breakdown in Axeblade
+- [The Serpent's Tooth Mystery](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Serpents%20Tooth%20Mystery.epub)
+- [Breakdown in Axeblade](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Breakdown%20in%20Axeblade.epub)
 - [Danger on the Air](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20on%20The%20Air.epub)
 - [Wipeout](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Wipeout.epub)
 - [Cast of Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Cast%20of%20Criminals.epub)
-- Spark of Suspicion
+- [Spark of Suspicion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Spark%20of%20Suspicion.epub)
 - [Dungeon of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Dungeon%20of%20Doom.epub)
 - [The Secret of the Island Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Island%20Treasure.epub)
 
