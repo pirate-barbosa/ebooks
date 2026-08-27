@@ -112,7 +112,7 @@
 - [Fear on Wheels](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Fear%20on%20Wheels.epub)
 - [The Prime-Time Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Prime-Time%20Crime.epub)
 - [The Secret of Sigma Seven](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20Sigma%20Seven.epub)
-- Three-Ring Terror
+- [Three-Ring Terror](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Three-ring%20Terror.epub)
 - Demolition Mission
 - [Radical Moves](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Radical%20Moves.epub)
 - [The Case of the Counterfeit Criminals](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Case%20of%20the%20Counterfeit%20Criminals.epub)
