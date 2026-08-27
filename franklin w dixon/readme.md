@@ -102,7 +102,7 @@
 - [Spark of Suspicion](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Spark%20of%20Suspicion.epub)
 - [Dungeon of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Dungeon%20of%20Doom.epub)
 - [The Secret of the Island Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Island%20Treasure.epub)
-
+- [The Money Hunt](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Money%20Hunt.epub)
 
 
 
