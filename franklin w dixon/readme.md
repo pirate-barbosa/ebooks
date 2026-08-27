@@ -185,6 +185,14 @@ Typhoon Island
 Double Jeopardy
 The Secret of the Soldier's Gold
 Warehouse Rumble
+The Dangerous Transmission
+Wreck and Roll
+Hidden Mountain
+No Way Out
+Farming Fear
+One False Step
+Motocross Madness
+
 
 
 
