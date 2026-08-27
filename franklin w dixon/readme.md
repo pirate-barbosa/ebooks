@@ -122,7 +122,7 @@
 - Danger in the Fourth Dimension
 - Trouble at Coyote Canyon
 - The Case of the Cosmic Kidnapping
-- The Mystery in the Old Mine](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20in%20the%20Old%20Mine.epub)
+- [The Mystery in the Old Mine](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Mystery%20in%20the%20Old%20Mine.epub)
 - Carnival of Crime
 - The Robot's Revenge
 - [Mystery with a Dangerous Beat](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Mystery%20with%20a%20Dangerous%20Beat.epub)
@@ -137,11 +137,11 @@
 - Crime in the Kennel
 - Cross-Country Crime
 - The Hypersonic Secret
-The Cold Cash Caper
-High Speed Showdown
-The Alaskan Adventure
-The Search for the Snow Leopard
-Slam Dunk Sabotage
+- The Cold Cash Caper
+- High Speed Showdown
+- The Alaskan Adventure
+- The Search for the Snow Leopard
+- Slam Dunk Sabotage
 - The Desert Thieves
 - Lost in Gator Swamp
 - The Giant Rat of Sumatra
