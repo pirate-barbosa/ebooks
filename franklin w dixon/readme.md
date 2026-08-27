@@ -104,94 +104,94 @@
 - [The Secret of the Island Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Secret%20of%20the%20Island%20Treasure.epub)
 - [The Money Hunt](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Money%20Hunt.epub)
 - Terminal Shock
-The Million Dollar Nightmare
-Tricks of the Trade
-Smoke Screen Mystery
-Attack of the Video Villains
-Panic on Gull Island
-Fear on Wheels
-The Prime-Time Crime
-The Secret of Sigma Seven
-Three-Ring Terror
-Demolition Mission
-Radical Moves
-The Case of the Counterfeit Criminals
-Sabotage at Sports City
-Rock 'N' Roll Renegades
-The Baseball Card Conspiracy
-Danger in the Fourth Dimension
-Trouble at Coyote Canyon
-The Case of the Cosmic Kidnapping
-The Mystery in the Old Mine
-Carnival of Crime
-The Robot's Revenge
-Mystery with a Dangerous Beat
-Mystery on Makatunk Island
-Racing to Disaster
-Reel Thrills
-Day of the Dinosaur
-The Treasure at Dolphin Bay
-Sidetracked To Danger
-Crusade of the Flaming Sword
-Maximum Challenge
-Crime in the Kennel
-Cross-Country Crime
-The Hypersonic Secret
+- The Million Dollar Nightmare
+- Tricks of the Trade
+- Smoke Screen Mystery
+- Attack of the Video Villains
+- Panic on Gull Island
+- Fear on Wheels
+- The Prime-Time Crime
+- The Secret of Sigma Seven
+- Three-Ring Terror
+- Demolition Mission
+- Radical Moves
+- The Case of the Counterfeit Criminals
+- Sabotage at Sports City
+- Rock 'N' Roll Renegades
+- The Baseball Card Conspiracy
+- Danger in the Fourth Dimension
+- Trouble at Coyote Canyon
+- The Case of the Cosmic Kidnapping
+- The Mystery in the Old Mine
+- Carnival of Crime
+- The Robot's Revenge
+- Mystery with a Dangerous Beat
+- Mystery on Makatunk Island
+- Racing to Disaster
+- Reel Thrills
+- Day of the Dinosaur
+- The Treasure at Dolphin Bay
+- Sidetracked To Danger
+- Crusade of the Flaming Sword
+- Maximum Challenge
+- Crime in the Kennel
+- Cross-Country Crime
+- The Hypersonic Secret
 The Cold Cash Caper
 High Speed Showdown
 The Alaskan Adventure
 The Search for the Snow Leopard
 Slam Dunk Sabotage
-The Desert Thieves
-Lost in Gator Swamp
-The Giant Rat of Sumatra
-The Secret of Skeleton Reef
-Terror at High Tide
-The Mark of the Blue Tattoo
-Trial and Terror
-The Ice Cold Case
-The Chase for the Mystery Twister
-The Crisscross Crime
-The Rocky Road to Revenge
-Danger in the Extreme
-Eye on Crime
-The Caribbean Cruise Caper
-The Hunt for the Four Brothers
-A Will to Survive
-The Lure of the Italian Treasure
-The London Deception
-Daredevils
-A Game Called Chaos
-Training for Trouble
-The End of the Trail
-The Spy That Never Lies
-Skin & Bones
-Crime in the Cards
-Past and Present Danger
-Trouble Times Two
-The Castle Conundrum
-Ghost of a Chance
-Kickoff to Danger
-The Test Case
-Trouble in Warp Space
-Speed Times Five
-Hide-and-Sneak
-Trick-or-Trouble
-In Plane Sight
-The Case of the Psychic's Vision
-The Mystery of the Black Rhino
-Passport to Danger
-Typhoon Island
-Double Jeopardy
-The Secret of the Soldier's Gold
-Warehouse Rumble
-The Dangerous Transmission
-Wreck and Roll
-Hidden Mountain
-No Way Out
-Farming Fear
-One False Step
-Motocross Madness
+- The Desert Thieves
+- Lost in Gator Swamp
+- The Giant Rat of Sumatra
+- The Secret of Skeleton Reef
+- Terror at High Tide
+- The Mark of the Blue Tattoo
+- Trial and Terror
+- The Ice Cold Case
+- The Chase for the Mystery Twister
+- The Crisscross Crime
+- The Rocky Road to Revenge
+- Danger in the Extreme
+- Eye on Crime
+- The Caribbean Cruise Caper
+- The Hunt for the Four Brothers
+- A Will to Survive
+- The Lure of the Italian Treasure
+- The London Deception
+- Daredevils
+- A Game Called Chaos
+- Training for Trouble
+- The End of the Trail
+- The Spy That Never Lies
+- Skin & Bones
+- Crime in the Cards
+- Past and Present Danger
+- Trouble Times Two
+- The Castle Conundrum
+- Ghost of a Chance
+- Kickoff to Danger
+- The Test Case
+- Trouble in Warp Space
+- Speed Times Five
+- Hide-and-Sneak
+- Trick-or-Trouble
+- In Plane Sight
+- The Case of the Psychic's Vision
+- The Mystery of the Black Rhino
+- Passport to Danger
+- Typhoon Island
+- Double Jeopardy
+- The Secret of the Soldier's Gold
+- Warehouse Rumble
+- The Dangerous Transmission
+- Wreck and Roll
+- Hidden Mountain
+- No Way Out
+- Farming Fear
+- One False Step
+- Motocross Madness
 
 
 
