@@ -132,13 +132,13 @@
 - [Day of the Dinosaur](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Day%20of%20the%20Dinosaur.epub)
 - [The Treasure at Dolphin Bay](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Treasure%20at%20Dolphin%20Bay.epub)
 - [Sidetracked To Danger](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Sidetracked%20to%20Danger.epub)
-- Crusade of the Flaming Sword
-- Maximum Challenge
+- [Crusade of the Flaming Sword](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crusade%20of%20the%20Flaming%20Sword.epub)
+- [Maximum Challenge](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Maximum%20Challenge.epub)
 - [Crime in the Kennel](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crime%20in%20the%20Kennel.epub)
-- Cross-Country Crime
+- [Cross-Country Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Cross-Country%20Crime.epub)
 - [The Hypersonic Secret](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hypersonic%20Secret.epub)
-- The Cold Cash Caper
-- High Speed Showdown
+- [The Cold Cash Caper](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Cold%20Cash%20Caper.epub)
+- [High Speed Showdown](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/High%20Speed%20Showdown.epub)
 - [The Alaskan Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Alaskan%20Adventure.epub)
 - The Search for the Snow Leopard
 - Slam Dunk Sabotage
