@@ -1,4 +1,4 @@
-## Political Non fiction books
+## Political books
 
 - [Emergency Chronicles - Indira Gandhi and Democracy's Turning Point](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Emergency%20Chronicles%20Indira%20Gandhi%20and%20Democracys%20Turning%20Point.epub) - Gyan Prakash
 - [How the BJP Wins](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/How%20the%20BJP%20Wins.epub) - Prasanth Jha
