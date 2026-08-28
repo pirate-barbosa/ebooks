@@ -160,7 +160,7 @@
 - A Will to Survive
 - [The Lure of the Italian Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Lure%20of%20the%20Italian%20Treasure.epub)
 - The London Deception
-- Daredevils
+- [Daredevils](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Daredevils.epub)
 - A Game Called Chaos
 - Training for Trouble
 - The End of the Trail
