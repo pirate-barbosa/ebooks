@@ -8,7 +8,7 @@
 - [Hindus in Hindu Rashtra Eighth - class Citizens and Victims of State-sanctioned Apartheid](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Hindus%20in%20Hindu%20Rashtra%20Eighth-class%20Citizens%20and%20Victims%20of%20State-sanctioned%20Apartheid.epub) - Anand Ranganathan
 - [Indias First Dictatorship - The Emergency, 1975-77](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Indias%20First%20Dictatorship%20-%20The%20Emergency%2C%201975-77.epub) - Christophe Jaffrelot & Pratinav Anil
 - [China’s India War-Collision Course on the Roof of the World](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/China%E2%80%99s%20India%20War-Collision%20Course%20on%20the%20Roof%20of%20the%20World.epub) - Bertil Linter
-- The Anarchy — William Dalrymple
+- [The Anarchy](https://github.com/pirate-barbosa/ebooks/blob/main/Indian%20History%20%26%20Political/The%20Anarchy-The%20East%20India%20Company%2C%20Corporate%20Violence%2C%20And%20The%20Pillage%20Of%20An%20Empire.epub) — William Dalrymple
 - India, 1707–1857 — Lakshmi Subramanian
 - The Marathas, 1600–1818 — Stewart Gordon
 - [India Conquered](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/India%20Conquered.epub) — Jon Wilson
