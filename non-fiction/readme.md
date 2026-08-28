@@ -1,5 +1,5 @@
 ## Non fiction books
-- [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/self%20help/Atomic%20habits.epub) - James Clear
+- [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) - James Clear
 - [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) - Peter Thiel
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) - Eric Ries
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
