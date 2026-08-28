@@ -1,17 +1,17 @@
 ## Non fiction books
-- [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) - James Clear
-- [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) - Peter Thiel
-- [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) - Eric Ries
+- [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
+- [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
+- [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
-- [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) - Héctor García, Francesc Miralles
+- [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) — Héctor García, Francesc Miralles
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
-- [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) - Babak Nivi, Naval Ravikant 
+- [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
 - [Man's Search for Meaning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Man%E2%80%99s%20Search%20for%20Meaning.epub) — Viktor E. Frankl
-- [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) - Clayton Christensen
-- [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) - Ben Horowitz
-- [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) - Rolf Dobel
+- [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
+- [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) — Ben Horowitz
+- [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) — Rolf Dobel
 - [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
-- [How To Win Friends and Influence People](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/How%20To%20Win%20Friends%20and%20Influence%20People.epub) - Dale Carnegie
-- [Influence-The Psychology of Persuasion](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) - Robert B Cialdini
-- [Chip War - The Fight for the Worlds Most Critical Technology](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) - Chris Miller
-- [Apple in China - The Capture of the Worlds Greatest Company](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) - Patrick McGee
+- [How To Win Friends and Influence People](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/How%20To%20Win%20Friends%20and%20Influence%20People.epub) — Dale Carnegie
+- [Influence-The Psychology of Persuasion](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) — Robert B Cialdini
+- [Chip War - The Fight for the Worlds Most Critical Technology](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
+- [Apple in China - The Capture of the Worlds Greatest Company](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) — Patrick McGee
