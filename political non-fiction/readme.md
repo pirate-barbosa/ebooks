@@ -14,5 +14,5 @@
 - [India Conquered](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/India%20Conquered.epub) — Jon Wilson
 - [The Last Mughal-The Fall of a Dynasty Delhi, 1857](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/The%20Last%20Mughal-The%20Fall%20of%20a%20Dynasty%20Delhi%2C%201857.epub) - William Dalrymple
 - [The Man Who Saved India-Sardar Patel and His Idea of India](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/The%20Man%20Who%20Saved%20India-Sardar%20Patel%20and%20His%20Idea%20of%20India.epub) - Hindol Sengupta
-- [An Era of Darkness](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/An%20Era%20of%20Darkness%20The%20British%20Empire%20in%20India.epub) — Shashi Tharoor
+- [An Era of Darkness](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/An%20Era%20of%20Darkness%20The%20British%20Empire%20in%20India.epub) - Shashi Tharoor
 - [Why I Killed the Mahatma-Understanding Godse’s Defence](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Why%20I%20Killed%20the%20Mahatma-Understanding%20Godse%E2%80%99s%20Defence.epub) - Koenraad Elst
