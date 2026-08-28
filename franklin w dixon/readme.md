@@ -156,9 +156,9 @@
 - [Danger in the Extreme](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Danger%20in%20the%20Extreme.epub)
 - [Eye on Crime](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Eye%20on%20Crime.epub)
 - [The Caribbean Cruise Caper](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Caribbean%20Cruise%20Caper.epub)
-- The Hunt for the Four Brothers
+- [The Hunt for the Four Brothers](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Hunt%20for%20the%20Four%20Brothers.epub)
 - A Will to Survive
-- The Lure of the Italian Treasure
+- [The Lure of the Italian Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Lure%20of%20the%20Italian%20Treasure.epub)
 - The London Deception
 - Daredevils
 - A Game Called Chaos
