@@ -7,3 +7,8 @@
 - [India After Gandhi](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/India%20After%20Gandhi.epub) - Ramachandra Guha
 - [Hindus in Hindu Rashtra Eighth - class Citizens and Victims of State-sanctioned Apartheid](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Hindus%20in%20Hindu%20Rashtra%20Eighth-class%20Citizens%20and%20Victims%20of%20State-sanctioned%20Apartheid.epub) - Anand Ranganathan
 - [Indias First Dictatorship - The Emergency, 1975-77](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Indias%20First%20Dictatorship%20-%20The%20Emergency%2C%201975-77.epub) - Christophe Jaffrelot & Pratinav Anil
+ - The Anarchy — William Dalrymple
+ - India, 1707–1857 — Lakshmi Subramanian
+ - The Marathas, 1600–1818 — Stewart Gordon
+ - India Conquered — Jon Wilson
+ - An Era of Darkness — Shashi Tharoor
