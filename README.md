@@ -68,7 +68,7 @@
 **📚 Non-Fiction**
 - [Non-Fiction](https://github.com/pirate-barbosa/ebooks/tree/main/non-fiction)
 - [Biography](https://github.com/pirate-barbosa/ebooks/tree/main/biography)
-- [Indian History & Political](https://github.com/pirate-barbosa/ebooks/tree/main/political%20non-fiction)
+- [Indian History & Political](https://github.com/pirate-barbosa/ebooks/tree/main/indian%20history%20%26%20political)
 
 
 
