@@ -2,7 +2,8 @@
 - [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
 - [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
-- [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
+- [Sapiens-A Brief History of Humankind](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
+- [Nexus-A Brief History of Information Networks from the Stone Age to AI](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Nexus-A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI.epub) — Yuval Noah Harari
 - [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) — Héctor García, Francesc Miralles
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
 - [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
