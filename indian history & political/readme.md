@@ -16,3 +16,4 @@
 - [The Man Who Saved India-Sardar Patel and His Idea of India](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/The%20Man%20Who%20Saved%20India-Sardar%20Patel%20and%20His%20Idea%20of%20India.epub) - Hindol Sengupta
 - [An Era of Darkness](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/An%20Era%20of%20Darkness%20The%20British%20Empire%20in%20India.epub) - Shashi Tharoor
 - [Why I Killed the Mahatma-Understanding Godse’s Defence](https://github.com/pirate-barbosa/ebooks/blob/main/political%20non-fiction/Why%20I%20Killed%20the%20Mahatma-Understanding%20Godse%E2%80%99s%20Defence.epub) - Koenraad Elst
+- [A History of Ancient and Early Medieval India-From the Stone Age to the 12th Century]() - Upinder Singh
