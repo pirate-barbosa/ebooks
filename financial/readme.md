@@ -8,7 +8,7 @@
 - [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub) — Morgan Housel
 - [Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Financial%20Statements%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports.epub) — Thomas R. Ittelson
 - [The Little Book That Still Beats the Market](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20That%20Still%20Beats%20the%20Market.epub) — Joel Greenblatt
-- [Trade Like a Stock Market Wizard](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Trade%20Like%20a%20Stock%20Market%20Wizard.epub) - Mark Minervini
+- [Trade Like a Stock Market Wizard](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Trade%20Like%20a%20Stock%20Market%20Wizard.epub) — Mark Minervini
 - [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Technical%20Analysis%20of%20the%20Financial%20Markets.epub) — John J. Murphy
 - [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub) — Raghu Palat
 - [Value Investing And Behavioral Finance Insights Into Indian Stock Market Realities](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Value%20Investing%20And%20Behavioral%20Finance%20Insights%20Into%20Indian%20Stock%20Market%20Realities.epub) — Parag Parikh
