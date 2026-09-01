@@ -161,12 +161,12 @@
 - [The Lure of the Italian Treasure](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Lure%20of%20the%20Italian%20Treasure.epub)
 - The London Deception
 - [Daredevils](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Daredevils.epub)
-- A Game Called Chaos
-- Training for Trouble
-- The End of the Trail
-- The Spy That Never Lies
-- Skin & Bones
-- Crime in the Cards
+- [A Game Called Chaos](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/A%20Game%20Called%20Chaos.epub)
+- [Training for Trouble](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Training%20for%20Trouble.epub)
+- [The End of the Trail](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20End%20of%20The%20Trail.epub)
+- [The Spy That Never Lies](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Spy%20That%20Never%20Lies.epub)
+- [Skin & Bones](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Skin%20and%20Bones.epub)
+- [Crime in the Cards](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crime%20in%20the%20Cards.epub)
 - Past and Present Danger
 - Trouble Times Two
 - The Castle Conundrum
