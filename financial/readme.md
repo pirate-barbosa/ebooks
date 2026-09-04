@@ -20,3 +20,4 @@
 - [The Money Guide by Anushka Rathod  How to Manage Your Taxes, Investments, Insurances, Goals and Lifestyle - All at Once](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Money%20Guide%20by%20Anushka%20Rathod%20%20How%20to%20Manage%20Your%20Taxes%2C%20Investments%2C%20Insurances%2C%20Goals%20and%20Lifestyle%20-%20All%20at%20Once.pdf) — Anushka Rathod
 - [The Little Book of Valuation - How to Value a Company, Pick a Stock and Profit](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20of%20Valuation%20-%20How%20to%20Value%20a%20Company%2C%20Pick%20a%20Stock%20and%20Profit.epub) — Aswath Damodaran
 - [Investment Valuation](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Investment%20Valuation.epub) — Aswath Damodaran
+- [51 Trading Strategies - Optimise Your Trades with 51 Time-tested Strategies]() — Aseem Singhal
