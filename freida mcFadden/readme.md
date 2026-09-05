@@ -12,9 +12,9 @@
 
 ### Standalone Thrillers & Other Novels (Chronological)
 
-- Dead Med / Suicide Med (2014)
+- [Suicide Med](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/Suicide%20Med.epub)
 - Baby City (2015)
-- Brain Damage (2016)
+- [Brain Damage](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/Brain%20Damage.epub)
 - The Perfect Son (2020)
 - [The Ex](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Ex.epub)
 - The Surrogate Mother (2020)
