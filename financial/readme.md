@@ -23,4 +23,4 @@
 - [The Little Book of Valuation - How to Value a Company, Pick a Stock and Profit](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20of%20Valuation%20-%20How%20to%20Value%20a%20Company%2C%20Pick%20a%20Stock%20and%20Profit.epub) — Aswath Damodaran
 - [Investment Valuation](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Investment%20Valuation.epub) — Aswath Damodaran
 - [51 Trading Strategies - Optimise Your Trades with 51 Time-tested Strategies](https://github.com/pirate-barbosa/ebooks/blob/main/financial/51%20Trading%20Strategies%20-%20Optimise%20Your%20Trades%20with%2051%20Time-tested%20Strategies.pdf) — Aseem Singhal
-- [Trading Mastermind - Become a Trading Expert From Scratch]() — Zebra Learn
+- [Trading Mastermind - Become a Trading Expert From Scratch](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Trading%20Mastermind%20-%20Become%20a%20Trading%20Expert%20From%20Scratch.pdf) — Zebra Learn
