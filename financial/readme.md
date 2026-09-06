@@ -7,6 +7,7 @@
 - [The Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Intelligent%20Investor%20-Graham%20Benjamin.epub) — Benjamin Graham
 - [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub) — Morgan Housel
 - [Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Financial%20Statements%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports.epub) — Thomas R. Ittelson
+- [100 Baggers - Stocks That Return 100-to-1 and How to Find Them](https://github.com/pirate-barbosa/ebooks/blob/main/financial/100%20Baggers%20-%20Stocks%20That%20Return%20100-to-1%20and%20How%20to%20Find%20Them.epub) — Christopher Mayer
 - [The Little Book That Still Beats the Market](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20That%20Still%20Beats%20the%20Market.epub) — Joel Greenblatt
 - [Trade Like a Stock Market Wizard](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Trade%20Like%20a%20Stock%20Market%20Wizard.epub) — Mark Minervini
 - [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Technical%20Analysis%20of%20the%20Financial%20Markets.epub) — John J. Murphy
