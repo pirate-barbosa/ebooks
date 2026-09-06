@@ -25,7 +25,7 @@
 - Do Not Disturb (2021)
 - Do You Remember? (2022)
 - [The Inmate](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Inmate.epub)
-- Never Lie (2022)
+- [Never Lie](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/Never%20Lie.epub)
 - The Gift (Short Story, 2022)
 - Ward D (2023)
 - [The Coworker](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Coworker.epub)
