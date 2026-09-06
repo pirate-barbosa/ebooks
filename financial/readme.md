@@ -7,9 +7,11 @@
 - [The Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Intelligent%20Investor%20-Graham%20Benjamin.epub) — Benjamin Graham
 - [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub) — Morgan Housel
 - [Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Financial%20Statements%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports.epub) — Thomas R. Ittelson
+- [100 Baggers - Stocks That Return 100-to-1 and How to Find Them](https://github.com/pirate-barbosa/ebooks/blob/main/financial/100%20Baggers%20-%20Stocks%20That%20Return%20100-to-1%20and%20How%20to%20Find%20Them.epub) — Christopher Mayer
 - [The Little Book That Still Beats the Market](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20That%20Still%20Beats%20the%20Market.epub) — Joel Greenblatt
 - [Trade Like a Stock Market Wizard](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Trade%20Like%20a%20Stock%20Market%20Wizard.epub) — Mark Minervini
 - [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Technical%20Analysis%20of%20the%20Financial%20Markets.epub) — John J. Murphy
+- [Mastering the Market Cycle - Getting the Odds on Your Side](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Mastering%20the%20Market%20Cycle%20-%20Getting%20the%20Odds%20on%20Your%20Side.epub) — Howard Marks
 - [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub) — Raghu Palat
 - [Value Investing And Behavioral Finance Insights Into Indian Stock Market Realities](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Value%20Investing%20And%20Behavioral%20Finance%20Insights%20Into%20Indian%20Stock%20Market%20Realities.epub) — Parag Parikh
 - [How to Make Money With Breakout Trading A Simple Stock Market Book for Beginners - The Secret of becoming Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20With%20Breakout%20Trading%20A%20Simple%20Stock%20Market%20Book%20for%20Beginners%20-%20The%20Secret%20of%20becoming%20Intelligent%20Investor.epub) — Indrazith Shantharaj
@@ -20,4 +22,5 @@
 - [The Money Guide by Anushka Rathod  How to Manage Your Taxes, Investments, Insurances, Goals and Lifestyle - All at Once](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Money%20Guide%20by%20Anushka%20Rathod%20%20How%20to%20Manage%20Your%20Taxes%2C%20Investments%2C%20Insurances%2C%20Goals%20and%20Lifestyle%20-%20All%20at%20Once.pdf) — Anushka Rathod
 - [The Little Book of Valuation - How to Value a Company, Pick a Stock and Profit](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20of%20Valuation%20-%20How%20to%20Value%20a%20Company%2C%20Pick%20a%20Stock%20and%20Profit.epub) — Aswath Damodaran
 - [Investment Valuation](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Investment%20Valuation.epub) — Aswath Damodaran
-- [51 Trading Strategies - Optimise Your Trades with 51 Time-tested Strategies]() — Aseem Singhal
+- [51 Trading Strategies - Optimise Your Trades with 51 Time-tested Strategies](https://github.com/pirate-barbosa/ebooks/blob/main/financial/51%20Trading%20Strategies%20-%20Optimise%20Your%20Trades%20with%2051%20Time-tested%20Strategies.pdf) — Aseem Singhal
+- [Trading Mastermind - Become a Trading Expert From Scratch]() — Zebra Learn

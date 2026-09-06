@@ -20,9 +20,10 @@
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 
-
 **🔫 Action, Espionage & Adventure**
+- [Adrian Magson](https://github.com/pirate-barbosa/ebooks/tree/main/adrian%20magson)
 - [Bilal Siddiqi](https://github.com/pirate-barbosa/ebooks/tree/main/bilal%20siddiqi)
+- [Chris Ryan](https://github.com/pirate-barbosa/ebooks/tree/main/chris%20ryan)
 - [Clive Cussler](https://github.com/pirate-barbosa/ebooks/tree/main/clive%20cussler)
 - [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
 - [James Rollins](https://github.com/pirate-barbosa/ebooks/tree/main/james%20rollins)

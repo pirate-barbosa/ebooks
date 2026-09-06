@@ -12,9 +12,9 @@
 
 ### Standalone Thrillers & Other Novels (Chronological)
 
-- Dead Med / Suicide Med (2014)
+- [Suicide Med](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/Suicide%20Med.epub)
 - Baby City (2015)
-- Brain Damage (2016)
+- [Brain Damage](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/Brain%20Damage.epub)
 - The Perfect Son (2020)
 - [The Ex](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Ex.epub)
 - The Surrogate Mother (2020)
@@ -25,7 +25,7 @@
 - Do Not Disturb (2021)
 - Do You Remember? (2022)
 - [The Inmate](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Inmate.epub)
-- Never Lie (2022)
+- [Never Lie](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/Never%20Lie.epub)
 - The Gift (Short Story, 2022)
 - Ward D (2023)
 - [The Coworker](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Coworker.epub)
