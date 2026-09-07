@@ -16,3 +16,5 @@
 - [Influence - The Psychology of Persuasion](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) — Robert B Cialdini
 - [Chip War - The Fight for the Worlds Most Critical Technology](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
 - [Apple in China - The Capture of the Worlds Greatest Company](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) — Patrick McGee
+- [Dont Believe Everything You Think - Why Your Thinking Is the Beginning  End of Suffering](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Dont%20Believe%20Everything%20You%20Think%20-%20Why%20Your%20Thinking%20Is%20the%20Beginning%20%20End%20of%20Suffering.epub) — Joseph Nguyen
+- [The Almanack of Naval Ravikant - A Guide to Wealth and Happiness](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Almanack%20of%20Naval%20Ravikant%20-%20A%20Guide%20to%20Wealth%20and%20Happiness.epub) — Eric Jorgenson
