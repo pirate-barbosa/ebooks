@@ -14,8 +14,8 @@
 ### The Heroes of Olympus Series
  - [The Lost Hero](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Lost%20Hero.epub)
  - [The Son of Neptune](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Son%20of%20Neptune.epub)
- - [The Demigod Diaries]()
- - [The Mark of Athena]()
- - [The House of Hades]()
- - [Percy Jackson's Greek Gods]()
- - [Percy Jackson's Greek Heroes]()
+ - [The Demigod Diaries](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Demigod%20Diaries.epub)
+ - [The Mark of Athena](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Mark%20of%20Athena.epub)
+ - [The House of Hades](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20House%20of%20Hades.epub)
+ - [Percy Jackson's Greek Gods](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/Percy%20Jacksons%20Greek%20Gods.epub)
+ - [Percy Jackson's Greek Heroes](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/Percy%20Jacksons%20Greek%20Heroes.epub)
