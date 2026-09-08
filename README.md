@@ -55,7 +55,7 @@
 **🧙 Fantasy**
 - [J K Rowling](https://github.com/pirate-barbosa/ebooks/tree/main/j%20k%20rowling)
 - [J.R.R Tolkien](https://github.com/pirate-barbosa/ebooks/tree/main/j%20r%20r%20tolkien)
-
+- [Rick Riordan](https://github.com/pirate-barbosa/ebooks/tree/main/rick%20riordan)
 
 **:🔭 Science Fiction**
 - [Andy Weir](https://github.com/pirate-barbosa/ebooks/tree/main/andy%20weir)
