@@ -17,3 +17,4 @@
 - [An Era of Darkness - The British Empire in India](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/An%20Era%20of%20Darkness%20The%20British%20Empire%20in%20India.epub) — Shashi Tharoor
 - [Why I Killed the Mahatma - Understanding Godse’s Defence](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Why%20I%20Killed%20the%20Mahatma-Understanding%20Godse%E2%80%99s%20Defence.epub) — Koenraad Elst
 - [A History of Ancient and Early Medieval India-From the Stone Age to the 12th Century]() — Upinder Singh
+- [Half Lion - How P.V. Narasimha Rao transformed India](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Half%20Lion%20-%20How%20P.V.%20Narasimha%20Rao%20transformed%20India.epub) — Vinay Sitapati
