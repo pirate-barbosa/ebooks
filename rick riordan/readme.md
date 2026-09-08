@@ -9,3 +9,13 @@
 - [The Last Olympian](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Last%20Olympian.epub)
 - [The Chalice of the Gods](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Chalice%20of%20the%20Gods.epub)
 - [Wrath of the Triple Goddess](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/Wrath%20of%20the%20Triple%20Goddess.epub)
+
+
+### The Heroes of Olympus Series
+ - [The Lost Hero]()
+ - [The Son of Neptune]()
+ - [The Demigod Diaries]()
+ - [The Mark of Athena]()
+ - [The House of Hades]()
+ - [Percy Jackson's Greek Gods]()
+ - [Percy Jackson's Greek Heroes]()
