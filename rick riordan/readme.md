@@ -12,8 +12,8 @@
 
 
 ### The Heroes of Olympus Series
- - [The Lost Hero]()
- - [The Son of Neptune]()
+ - [The Lost Hero](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Lost%20Hero.epub)
+ - [The Son of Neptune](https://github.com/pirate-barbosa/ebooks/blob/main/rick%20riordan/The%20Son%20of%20Neptune.epub)
  - [The Demigod Diaries]()
  - [The Mark of Athena]()
  - [The House of Hades]()
