@@ -5,6 +5,7 @@
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
 - [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
+- [Lucy Foley](https://github.com/pirate-barbosa/ebooks/tree/main/lucy%20foley)
 - [Raymond Chandler](https://github.com/pirate-barbosa/ebooks/tree/main/raymond%20chandler)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
@@ -17,7 +18,6 @@
 - [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
 - [James Patterson](https://github.com/pirate-barbosa/ebooks/tree/main/james%20patterson)
 - [Jeffery Deaver](https://github.com/pirate-barbosa/ebooks/tree/main/jeffery%20deaver)
-- [Lucy Foley](https://github.com/pirate-barbosa/ebooks/tree/main/lucy%20foley)
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 
