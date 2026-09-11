@@ -60,6 +60,7 @@
 
 **:🔭 Science Fiction**
 - [Andy Weir](https://github.com/pirate-barbosa/ebooks/tree/main/andy%20weir)
+- [Matt Dinniman](https://github.com/pirate-barbosa/ebooks/tree/main/matt%20dinniman)
 - [Michael Crichton](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20crichton)
 
 **👶 Children's Fiction**
