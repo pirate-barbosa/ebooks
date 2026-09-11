@@ -10,3 +10,4 @@
 - [Onward - How Starbucks Fought for Its Life Without Losing Its Soul](https://github.com/pirate-barbosa/ebooks/blob/main/biography/Onward-How%20Starbucks%20Fought%20for%20Its%20Life%20Without%20Losing%20Its%20Soul.epub) — Howard Schultz
 - [The Everything Store - Jeff Bezos and the Age of Amazon](https://github.com/pirate-barbosa/ebooks/blob/main/biography/The%20Everything%20Store-Jeff%20Bezos%20and%20the%20Age%20of%20Amazon.epub) — Brad Stone
 - [Business Legends - In-Depth Profiles of India's Most Daring and Innovative Enterprenuers](https://github.com/pirate-barbosa/ebooks/blob/main/biography/Business%20Legends.epub) — Gita Piramal
+- [Autobiography of a Yogi](https://github.com/pirate-barbosa/ebooks/blob/main/biography/Autobiography%20of%20a%20Yogi.epub) — Paramahansa Yogananda
