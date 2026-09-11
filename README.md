@@ -12,6 +12,7 @@
 - [Tana French](https://github.com/pirate-barbosa/ebooks/tree/main/tana%20french)
 
 **🕵️ Thriller, Psychological Thriller & Suspense**
+- [Alex Michaelides](https://github.com/pirate-barbosa/ebooks/tree/main/alex%20michaelides)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
 - [Harlan Coben](https://github.com/pirate-barbosa/ebooks/tree/main/harlan%20coben)
