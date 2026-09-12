@@ -13,11 +13,11 @@
 - [Zero 22](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Zero%2022.epub)
 
 ### Agent 21 Series
-- Agent 21
+- [Agent 21](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Agent%2021.epub)
 - Agent 21: Reloaded
 - Codebreaker
-- The Wire
-- Deadfall
+- [The Wire](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/The%20Wire.epub)
+- [Deadfall](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Deadfall.epub)
 - Under Cover
 - Endgame
 
