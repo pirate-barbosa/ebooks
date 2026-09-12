@@ -31,7 +31,7 @@
 - Nobody's Fool (2025)
 
 ### Standalone Novels
-- Play Dead (1990)
+- [Play Dead](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Play%20Dead.epub)
 - Miracle Cure (1991)
 - Tell No One (2001)
 - No Second Chance (2003)
