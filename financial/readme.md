@@ -6,6 +6,7 @@
 - [One Up On Wall Street](https://github.com/pirate-barbosa/ebooks/blob/main/financial/One%20Up%20On%20Wall%20Street.epub) — Peter Lynch
 - [The Intelligent Investor](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Intelligent%20Investor%20-Graham%20Benjamin.epub) — Benjamin Graham
 - [The Psychology of Money](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Psychology%20of%20Money.epub) — Morgan Housel
+- [The Art of Spending Money - Simple Choices for a Richer Life](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Art%20of%20Spending%20Money%20-%20Simple%20Choices%20for%20a%20Richer%20Life.epub) — Morgan Housel
 - [Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Financial%20Statements%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports.epub) — Thomas R. Ittelson
 - [100 Baggers - Stocks That Return 100-to-1 and How to Find Them](https://github.com/pirate-barbosa/ebooks/blob/main/financial/100%20Baggers%20-%20Stocks%20That%20Return%20100-to-1%20and%20How%20to%20Find%20Them.epub) — Christopher Mayer
 - [The Little Book That Still Beats the Market](https://github.com/pirate-barbosa/ebooks/blob/main/financial/The%20Little%20Book%20That%20Still%20Beats%20the%20Market.epub) — Joel Greenblatt
