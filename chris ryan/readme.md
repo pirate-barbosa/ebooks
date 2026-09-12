@@ -22,10 +22,10 @@
 - [Endgame](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Endgame.epub)
 
 ### Strike Back Series
-- Deathlist
-- Shadow Kill
-- Global Strike
-- Red Strike
-- Circle of Death
-- Strike Back
+- [Deathlist](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Deathlist.epub)
+- [Shadow Kill](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Shadow%20Kill.epub)
+- [Global Strike](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Global%20Strike.epub)
+- [Red Strike](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Red%20Strike.epub)
+- [Circle of Death](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Circle%20of%20Death.epub)
+- [Strike Back](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Strike%20Back.epub)
 
