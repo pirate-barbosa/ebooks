@@ -11,3 +11,21 @@
 - [Head Hunters](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Head%20Hunters.epub)
 - [Black Ops](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Black%20Ops.epub)
 - [Zero 22](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Zero%2022.epub)
+
+### Agent 21 Series
+- Agent 21
+- Agent 21: Reloaded
+- Codebreaker
+- The Wire
+- Deadfall
+- Under Cover
+- Endgame
+
+### Strike Back Series
+- Deathlist
+- Shadow Kill
+- Global Strike
+- Red Strike
+- Circle of Death
+- Strike Back
+
