@@ -35,5 +35,5 @@
 - The Crash (2025)
 - [The Tenant](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Tenant.epub)
 - Death Row (Short Story, 2025)
-- The Intruder (2025)
+- [The Intruder](https://github.com/pirate-barbosa/ebooks/blob/main/freida%20mcFadden/The%20Intruder.epub)
 - Dear Debbie (2026)
