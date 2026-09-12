@@ -14,12 +14,12 @@
 
 ### Agent 21 Series
 - [Agent 21](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Agent%2021.epub)
-- Agent 21: Reloaded
-- Codebreaker
+- [Reloaded](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Reloaded.epub)
+- [Codebreaker](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Codebreaker.epub)
 - [The Wire](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/The%20Wire.epub)
 - [Deadfall](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Deadfall.epub)
-- Under Cover
-- Endgame
+- [Under Cover](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Under%20Cover.epub)
+- [Endgame](https://github.com/pirate-barbosa/ebooks/blob/main/chris%20ryan/Endgame.epub)
 
 ### Strike Back Series
 - Deathlist
