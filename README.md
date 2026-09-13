@@ -13,6 +13,7 @@
 
 **🕵️ Thriller, Psychological Thriller & Suspense**
 - [Alex Michaelides](https://github.com/pirate-barbosa/ebooks/tree/main/alex%20michaelides)
+- [Alice Feeney](https://github.com/pirate-barbosa/ebooks/tree/main/alice%20feeney)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
 - [Harlan Coben](https://github.com/pirate-barbosa/ebooks/tree/main/harlan%20coben)
