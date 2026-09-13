@@ -8,7 +8,7 @@
 - [The Mysterious Affair of Judith Potts](https://github.com/pirate-barbosa/ebooks/blob/main/robert%20thorogood/The%20Mysterious%20Affair%20of%20Judith%20Potts.epub)
 
 ### Death in Paradise Series
-- A Meditation on Murder
-- The Killing of Polly Carter
-- Death Knocks Twice
-- Murder in the Caribbean
+- [A Meditation on Murder](https://github.com/pirate-barbosa/ebooks/blob/main/robert%20thorogood/A%20Meditation%20on%20Murder.epub)
+- [The Killing of Polly Carter](https://github.com/pirate-barbosa/ebooks/blob/main/robert%20thorogood/The%20Killing%20of%20Polly%20Carter.epub)
+- [Death Knocks Twice](https://github.com/pirate-barbosa/ebooks/blob/main/robert%20thorogood/Death%20Knocks%20Twice.epub)
+- [Murder in the Caribbean](https://github.com/pirate-barbosa/ebooks/blob/main/robert%20thorogood/Murder%20in%20the%20Caribbean.epub)
