@@ -70,6 +70,7 @@
 **👶 Children's Fiction**
 - [Enid Blyton](https://github.com/pirate-barbosa/ebooks/tree/main/enid%20blyton)
 - [Franklin W Dixon](https://github.com/pirate-barbosa/ebooks/tree/main/franklin%20w%20dixon)
+- [Lauren Magaziner](https://github.com/pirate-barbosa/ebooks/tree/main/lauren%20magaziner)
 - [Lena Jones](https://github.com/pirate-barbosa/ebooks/tree/main/lena%20jones)
 
 **📚 Non-Fiction**
