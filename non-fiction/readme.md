@@ -1,25 +1,25 @@
 ## Non fiction books
-- [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
-- [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
-- [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
-- [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
-- [Nexus](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Nexus-A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI.epub) — Yuval Noah Harari
-- [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) — Héctor García, Francesc Miralles
-- [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
-- [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
-- [Man's Search for Meaning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Man%E2%80%99s%20Search%20for%20Meaning.epub) — Viktor E. Frankl
-- [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
-- [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) — Ben Horowitz
-- [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) — Rolf Dobel
-- [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
-- [How To Win Friends and Influence People](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/How%20To%20Win%20Friends%20and%20Influence%20People.epub) — Dale Carnegie
-- [Influence](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) — Robert B Cialdini
-- [Chip War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
 - [Apple in China](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) — Patrick McGee
+- [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
+- [Chip War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
 - [Dont Believe Everything You Think](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Dont%20Believe%20Everything%20You%20Think%20-%20Why%20Your%20Thinking%20Is%20the%20Beginning%20%20End%20of%20Suffering.epub) — Joseph Nguyen
-- [The Almanack of Naval Ravikant](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Almanack%20of%20Naval%20Ravikant%20-%20A%20Guide%20to%20Wealth%20and%20Happiness.epub) — Eric Jorgenson
-- [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
 - [Dopamine Detox](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Dopamine%20Detox%20-%20A%20Short%20Guide%20to%20Remove%20Distractions%20and%20Get%20Your%20Brain%20to%20Do%20Hard%20Things.epub) — Thibaut Meurisse
+- [How To Win Friends and Influence People](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/How%20To%20Win%20Friends%20and%20Influence%20People.epub) — Dale Carnegie
+- [Ikigai](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Ikigai.epub) — Héctor García, Francesc Miralles
 - [Indias Most Fearless](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Indias%20Most%20Fearless.epub) — Shiv Aroor, Rahul Singh
 - [Indias Most Fearless 2](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Indias%20Most%20Fearless%202.epub) — Shiv Aroor, Rahul Singh
 - [Indias Most Fearless 3](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Indias%20Most%20Fearless%203.epub) — Shiv Aroor, Rahul Singh
+- [Influence](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) — Robert B Cialdini
+- [Man's Search for Meaning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Man%E2%80%99s%20Search%20for%20Meaning.epub) — Viktor E. Frankl
+- [Nexus](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Nexus-A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI.epub) — Yuval Noah Harari
+- [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
+- [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
+- [The Almanack of Naval Ravikant](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Almanack%20of%20Naval%20Ravikant%20-%20A%20Guide%20to%20Wealth%20and%20Happiness.epub) — Eric Jorgenson
+- [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) — Rolf Dobel
+- [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) — Ben Horowitz
+- [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
+- [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
+- [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
+- [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
+- [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
+- [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
