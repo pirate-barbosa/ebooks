@@ -26,8 +26,8 @@
 
 
 ### Standalone
-- Amazonia
-- Subterranean
-- Deep Fathom
-- Ice Hunt
-- Excavation
+- [Amazonia](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Amazonia.epub)
+- [Subterranean](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Subterranean.epub)
+- [Deep Fathom](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Deep%20Fathom.epub)
+- [Ice Hunt](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Ice%20Hunt.epub)
+- [Excavation](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Excavation.epub)
