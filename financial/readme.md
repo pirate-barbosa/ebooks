@@ -1,4 +1,5 @@
 ## Financial books
+- [Rich Dad Poor Dad](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Rich%20Dad%20Poor%20Dad.epub) — Robert T.Kiyosaki
 - [A Random Walk Down Wall Street The Time-Tested Strategy for Successful Investing](https://github.com/pirate-barbosa/ebooks/blob/main/financial/A%20Random%20Walk%20Down%20Wall%20Street%20The%20Time-Tested%20Strategy%20for%20Successful%20Investing.epub) — Burton Malkiel
 - [Coffee Can Investing The Low Risk Road to Stupendous Wealth](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Coffee%20Can%20Investing%20The%20Low%20Risk%20Road%20to%20Stupendous%20Wealth.epub) — Pranab Uniyal, Rakshit Ranjan, and Saurabh Mukherjea
 - [How to Make Money in Stocks - A Winning System in Good Times And Bad](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20in%20Stocks%20-%20A%20Winning%20System%20in%20Good%20Times%20and%20Bad%204th%20edition%202009.epub) — William J. O'Neil
