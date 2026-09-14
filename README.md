@@ -42,14 +42,14 @@
 
 **❤️ Romance**
 - [Ali Hazelwood](https://github.com/pirate-barbosa/ebooks/tree/main/ali%20hazelwood)
-- [Chetan Bhagat](https://github.com/pirate-barbosa/ebooks/tree/main/chetan%20bhagat)
 - [Elle Kennedy](https://github.com/pirate-barbosa/ebooks/tree/main/elle%20kennedy)
 - [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 
-**:⏰ Contemporary Fiction**
+**⏰ Contemporary Fiction**
+- [Chetan Bhagat](https://github.com/pirate-barbosa/ebooks/tree/main/chetan%20bhagat)
 - [Fredrik Backman](https://github.com/pirate-barbosa/ebooks/tree/main/fredrik%20backman)
 
-**:🇮🇳 Indian Mythology, Historical & Mythological Fiction**
+**🇮🇳 Indian Mythology, Historical & Mythological Fiction**
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
 - [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
