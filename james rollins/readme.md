@@ -23,3 +23,11 @@
 - [Tides of Fire](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Tides%20of%20Fire.epub)
 - [Arkangel](https://github.com/pirate-barbosa/ebooks/blob/main/james%20rollins/Arkangel.epub)
 - The Jaws of Hell (2026)
+
+
+### Standalone
+- Amazonia
+- Subterranean
+- Deep Fathom
+- Ice Hunt
+- Excavation
