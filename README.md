@@ -1,6 +1,7 @@
 ## Authors/Category list
 
 **🔎 Mystery, Crime & Detective Fiction**
+- [Abir Mukherjee](https://github.com/pirate-barbosa/ebooks/tree/main/abir%20mukherjee)
 - [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
