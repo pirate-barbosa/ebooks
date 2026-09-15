@@ -9,4 +9,4 @@
 
 
 ### Standalone books
-- The Karachi Deception
+- [The Karachi Deception](https://github.com/pirate-barbosa/ebooks/blob/main/shatrujeet%20nath/The%20Karachi%20Deception.epub)
