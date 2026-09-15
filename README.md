@@ -11,6 +11,7 @@
 - [Robert Thorogood](https://github.com/pirate-barbosa/ebooks/tree/main/robert%20thorogood)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
 - [Tana French](https://github.com/pirate-barbosa/ebooks/tree/main/tana%20french)
+- [Vaseem Khan](https://github.com/pirate-barbosa/ebooks/tree/main/vaseem%20khan)
 
 **🕵️ Thriller, Psychological Thriller & Suspense**
 - [Alex Michaelides](https://github.com/pirate-barbosa/ebooks/tree/main/alex%20michaelides)
