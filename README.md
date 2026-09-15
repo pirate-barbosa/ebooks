@@ -56,6 +56,7 @@
 - [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
 - [Kevin Missal](https://github.com/pirate-barbosa/ebooks/tree/main/kevin%20missal)
+- [Shatrujeet Nath](https://github.com/pirate-barbosa/ebooks/tree/main/shatrujeet%20nath)
 
 **🏛️ Literary & Historical Fiction**
 - [Khaled Hosseini](https://github.com/pirate-barbosa/ebooks/blob/main/khaled%20hosseini)
