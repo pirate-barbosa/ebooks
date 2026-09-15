@@ -8,3 +8,10 @@
 - City of Destruction
 - The Edge of Darkness
 - The Last Shot
+
+### Baby Ganesh Agency Investigation Series
+- The Unexpected Inheritance of Inspector Chopra
+- The Perplexing Theft of the Jewel in the Crown
+- The Strange Disappearance of a Bollywood Star
+- Murder at the Grand Raj Palace
+- Bad Day at the Vulture Club
