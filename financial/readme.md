@@ -4,6 +4,7 @@
 - [51 Trading Strategies](https://github.com/pirate-barbosa/ebooks/blob/main/financial/51%20Trading%20Strategies%20-%20Optimise%20Your%20Trades%20with%2051%20Time-tested%20Strategies.pdf) — Aseem Singhal, Zebra Learn
 - [A Random Walk Down Wall Street The Time](https://github.com/pirate-barbosa/ebooks/blob/main/financial/A%20Random%20Walk%20Down%20Wall%20Street%20The%20Time-Tested%20Strategy%20for%20Successful%20Investing.epub) — Burton Malkiel
 - [Coffee Can Investing](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Coffee%20Can%20Investing%20The%20Low%20Risk%20Road%20to%20Stupendous%20Wealth.epub) — Pranab Uniyal, Rakshit Ranjan, and Saurabh Mukherjea
+- [Common Stocks Uncommon Profits](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Common%20Stocks%20and%20Uncommon%20Profits.epub) — Philip A.Fisher
 - [Financial Statements](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Financial%20Statements%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports.epub) — Thomas R. Ittelson
 - [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub) — Raghu Palat
 - [How to Make Money With Breakout Trading](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20With%20Breakout%20Trading%20A%20Simple%20Stock%20Market%20Book%20for%20Beginners%20-%20The%20Secret%20of%20becoming%20Intelligent%20Investor.epub) — Indrazith Shantharaj
