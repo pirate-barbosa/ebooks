@@ -14,6 +14,7 @@
 - [Influence](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) — Robert B Cialdini
 - [Man's Search for Meaning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Man%E2%80%99s%20Search%20for%20Meaning.epub) — Viktor E. Frankl
 - [Narcotopia](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Narcotopia.epub) — Patrick Winn
+- [The New Map](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/New%20Map.epub) — Daniel Yergin
 - [Nexus](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Nexus-A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI.epub) — Yuval Noah Harari
 - [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
 - [Prisoners of Geography](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Prisoners%20of%20Geography.epub) — Tim Marshall
