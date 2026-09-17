@@ -23,6 +23,7 @@
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
 - [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
 - [The World for Sale](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20for%20Sale.epub) — Javier Blas & Jack farchy
+- [The Prize](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20prize.epub) — Daniel Yergin
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
 - [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
 - [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
