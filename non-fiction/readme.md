@@ -2,6 +2,7 @@
 - [Apple in China](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) — Patrick McGee
 - [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
 - [Chip War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
+- [Currency Wars](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Currency%20Wars.epub) — James Rickards
 - [Dont Believe Everything You Think](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Dont%20Believe%20Everything%20You%20Think%20-%20Why%20Your%20Thinking%20Is%20the%20Beginning%20%20End%20of%20Suffering.epub) — Joseph Nguyen
 - [Dopamine Detox](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Dopamine%20Detox%20-%20A%20Short%20Guide%20to%20Remove%20Distractions%20and%20Get%20Your%20Brain%20to%20Do%20Hard%20Things.epub) — Thibaut Meurisse
 - [Guns, Germs and Steel](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Guns%2C%20Germs%2C%20and%20Steel.epub) — Jared Diamond
