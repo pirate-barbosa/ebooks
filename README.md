@@ -35,6 +35,7 @@
 - [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
 - [James Rollins](https://github.com/pirate-barbosa/ebooks/tree/main/james%20rollins)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
+- [Mark Greaney](https://github.com/pirate-barbosa/ebooks/tree/main/mark%20greaney)
 - [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
 - [Robert Ludlum](https://github.com/pirate-barbosa/ebooks/tree/main/robert%20ludlum)
 
