@@ -18,6 +18,7 @@
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
 - [The Almanack of Naval Ravikant](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Almanack%20of%20Naval%20Ravikant%20-%20A%20Guide%20to%20Wealth%20and%20Happiness.epub) — Eric Jorgenson
 - [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) — Rolf Dobel
+- [The Death of Money](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Death%20of%20Money.epub) — James Rickards
 - [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) — Ben Horowitz
 - [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
