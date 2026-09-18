@@ -14,4 +14,3 @@
 - [Extreme Measures](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Extreme%20Measures.epub)
 - Pursuit of Honor
 - The Last Man
-- The Survivor
