@@ -81,6 +81,7 @@
 - [Franklin W Dixon](https://github.com/pirate-barbosa/ebooks/tree/main/franklin%20w%20dixon)
 - [Lauren Magaziner](https://github.com/pirate-barbosa/ebooks/tree/main/lauren%20magaziner)
 - [Lena Jones](https://github.com/pirate-barbosa/ebooks/tree/main/lena%20jones)
+- [R L Stine](https://github.com/pirate-barbosa/ebooks/tree/main/r%20l%20stine)
 - [Robin Stevens](https://github.com/pirate-barbosa/ebooks/tree/main/robin%20stevens)
 
 **📚 Non-Fiction**
