@@ -167,11 +167,11 @@
 - [The Spy That Never Lies](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Spy%20That%20Never%20Lies.epub)
 - [Skin & Bones](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Skin%20and%20Bones.epub)
 - [Crime in the Cards](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Crime%20in%20the%20Cards.epub)
-- Past and Present Danger
-- Trouble Times Two
-- The Castle Conundrum
-- Ghost of a Chance
-- Kickoff to Danger
+- [Past and Present Danger](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Past%20and%20Present%20Danger.epub)
+- [Trouble Times Two](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Trouble%20Times%20Two.epub)
+- [The Castle Conundrum](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/The%20Castle%20Conundrum.epub)
+- [Ghost of a Chance](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Ghost%20of%20a%20Chance.epub)
+- [Kickoff to Danger](https://github.com/pirate-barbosa/ebooks/blob/main/franklin%20w%20dixon/Kickoff%20to%20Danger.epub)
 - The Test Case
 - Trouble in Warp Space
 - Speed Times Five
