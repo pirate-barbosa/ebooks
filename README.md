@@ -38,7 +38,7 @@
 - [Mark Greaney](https://github.com/pirate-barbosa/ebooks/tree/main/mark%20greaney)
 - [Matthew Reilly](https://github.com/pirate-barbosa/ebooks/tree/main/matthew%20reilly)
 - [Robert Ludlum](https://github.com/pirate-barbosa/ebooks/tree/main/robert%20ludlum)
-
+- [Vince Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/vince%20flynn)
 
 **⚖️ Legal Thriller**
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
