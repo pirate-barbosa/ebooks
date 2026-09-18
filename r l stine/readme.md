@@ -10,7 +10,7 @@
 - [Night of the Living Dummy](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Night%20of%20the%20Living%20Dummy.epub)
 - [The Girl Who Cried Monster](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Girl%20Who%20Cried%20Monster.epub)
 - [Welcome to Camp Nightmare](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Welcome%20to%20Camp%20Nightmare.epub)
-- The Ghost Next Door
+- [The Ghost Next Door](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Ghost%20Next%20Door.epub)
 - [The Haunted Mask](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Haunted%20Mask.epub)
 - [Be Careful What You Wish For...](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Be%20Careful%20What%20You%20Wish%20For.epub)
 - Piano Lessons Can Be Murder
