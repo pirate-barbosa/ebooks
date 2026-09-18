@@ -6,13 +6,13 @@
 - [Monster Blood](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Monster%20Blood.epub)
 - [Say Cheese and Die!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Say%20Cheese%20and%20Die.epub)
 - [The Curse of the Mummy's Tomb](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Curse%20of%20the%20Mummys%20Tomb.epub)
-- Let's Get Invisible!
+- [Let's Get Invisible!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Lets%20Get%20Invisible.epub)
 - [Night of the Living Dummy](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Night%20of%20the%20Living%20Dummy.epub)
-- The Girl Who Cried Monster
-- Welcome to Camp Nightmare
+- [The Girl Who Cried Monster](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Girl%20Who%20Cried%20Monster.epub)
+- [Welcome to Camp Nightmare](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Welcome%20to%20Camp%20Nightmare.epub)
 - The Ghost Next Door
-- The Haunted Mask
-- Be Careful What You Wish For...
+- [The Haunted Mask](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Haunted%20Mask.epub)
+- [Be Careful What You Wish For...](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Be%20Careful%20What%20You%20Wish%20For.epub)
 - Piano Lessons Can Be Murder
 - The Werewolf of Fever Swamp
 - You Can't Scare Me!
