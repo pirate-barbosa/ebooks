@@ -9,8 +9,8 @@
 - [Executive Power](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Executive%20Power.epub)
 - [Memorial Day](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Memorial%20Day.epub)
 - [Consent to Kill](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Consent%20to%20Kill.epub)
-- Act of Treason
-- Protect and Defend
+- [Act of Treason](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Act%20of%20Treason.epub)
+- [Protect and Defend](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Protect%20and%20Defend.epub)
 - [Extreme Measures](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Extreme%20Measures.epub)
-- Pursuit of Honor
+- [Pursuit of Honor](https://github.com/pirate-barbosa/ebooks/blob/main/vince%20flynn/Pursuit%20of%20Honor.epub)
 - The Last Man
