@@ -1,10 +1,10 @@
 ## R L Stine books
 
 ### Goosebumps Series
-- Welcome to Dead House
+- [Welcome to Dead House](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Welcome%20to%20Dead%20House.epub)
 - Stay Out of the Basement
 - Monster Blood
-- Say Cheese and Die!
+- [Say Cheese and Die!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Say%20Cheese%20and%20Die.epub)
 - The Curse of the Mummy's Tomb
 - Let's Get Invisible!
 - Night of the Living Dummy
