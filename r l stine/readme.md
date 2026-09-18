@@ -2,12 +2,12 @@
 
 ### Goosebumps Series
 - [Welcome to Dead House](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Welcome%20to%20Dead%20House.epub)
-- Stay Out of the Basement
-- Monster Blood
+- [Stay Out of the Basement](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Stay%20Out%20of%20the%20Basement.epub)
+- [Monster Blood](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Monster%20Blood.epub)
 - [Say Cheese and Die!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Say%20Cheese%20and%20Die.epub)
-- The Curse of the Mummy's Tomb
+- [The Curse of the Mummy's Tomb](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Curse%20of%20the%20Mummys%20Tomb.epub)
 - Let's Get Invisible!
-- Night of the Living Dummy
+- [Night of the Living Dummy](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Night%20of%20the%20Living%20Dummy.epub)
 - The Girl Who Cried Monster
 - Welcome to Camp Nightmare
 - The Ghost Next Door
