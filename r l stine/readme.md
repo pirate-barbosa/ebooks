@@ -1,0 +1,65 @@
+## R L Stine books
+
+### Goosebumps Series
+- Welcome to Dead House
+- Stay Out of the Basement
+- Monster Blood
+- Say Cheese and Die!
+- The Curse of the Mummy's Tomb
+- Let's Get Invisible!
+- Night of the Living Dummy
+- The Girl Who Cried Monster
+- Welcome to Camp Nightmare
+- The Ghost Next Door
+- The Haunted Mask
+- Be Careful What You Wish For...
+- Piano Lessons Can Be Murder
+- The Werewolf of Fever Swamp
+- You Can't Scare Me!
+- One Day at Horrorland
+- Why I'm Afraid of Bees
+- Monster Blood II
+- Deep Trouble
+- The Scarecrow Walks at Midnight
+- Go Eat Worms!
+- Ghost Beach
+- Return of the Mummy
+- Phantom of the Auditorium
+- Attack of the Mutant
+- My Hairiest Adventure
+- A Night in Terror Tower
+- The Cuckoo Clock of Doom
+- Monster Blood III
+- It Came from Beneath the Sink!
+- Night of the Living Dummy II
+- The Barking Ghost
+- The Horror at Camp Jellyjam
+- Revenge of the Lawn Gnomes
+- A Shocker on Shock Street
+- The Haunted Mask II
+- The Headless Ghost
+- The Abominable Snowman of Pasadena
+- How I Got My Shrunken Head
+- Night of the Living Dummy III
+- Bad Hare Day
+- Egg Monsters from Mars
+- The Beast from the East
+- Say Cheese and Die-Again!
+- Ghost Camp
+- How to Kill a Monster
+- Legend of the Lost Legend
+- Attack of the Jack-O'-Lanterns
+- Vampire Breath
+- Calling All Creeps!
+- Beware, the Snowman
+- How I Learned to Fly
+- Chicken Chicken
+- Don't Go to Sleep!
+- The Blob That Ate Everyone
+- The Curse of Camp Cold Lake
+- My Best Friend Is Invisible
+- Deep Trouble II
+- The Haunted School
+- Werewolf Skin
+- I Live in Your Basement!
+- Monster Blood IV
