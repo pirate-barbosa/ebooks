@@ -36,12 +36,12 @@
 - [The Horror at Camp Jellyjam](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Horror%20at%20Camp%20Jellyjam.epub)
 - [Revenge of the Lawn Gnomes](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Revenge%20of%20the%20Lawn%20Gnomes.epub)
 - [A Shocker on Shock Street](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/A%20Shocker%20on%20Shock%20Street.epub)
-- The Haunted Mask II
-- The Headless Ghost
-- The Abominable Snowman of Pasadena
-- How I Got My Shrunken Head
+- [The Haunted Mask II](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Haunted%20Mask%20II.epub)
+- [The Headless Ghost](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Headless%20Ghost.epub)
+- [The Abominable Snowman of Pasadena](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Abominable%20Snowman%20of%20Pasadena.epub)
+- [How I Got My Shrunken Head](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/How%20I%20Got%20My%20Shrunken%20Head.epub)
 - [Night of the Living Dummy III](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Night%20of%20the%20Living%20Dummy%20III.epub)
-- Bad Hare Day
+- [Bad Hare Day](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Bad%20Hare%20Day.epub)
 - Egg Monsters from Mars
 - The Beast from the East
 - Say Cheese and Die-Again!
