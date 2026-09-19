@@ -31,11 +31,11 @@
 - [The Cuckoo Clock of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Cuckoo%20Clock%20of%20Doom.epub)
 - [Monster Blood III](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Monster%20Blood%20III.epub)
 - [It Came from Beneath the Sink!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/It%20Came%20from%20Beneath%20the%20Sink.epub)
-- Night of the Living Dummy II
-- The Barking Ghost
-- The Horror at Camp Jellyjam
-- Revenge of the Lawn Gnomes
-- A Shocker on Shock Street
+- [Night of the Living Dummy II](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Night%20of%20the%20Living%20Dummy%20II.epub)
+- [The Barking Ghost](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Barking%20Ghost.epub)
+- [The Horror at Camp Jellyjam](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Horror%20at%20Camp%20Jellyjam.epub)
+- [Revenge of the Lawn Gnomes](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Revenge%20of%20the%20Lawn%20Gnomes.epub)
+- [A Shocker on Shock Street](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/A%20Shocker%20on%20Shock%20Street.epub)
 - The Haunted Mask II
 - The Headless Ghost
 - The Abominable Snowman of Pasadena
