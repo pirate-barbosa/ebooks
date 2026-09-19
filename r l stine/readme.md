@@ -40,7 +40,7 @@
 - The Headless Ghost
 - The Abominable Snowman of Pasadena
 - How I Got My Shrunken Head
-- Night of the Living Dummy III
+- [Night of the Living Dummy III](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Night%20of%20the%20Living%20Dummy%20III.epub)
 - Bad Hare Day
 - Egg Monsters from Mars
 - The Beast from the East
