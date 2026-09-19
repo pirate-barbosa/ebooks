@@ -26,7 +26,7 @@
 - [Return of the Mummy](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Return%20of%20the%20Mummy.epub)
 - [Phantom of the Auditorium](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Phantom%20of%20the%20Auditorium.epub)
 - [Attack of the Mutant](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Attack%20of%20the%20Mutant.epub)
-- My Hairiest Adventure
+- [My Hairiest Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/My%20Hairiest%20Adventure.epub)
 - [A Night in Terror Tower](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/A%20Night%20in%20Terror%20Tower.epub)
 - The Cuckoo Clock of Doom
 - Monster Blood III
