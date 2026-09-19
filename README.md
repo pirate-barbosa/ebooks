@@ -24,6 +24,7 @@
 - [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
 - [James Patterson](https://github.com/pirate-barbosa/ebooks/tree/main/james%20patterson)
 - [Jeffery Deaver](https://github.com/pirate-barbosa/ebooks/tree/main/jeffery%20deaver)
+- [Lisa Jewell](https://github.com/pirate-barbosa/ebooks/tree/main/lisa%20jewell)
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 
