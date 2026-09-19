@@ -23,11 +23,11 @@
 - [The Scarecrow Walks at Midnight](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Scarecrow%20Walks%20at%20Midnight.epub)
 - [Go Eat Worms!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Go%20Eat%20Worms.epub)
 - [Ghost Beach](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Ghost%20Beach.epub)
-- Return of the Mummy
-- Phantom of the Auditorium
-- Attack of the Mutant
+- [Return of the Mummy](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Return%20of%20the%20Mummy.epub)
+- [Phantom of the Auditorium](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Phantom%20of%20the%20Auditorium.epub)
+- [Attack of the Mutant](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Attack%20of%20the%20Mutant.epub)
 - My Hairiest Adventure
-- A Night in Terror Tower
+- [A Night in Terror Tower](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/A%20Night%20in%20Terror%20Tower.epub)
 - The Cuckoo Clock of Doom
 - Monster Blood III
 - It Came from Beneath the Sink!
