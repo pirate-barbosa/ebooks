@@ -19,10 +19,10 @@
 - [One Day at Horrorland](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/One%20Day%20at%20Horrorland.epub)
 - [Why I'm Afraid of Bees](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Why%20Im%20Afraid%20of%20Bees.epub)
 - Monster Blood II
-- Deep Trouble
-- The Scarecrow Walks at Midnight
-- Go Eat Worms!
-- Ghost Beach
+- [Deep Trouble](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Deep%20Trouble.epub)
+- [The Scarecrow Walks at Midnight](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Scarecrow%20Walks%20at%20Midnight.epub)
+- [Go Eat Worms!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Go%20Eat%20Worms.epub)
+- [Ghost Beach](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Ghost%20Beach.epub)
 - Return of the Mummy
 - Phantom of the Auditorium
 - Attack of the Mutant
