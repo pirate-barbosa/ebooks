@@ -13,11 +13,11 @@
 - [The Ghost Next Door](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Ghost%20Next%20Door.epub)
 - [The Haunted Mask](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Haunted%20Mask.epub)
 - [Be Careful What You Wish For...](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Be%20Careful%20What%20You%20Wish%20For.epub)
-- Piano Lessons Can Be Murder
-- The Werewolf of Fever Swamp
-- You Can't Scare Me!
-- One Day at Horrorland
-- Why I'm Afraid of Bees
+- [Piano Lessons Can Be Murder](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Piano%20Lessons%20Can%20Be%20Murder.epub)
+- [The Werewolf of Fever Swamp](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Werewolf%20of%20Fever%20Swamp.epub)
+- [You Can't Scare Me!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/You%20Cant%20Scare%20Me.epub)
+- [One Day at Horrorland](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/One%20Day%20at%20Horrorland.epub)
+- [Why I'm Afraid of Bees](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Why%20Im%20Afraid%20of%20Bees.epub)
 - Monster Blood II
 - Deep Trouble
 - The Scarecrow Walks at Midnight
