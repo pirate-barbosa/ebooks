@@ -28,9 +28,9 @@
 - [Attack of the Mutant](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Attack%20of%20the%20Mutant.epub)
 - [My Hairiest Adventure](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/My%20Hairiest%20Adventure.epub)
 - [A Night in Terror Tower](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/A%20Night%20in%20Terror%20Tower.epub)
-- The Cuckoo Clock of Doom
-- Monster Blood III
-- It Came from Beneath the Sink!
+- [The Cuckoo Clock of Doom](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Cuckoo%20Clock%20of%20Doom.epub)
+- [Monster Blood III](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Monster%20Blood%20III.epub)
+- [It Came from Beneath the Sink!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/It%20Came%20from%20Beneath%20the%20Sink.epub)
 - Night of the Living Dummy II
 - The Barking Ghost
 - The Horror at Camp Jellyjam
