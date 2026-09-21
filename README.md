@@ -48,6 +48,7 @@
 
 **❤️ Romance**
 - [Ali Hazelwood](https://github.com/pirate-barbosa/ebooks/tree/main/ali%20hazelwood)
+- [Colleen Hoover](https://github.com/pirate-barbosa/ebooks/tree/main/colleen%20hoover)
 - [Elle Kennedy](https://github.com/pirate-barbosa/ebooks/tree/main/elle%20kennedy)
 - [Emily Henry](https://github.com/pirate-barbosa/ebooks/tree/main/emily%20henry)
 
