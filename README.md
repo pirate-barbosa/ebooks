@@ -36,6 +36,7 @@
 - [Chris Ryan](https://github.com/pirate-barbosa/ebooks/tree/main/chris%20ryan)
 - [Clive Cussler](https://github.com/pirate-barbosa/ebooks/tree/main/clive%20cussler)
 - [Dan Brown](https://github.com/pirate-barbosa/ebooks/tree/main/dan%20brown)
+- [Jack Carr](https://github.com/pirate-barbosa/ebooks/tree/main/jack%20carr)
 - [James Rollins](https://github.com/pirate-barbosa/ebooks/tree/main/james%20rollins)
 - [Lee Child](https://github.com/pirate-barbosa/ebooks/tree/main/lee%20child)
 - [Mark Greaney](https://github.com/pirate-barbosa/ebooks/tree/main/mark%20greaney)
