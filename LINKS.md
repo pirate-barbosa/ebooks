@@ -12,6 +12,8 @@
 | Synced Data | Current page, bookmarks, notes (iCloud) | Current page, highlights, notes, library, tags | Current page, library, highlights, notes, settings |
 | Pricing Model | Free basic / $7.99 one-time Pro purchase | Free basic / $1.99–$9.99/month subscriptions | 100% Free |
 
+**Recommended E-Reader App** - Readest
+
 ## Ebook Management Software
 
 [Calibre](https://calibre-ebook.com/) is the open-source, Swiss Army knife of e-book management. It goes far beyond simply reading PDFs and EPUBs, offering several standout features:
