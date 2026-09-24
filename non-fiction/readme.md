@@ -27,6 +27,7 @@
 - [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
 - [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
+- [The Mountain Is You](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Mountain%20Is%20You.epub) — Brianna Wiest
 - [The Silk Roads](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Silk%20Roads.epub) — Peter Frankopan
 - [The World for Sale](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20for%20Sale.epub) — Javier Blas & Jack farchy
 - [The Prize](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20prize.epub) — Daniel Yergin
