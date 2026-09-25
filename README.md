@@ -22,6 +22,7 @@
 - [David Ellis](https://github.com/pirate-barbosa/ebooks/tree/main/david%20ellis)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
+- [Gillian McAllister](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20mcAllister)
 - [Harlan Coben](https://github.com/pirate-barbosa/ebooks/tree/main/harlan%20coben)
 - [Holly Jackson](https://github.com/pirate-barbosa/ebooks/tree/main/holly%20jackson)
 - [James Patterson](https://github.com/pirate-barbosa/ebooks/tree/main/james%20patterson)
