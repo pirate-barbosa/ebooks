@@ -1,10 +1,10 @@
 ## Colleen Hoover books
 
-- Ugly Love
+- [Ugly Love](https://github.com/pirate-barbosa/ebooks/blob/main/colleen%20hoover/Ugly%20Love.epub)
 - Reminders of Him
-- November 9
-- Regretting You
-- Heart Bones
+- [November 9](https://github.com/pirate-barbosa/ebooks/blob/main/colleen%20hoover/November%209.epub)
+- [Regretting You](https://github.com/pirate-barbosa/ebooks/blob/main/colleen%20hoover/Regretting%20You.epub)
+- [Heart Bones](https://github.com/pirate-barbosa/ebooks/blob/main/colleen%20hoover/Heart%20Bones.epub)
 - [Verity](https://github.com/pirate-barbosa/ebooks/blob/main/colleen%20hoover/Verity.epub)
 
 ### It Ends with Us Series
