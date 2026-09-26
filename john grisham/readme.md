@@ -10,6 +10,11 @@
 - [The Firm](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/The%20Firm.epub)
 - The Exchange
 
+### Camino Island Series
+- Camino Island
+- Camino Winds
+- Camino Ghosts
+
 ### Standalone
 - The Rainmaker
 - [The Pelican Brief](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/The%20Pelican%20Brief.epub)
