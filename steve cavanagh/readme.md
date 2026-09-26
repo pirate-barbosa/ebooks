@@ -14,5 +14,5 @@
 
 
 ### Standalone Series
-- Kill for Me, Kill for You
-- Twisted
+- [Kill for Me, Kill for You](https://github.com/pirate-barbosa/ebooks/blob/main/steve%20cavanagh/Kill%20For%20Me%20Kill%20For%20You.epub)
+- [Twisted](https://github.com/pirate-barbosa/ebooks/blob/main/steve%20cavanagh/Twisted.epub)
