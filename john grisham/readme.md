@@ -8,12 +8,12 @@
 
 ### The Firm Series
 - [The Firm](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/The%20Firm.epub)
-- The Exchange
+- [The Exchange](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/The%20Exchange.epub)
 
 ### Camino Island Series
 - Camino Island
 - Camino Winds
-- Camino Ghosts
+- [Camino Ghosts](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/Camino%20Ghosts.epub)
 
 ### Standalone
 - The Rainmaker
