@@ -11,3 +11,8 @@
 - [Witness 8](https://github.com/pirate-barbosa/ebooks/blob/main/steve%20cavanagh/Witness%208.epub)
 - [Two Kinds of Stranger](https://github.com/pirate-barbosa/ebooks/blob/main/steve%20cavanagh/Two%20Kinds%20of%20Stranger.epub)
 - [One of Us Is Guilty](https://github.com/pirate-barbosa/ebooks/blob/main/steve%20cavanagh/One%20of%20Us%20Is%20Guilty.epub)
+
+
+### Standalone Series
+- Kill for Me, Kill for You
+- Twisted
