@@ -30,6 +30,7 @@
 - [Lisa Jewell](https://github.com/pirate-barbosa/ebooks/tree/main/lisa%20jewell)
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [S A Cosby](https://github.com/pirate-barbosa/ebooks/tree/main/s%20a%20cosby)
+- [Samantha Downing](https://github.com/pirate-barbosa/ebooks/tree/main/samantha%20downing)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 
 **🔫 Action, Espionage & Adventure**
