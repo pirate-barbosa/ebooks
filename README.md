@@ -30,7 +30,6 @@
 - [Lisa Jewell](https://github.com/pirate-barbosa/ebooks/tree/main/lisa%20jewell)
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [S A Cosby](https://github.com/pirate-barbosa/ebooks/tree/main/s%20a%20cosby)
-- [Steve Cavanagh](https://github.com/pirate-barbosa/ebooks/tree/main/steve%20cavanagh)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 
 **🔫 Action, Espionage & Adventure**
@@ -50,6 +49,7 @@
 **⚖️ Legal Thriller**
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
 - [John Grisham](https://github.com/pirate-barbosa/ebooks/tree/main/john%20grisham)
+- [Steve Cavanagh](https://github.com/pirate-barbosa/ebooks/tree/main/steve%20cavanagh)
 
 **❤️ Romance**
 - [Ali Hazelwood](https://github.com/pirate-barbosa/ebooks/tree/main/ali%20hazelwood)
