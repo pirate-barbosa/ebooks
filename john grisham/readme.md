@@ -2,8 +2,8 @@
 
 ### Jake Brigance Series
 - [A Time to Kill](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/A%20Time%20to%20Kill.epub)
-- Sycamore Row
-- A Time for Mercy
+- [Sycamore Row](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/Sycamore%20Row.epub)
+- [A Time for Mercy](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/A%20Time%20for%20Mercy.epub)
 - Sparring Partners
 
 ### Standalone
