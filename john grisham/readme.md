@@ -6,8 +6,11 @@
 - [A Time for Mercy](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/A%20Time%20for%20Mercy.epub)
 - [Sparring Partners](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/Sparring%20Partners.epub)
 
-### Standalone
+### The Firm Series
 - [The Firm](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/The%20Firm.epub)
+- The Exchange
+
+### Standalone
 - The Rainmaker
 - [The Pelican Brief](https://github.com/pirate-barbosa/ebooks/blob/main/john%20grisham/The%20Pelican%20Brief.epub)
 - The Runaway Jury
