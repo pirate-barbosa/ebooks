@@ -44,7 +44,7 @@
 - [Bad Hare Day](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Bad%20Hare%20Day.epub)
 - [Egg Monsters from Mars](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Egg%20Monsters%20from%20Mars.epub)
 - [The Beast from the East](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/The%20Beast%20from%20the%20East.epub)
-- Say Cheese and Die-Again!
+- [Say Cheese and Die-Again!](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Say%20Cheese%20and%20Die-Again.epub)
 - [Ghost Camp](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/Ghost%20Camp.epub)
 - [How to Kill a Monster](https://github.com/pirate-barbosa/ebooks/blob/main/r%20l%20stine/How%20to%20Kill%20a%20Monster.epub)
 - Legend of the Lost Legend
