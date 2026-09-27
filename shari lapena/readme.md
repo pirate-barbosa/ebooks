@@ -8,5 +8,5 @@
 - [An Unwanted Guest](https://github.com/pirate-barbosa/ebooks/blob/main/shari%20lapena/An%20Unwanted%20Guest.epub)
 - [She Didn't See It Coming](https://github.com/pirate-barbosa/ebooks/blob/main/shari%20lapena/She%20Didnt%20See%20It%20Coming.epub)
 - [The End of Her](https://github.com/pirate-barbosa/ebooks/blob/main/shari%20lapena/The%20End%20of%20Her.epub)
-- What Have You Done?
+- [What Have You Done?](https://github.com/pirate-barbosa/ebooks/blob/main/shari%20lapena/What%20Have%20You%20Done.epub)
 - [Getting Away with Murder](https://github.com/pirate-barbosa/ebooks/blob/main/shari%20lapena/Getting%20Away%20With%20Murder.epub)
