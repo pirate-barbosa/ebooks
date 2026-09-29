@@ -48,6 +48,9 @@
 - [Robert Ludlum](https://github.com/pirate-barbosa/ebooks/tree/main/robert%20ludlum)
 - [Vince Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/vince%20flynn)
 
+**:👻 Thriller, Horror & Paranormal**
+- [Stephen King](https://github.com/pirate-barbosa/ebooks/tree/main/stephen%20king)
+
 **⚖️ Legal Thriller**
 - [David Baldacci](https://github.com/pirate-barbosa/ebooks/tree/main/david%20baldacci)
 - [John Grisham](https://github.com/pirate-barbosa/ebooks/tree/main/john%20grisham)
