@@ -13,3 +13,7 @@
 -
 -
 -
+
+
+### Standalone series
+- Red Storm Rising
