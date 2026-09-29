@@ -9,6 +9,14 @@
 - Holly
 - Never Flinch
 
+### The Dark Tower Series
+- The Gunslinger
+- The Drawing of the Three
+- The Waste Lands
+- Wizard and Glass
+- Wolves of the Calla
+- Song of Susannah
+- The Dark Tower
 
 ### Standalone books
 
