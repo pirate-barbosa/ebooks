@@ -1,14 +1,14 @@
 ## M W Craven books
 
 ### Washington Poe series
-- The Puppet Show
+- [The Puppet Show](https://github.com/pirate-barbosa/ebooks/blob/main/m%20w%20craven/The%20Puppet%20Show.epub)
 - Black Summer
-- The Curator
+- [The Curator](https://github.com/pirate-barbosa/ebooks/blob/main/m%20w%20craven/The%20Curator.epub)
 - Once in a Red Moon
 - Cut Short
-- Dead Ground
-- The Cutting Season
-- The Botanist
+- [Dead Ground](https://github.com/pirate-barbosa/ebooks/blob/main/m%20w%20craven/Dead%20Ground.epub)
+- [The Cutting Season](https://github.com/pirate-barbosa/ebooks/blob/main/m%20w%20craven/The%20Cutting%20Season.epub)
+- [The Botanist](https://github.com/pirate-barbosa/ebooks/blob/main/m%20w%20craven/The%20Botanist.epub)
 - The Mercy Chair
 - The Final Vow
-- The Killer's Mark
+- [The Killer's Mark](https://github.com/pirate-barbosa/ebooks/blob/main/m%20w%20craven/The%20Killers%20Mark.epub)
