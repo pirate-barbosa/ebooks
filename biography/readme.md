@@ -13,4 +13,4 @@
 - [The Everything Store - Jeff Bezos and the Age of Amazon](https://github.com/pirate-barbosa/ebooks/blob/main/biography/The%20Everything%20Store-Jeff%20Bezos%20and%20the%20Age%20of%20Amazon.epub) — Brad Stone
 - [The Nvidia Way: Jensen Huang and the Making of a Tech Giant](https://github.com/pirate-barbosa/ebooks/blob/main/biography/The%20Nvidia%20Way.epub) — Tae Kim
 - [The Snowball: Warren Buffett and the Business of Life](https://github.com/pirate-barbosa/ebooks/blob/main/biography/The%20Snowball.epub) — Alice Schroeder
-- [Wings of Fire : An Autobiography](https://github.com/pirate-barbosa/ebooks/blob/main/biography/Wings%20of%20Fire.epub) — A.P.J Abdul Kalam
+- [Wings of Fire : An Autobiography]() — A.P.J Abdul Kalam
