@@ -5,6 +5,7 @@
 - [Agatha Christie](https://github.com/pirate-barbosa/ebooks/tree/main/agatha%20christie)
 - [Anthony Horowitz](https://github.com/pirate-barbosa/ebooks/tree/main/anthony%20horowitz)
 - [Arthur Conan Doyle](https://github.com/pirate-barbosa/ebooks/tree/main/arthur%20conan%20doyle)
+- [Colin Dexter](https://github.com/pirate-barbosa/ebooks/tree/main/colin%20dexter)
 - [Harini Nagendra](https://github.com/pirate-barbosa/ebooks/tree/main/harini%20nagendra)
 - [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
 - [M W Craven](https://github.com/pirate-barbosa/ebooks/tree/main/m%20w%20craven)
