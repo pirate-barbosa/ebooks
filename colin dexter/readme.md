@@ -3,8 +3,8 @@
 ### Inspector Morse Series
 - [Last Bus to Woodstock](https://github.com/pirate-barbosa/ebooks/blob/main/colin%20dexter/Last%20Bus%20to%20Woodstock.epub)
 - Last Seen Wearing
-- The Silent World of Nicholas Quinn
-- Service of All the Dead
+- [The Silent World of Nicholas Quinn](https://github.com/pirate-barbosa/ebooks/blob/main/colin%20dexter/The%20Silent%20World%20of%20Nicholas%20Quinn.epub)
+- [Service of All the Dead](https://github.com/pirate-barbosa/ebooks/blob/main/colin%20dexter/Service%20of%20all%20the%20dead.epub)
 - [The Dead of Jericho](https://github.com/pirate-barbosa/ebooks/blob/main/colin%20dexter/The%20Dead%20of%20Jericho.epub)
 - The Riddle of the Third Mile
 - The Secret of Annexe 3
