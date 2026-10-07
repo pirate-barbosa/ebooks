@@ -8,6 +8,7 @@
 - [Harini Nagendra](https://github.com/pirate-barbosa/ebooks/tree/main/harini%20nagendra)
 - [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
 - [M W Craven](https://github.com/pirate-barbosa/ebooks/tree/main/m%20w%20craven)
+- [Jennifer Lynn Barnes](https://github.com/pirate-barbosa/ebooks/tree/main/jennifer%20lynn%20barnes)
 - [Lucy Foley](https://github.com/pirate-barbosa/ebooks/tree/main/lucy%20foley)
 - [Raymond Chandler](https://github.com/pirate-barbosa/ebooks/tree/main/raymond%20chandler)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
