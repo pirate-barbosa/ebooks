@@ -13,7 +13,7 @@
 - [The Hawthorne Legacy](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Hawthorne%20Legacy.epub)
 - [The Final Gambit](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Final%20Gambit.epub)
 - [The Brothers Hawthorne](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Brothers%20Hawthorne.epub)
-- The Grandest Game
-- Glorious Rivals
-- The Gilded Blade
+- [The Grandest Game](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Grandest%20Game.epub)
+- [Glorious Rivals](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/Glorious%20Rivals.epub)
+- [The Gilded Blade](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Gilded%20Blade.epub)
 - [Games Untold](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/Games%20Untold.epub)
