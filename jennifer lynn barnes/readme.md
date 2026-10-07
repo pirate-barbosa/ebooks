@@ -9,11 +9,11 @@
 - Dangerous Impulses
 
 ### The Inheritance Games Series
-- The Inheritance Games
-- The Hawthorne Legacy
-- The Final Gambit
-- The Brothers Hawthorne
+- [The Inheritance Games](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Inheritance%20Games.epub)
+- [The Hawthorne Legacy](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Hawthorne%20Legacy.epub)
+- [The Final Gambit](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Final%20Gambit.epub)
+- [The Brothers Hawthorne](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/The%20Brothers%20Hawthorne.epub)
 - The Grandest Game
 - Glorious Rivals
 - The Gilded Blade
-- Games Untold
+- [Games Untold](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/Games%20Untold.epub)
