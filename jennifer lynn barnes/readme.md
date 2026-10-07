@@ -7,3 +7,13 @@
 - [Bad Blood](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/Bad%20Blood.epub)
 - [Twelve](https://github.com/pirate-barbosa/ebooks/blob/main/jennifer%20lynn%20barnes/Twelve.epub)
 - Dangerous Impulses
+
+### The Inheritance Games Series
+- The Inheritance Games
+- The Hawthorne Legacy
+- The Final Gambit
+- The Brothers Hawthorne
+- The Grandest Game
+- Glorious Rivals
+- The Gilded Blade
+- Games Untold
