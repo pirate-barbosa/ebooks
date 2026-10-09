@@ -48,4 +48,4 @@
 - Don't Let Go (2017)
 - [Run Away](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Run%20Away.epub)
 - I Will Find You (2023)
-- Gone Before Goodbye (co-authored with Reese Witherspoon, 2025) 
+- [Gone Before Goodbye](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Gone%20Before%20Goodbye.epub) - co-authored with Reese Witherspoon
