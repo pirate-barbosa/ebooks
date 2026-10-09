@@ -20,8 +20,8 @@
 - Found (2014)
 
  ### Wilde Series
- - The Boy from the Woods (2020)
- - The Match (2022)
+ - [The Boy from the Woods](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/The%20Boy%20from%20the%20Woods.epub)
+ - [The Match](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/The%20Match.epub)
  
  ###  Windsor Horne Lockwood III Series
  - Win (2021)
