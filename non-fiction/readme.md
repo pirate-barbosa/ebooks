@@ -32,6 +32,7 @@
 - [The Mountain Is You](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Mountain%20Is%20You.epub) — Brianna Wiest
 - [The Silk Roads](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Silk%20Roads.epub) — Peter Frankopan
 - [The World for Sale](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20for%20Sale.epub) — Javier Blas & Jack farchy
+- [The World in Turnmoil](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20in%20Turmoil.epub) — John Andrews
 - [The Prize](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20prize.epub) — Daniel Yergin
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
 - [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
