@@ -32,11 +32,11 @@
 
 ### Standalone Novels
 - [Play Dead](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Play%20Dead.epub)
-- Miracle Cure (1991)
-- Tell No One (2001)
-- No Second Chance (2003)
+- [Miracle Cure](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Miracle%20Cure.epub)
+- [Tell No One](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Tell%20No%20One.epub)
+- [No Second Chance](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/No%20Second%20Chance.epub)
 - Gone for Good (2002)
-- Just One Look (2004)
+- [Just One Look](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Just%20One%20Look.epub)
 - The Innocent (2005)
 - [The Woods](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/The%20Woods.epub)
 - [Hold Tight](https://github.com/pirate-barbosa/ebooks/blob/main/harlan%20coben/Hold%20Tight.epub)
