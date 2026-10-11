@@ -1,14 +1,14 @@
 ## Jacqueline Winspear books
 
 ### Maisie Dobbs Series
-- Maisie Dobbs
-- Birds of a Feather
-- Pardonable Lies
-- Messenger of Truth
-- An Incomplete Revenge
-- Among the Mad
-- The Mapping of Love and Death
-- A Lesson in Secrets
+- [Maisie Dobbs](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Maisie%20Dobbs.epub)
+- [Birds of a Feather](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Birds%20of%20a%20Feather.epub)
+- [Pardonable Lies](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Pardonable%20Lies.epub)
+- [Messenger of Truth](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Messenger%20of%20Truth.epub)
+- [An Incomplete Revenge](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/An%20Incomplete%20Revenge.epub)
+- [Among the Mad](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Among%20the%20Mad.epub)
+- [The Mapping of Love and Death](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/The%20Mapping%20of%20Love%20and%20Death.epub)
+- [A Lesson in Secrets](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/A%20Lesson%20in%20Secrets.epub)
 - [Elegy for Eddie](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Elegy%20for%20Eddie.epub)
 - [Leaving Everything Most Loved](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/Leaving%20Everything%20Most%20Loved.epub)
 - [A Dangerous Place](https://github.com/pirate-barbosa/ebooks/blob/main/jacqueline%20winspear/A%20Dangerous%20Place.epub)
