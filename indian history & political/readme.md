@@ -10,7 +10,7 @@
 - [Indias First Dictatorship - The Emergency, 1975-77](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Indias%20First%20Dictatorship%20-%20The%20Emergency%2C%201975-77.epub) — Christophe Jaffrelot & Pratinav Anil
 - [China’s India War - Collision Course on the Roof of the World](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/China%E2%80%99s%20India%20War-Collision%20Course%20on%20the%20Roof%20of%20the%20World.epub) — Bertil Linter
 - [The Anarchy](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Anarchy-The%20East%20India%20Company%2C%20Corporate%20Violence%2C%20And%20The%20Pillage%20Of%20An%20Empire.epub) — William Dalrymple
-- History of India, 1707–1857 — Lakshmi Subramanian
+- [History of India, 1707–1857](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/History%20of%20India%2C%201707-1857.pdf) — Lakshmi Subramanian
 - The Marathas, 1600–1818 — Stewart Gordon
 - [India Conquered](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/India%20Conquered.epub) — Jon Wilson
 - [The Last Mughal - The Fall of a Dynasty Delhi, 1857](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Last%20Mughal-The%20Fall%20of%20a%20Dynasty%20Delhi%2C%201857.epub) — William Dalrymple
