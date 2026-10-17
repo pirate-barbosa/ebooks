@@ -18,6 +18,7 @@
 - [Seishi Yokomizo](https://github.com/pirate-barbosa/ebooks/tree/main/seishi%20yokomizo)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
 - [Tana French](https://github.com/pirate-barbosa/ebooks/tree/main/tana%20french)
+- [Tarquin Hall](https://github.com/pirate-barbosa/ebooks/tree/main/tarquin%20hall)
 - [Vaseem Khan](https://github.com/pirate-barbosa/ebooks/tree/main/vaseem%20khan)
 - [Yukito Ayatsuji](https://github.com/pirate-barbosa/ebooks/tree/main/yukito%20ayatsuji)
 
