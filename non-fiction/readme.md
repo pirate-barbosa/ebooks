@@ -35,5 +35,6 @@
 - [The World in Turnmoil](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20in%20Turmoil.epub) — John Andrews
 - [The Prize](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20prize.epub) — Daniel Yergin
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
+- [To the Elephant Graveyard](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/To%20the%20Elephant%20Graveyard.epub) — Tarquin Hall
 - [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
 - [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
