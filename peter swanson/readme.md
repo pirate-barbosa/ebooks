@@ -3,7 +3,7 @@
 ## Henry Kimball/Lily Kintner Series
 - [The Kind Worth Killing](https://github.com/pirate-barbosa/ebooks/blob/main/peter%20swanson/The%20Kind%20Worth%20Killing.epub)
 - [The Kind Worth Saving](https://github.com/pirate-barbosa/ebooks/blob/main/peter%20swanson/The%20Kind%20Worth%20Saving.epub)
-- A Talent for Murder
+- [A Talent for Murder](https://github.com/pirate-barbosa/ebooks/blob/main/peter%20swanson/A%20Talent%20for%20Murder.epub)
 
 ### Standalone
 - [Eight Perfect Murders](https://github.com/pirate-barbosa/ebooks/blob/main/peter%20swanson/Eight%20Perfect%20Murders.epub)
