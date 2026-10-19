@@ -9,7 +9,9 @@
 - [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub) — Raghu Palat
 - [How to Make Money With Breakout Trading](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20With%20Breakout%20Trading%20A%20Simple%20Stock%20Market%20Book%20for%20Beginners%20-%20The%20Secret%20of%20becoming%20Intelligent%20Investor.epub) — Indrazith Shantharaj
 - [How to Make Money in Stocks](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20in%20Stocks%20-%20A%20Winning%20System%20in%20Good%20Times%20and%20Bad%204th%20edition%202009.epub) — William J. O'Neil
+- [How to Read a Financial Report](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Read%20a%20Financial%20Report.epub) — John A. Tracy
 - [Investment Valuation](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Investment%20Valuation.epub) — Aswath Damodaran
+- [Japanese Candlestick Charting Techniques](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Japanese%20Candlestick%20Charting%20Techniques.pdf) — Steve Nison
 - [Mastering the Market Cycle](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Mastering%20the%20Market%20Cycle%20-%20Getting%20the%20Odds%20on%20Your%20Side.epub) — Howard Marks
 - [One Up On Wall Street](https://github.com/pirate-barbosa/ebooks/blob/main/financial/One%20Up%20On%20Wall%20Street.epub) — Peter Lynch
 - [Price Action Trading](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Price%20Action%20Trading%20A%20Simple%20Stock%20Market%20Trading%20Book%20for%20Beginners%20%E2%80%93%20Applicable%20to%20Intraday%20Trading%2C%20Swing%20Trading.epub) — Indrazith Shantharaj
