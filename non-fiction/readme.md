@@ -30,6 +30,7 @@
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
 - [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
 - [The Mountain Is You](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Mountain%20Is%20You.epub) — Brianna Wiest
+- [The Second World War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Second%20World%20War.epub) — Antony Beevor
 - [The Silk Roads](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Silk%20Roads.epub) — Peter Frankopan
 - [The World for Sale](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20for%20Sale.epub) — Javier Blas & Jack farchy
 - [The World in Turnmoil](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20in%20Turmoil.epub) — John Andrews
