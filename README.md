@@ -41,6 +41,7 @@
 - [S A Cosby](https://github.com/pirate-barbosa/ebooks/tree/main/s%20a%20cosby)
 - [Samantha Downing](https://github.com/pirate-barbosa/ebooks/tree/main/samantha%20downing)
 - [Shari Lapena](https://github.com/pirate-barbosa/ebooks/tree/main/shari%20lapena)
+- [Stephen King](https://github.com/pirate-barbosa/ebooks/tree/main/stephen%20king)
 - [Stieg Larsson](https://github.com/pirate-barbosa/ebooks/tree/main/stieg%20larsson)
 
 **🔫 Action, Espionage & Adventure**
