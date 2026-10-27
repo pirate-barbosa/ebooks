@@ -29,6 +29,7 @@
 - [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
 - [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
+- [The Long Game](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Long%20Game.epub) — Rush Doshi
 - [The Mountain Is You](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Mountain%20Is%20You.epub) — Brianna Wiest
 - [The Second World War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Second%20World%20War.epub) — Antony Beevor
 - [The Silk Roads](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Silk%20Roads.epub) — Peter Frankopan
@@ -37,5 +38,7 @@
 - [The Prize](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20prize.epub) — Daniel Yergin
 - [Thinking, Fast and Slow](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Thinking%2C%20Fast%20and%20Slow.epub) — Daniel Kahneman
 - [To the Elephant Graveyard](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/To%20the%20Elephant%20Graveyard.epub) — Tarquin Hall
+- [Unrestricted Warfare](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Unrestricted%20Warfare.epub) — Qiao Liang and Wang Xiangsui
 - [The Venture Hacks Bible](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Venture%20Hacks%20Bible.epub) — Babak Nivi, Naval Ravikant 
+- [War Without Rules](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/War%20Without%20Rules.epub) — Robert Spalding
 - [Zero to One](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Zero%20to%20One.epub) — Peter Thiel
