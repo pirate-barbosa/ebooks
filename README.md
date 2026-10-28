@@ -15,6 +15,7 @@
 - [Raymond Chandler](https://github.com/pirate-barbosa/ebooks/tree/main/raymond%20chandler)
 - [Richard Osman](https://github.com/pirate-barbosa/ebooks/tree/main/richard%20osman)
 - [Robert Thorogood](https://github.com/pirate-barbosa/ebooks/tree/main/robert%20thorogood)
+- [S T Abby](https://github.com/pirate-barbosa/ebooks/tree/main/s%20t%20abby)
 - [Seishi Yokomizo](https://github.com/pirate-barbosa/ebooks/tree/main/seishi%20yokomizo)
 - [Sue Grafton](https://github.com/pirate-barbosa/ebooks/tree/main/sue%20grafton)
 - [Tana French](https://github.com/pirate-barbosa/ebooks/tree/main/tana%20french)
