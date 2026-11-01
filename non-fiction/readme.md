@@ -1,4 +1,5 @@
 ## Non fiction books
+- [AI Superpowers](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/AI%20Superpowers.epub) — Kai-Fu Lee
 - [Apple in China](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) — Patrick McGee
 - [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
 - [Chip War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
