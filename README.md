@@ -8,6 +8,7 @@
 - [Blake Crouch](https://github.com/pirate-barbosa/ebooks/tree/main/blake%20crouch)
 - [Colin Dexter](https://github.com/pirate-barbosa/ebooks/tree/main/colin%20dexter)
 - [Harini Nagendra](https://github.com/pirate-barbosa/ebooks/tree/main/harini%20nagendra)
+- [Karin Slaughter](https://github.com/pirate-barbosa/ebooks/tree/main/karin%20slaughter)
 - [Keigo Higashino](https://github.com/pirate-barbosa/ebooks/tree/main/keigo%20higashino)
 - [M W Craven](https://github.com/pirate-barbosa/ebooks/tree/main/m%20w%20craven)
 - [Jacqueline Winspear](https://github.com/pirate-barbosa/ebooks/tree/main/jacqueline%20winspear)
