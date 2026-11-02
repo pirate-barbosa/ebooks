@@ -5,6 +5,7 @@
 - [Arthashastra](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Arthashastra.epub) — Chanakya
 - [China’s India War - Collision Course on the Roof of the World](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/China%E2%80%99s%20India%20War-Collision%20Course%20on%20the%20Roof%20of%20the%20World.epub) — Bertil Linter
 - [Emergency Chronicles - Indira Gandhi and Democracy's Turning Point](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Emergency%20Chronicles%20Indira%20Gandhi%20and%20Democracys%20Turning%20Point.epub) — Gyan Prakash
+- [Gods, Guns and Missionaries](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Gods%2C%20Guns%20and%20Missionaries.epub) — Manu S. Pillai
 - [Half Lion - How P.V. Narasimha Rao transformed India](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Half%20Lion%20-%20How%20P.V.%20Narasimha%20Rao%20transformed%20India.epub) — Vinay Sitapati
 - [Hindus in Hindu Rashtra Eighth - class Citizens and Victims of State-sanctioned Apartheid](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Hindus%20in%20Hindu%20Rashtra%20Eighth-class%20Citizens%20and%20Victims%20of%20State-sanctioned%20Apartheid.epub) — Anand Ranganathan
 - [History of India, 1707–1857](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/History%20of%20India%2C%201707-1857.pdf) — Lakshmi Subramanian
@@ -14,6 +15,7 @@
 - [Indias First Dictatorship - The Emergency, 1975-77](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Indias%20First%20Dictatorship%20-%20The%20Emergency%2C%201975-77.epub) — Christophe Jaffrelot & Pratinav Anil
 - [Jugalbandi - The BJP Before Modi](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Jugalbandi%20-%20The%20BJP%20Before%20Modi.epub) — Vinay Sitapati
 - [Kautilyanomics](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Kautilyanomics.epub) — Sriram Balasubramanian
+- [Lords Of Earth And Sea](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Lords%20Of%20Earth%20And%20Sea.epub) — Anirudh Kanisetti
 - [Reminiscences of the Nehru Age](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Reminiscences%20of%20the%20Nehru%20Age.pdf) — M O Mathai
 - [The Anarchy](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Anarchy-The%20East%20India%20Company%2C%20Corporate%20Violence%2C%20And%20The%20Pillage%20Of%20An%20Empire.epub) — William Dalrymple
 - [The Idol Thief](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Idol%20Thief.epub) — S. Vijay Kumar
