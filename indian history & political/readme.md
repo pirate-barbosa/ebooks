@@ -16,6 +16,7 @@
 - [Jugalbandi - The BJP Before Modi](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Jugalbandi%20-%20The%20BJP%20Before%20Modi.epub) — Vinay Sitapati
 - [Kautilyanomics](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Kautilyanomics.epub) — Sriram Balasubramanian
 - [Lords Of Earth And Sea](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Lords%20Of%20Earth%20And%20Sea.epub) — Anirudh Kanisetti
+- [Rebel Sultans](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Rebel%20Sultans.epub) — Manu S. Pillai
 - [Reminiscences of the Nehru Age](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Reminiscences%20of%20the%20Nehru%20Age.pdf) — M O Mathai
 - [The Anarchy](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Anarchy-The%20East%20India%20Company%2C%20Corporate%20Violence%2C%20And%20The%20Pillage%20Of%20An%20Empire.epub) — William Dalrymple
 - [The Idol Thief](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Idol%20Thief.epub) — S. Vijay Kumar
