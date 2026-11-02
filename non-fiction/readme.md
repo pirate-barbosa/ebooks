@@ -3,6 +3,7 @@
 - [Apple in China](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Apple%20in%20China%20-%20The%20Capture%20of%20the%20Worlds%20Greatest%20Company.epub) — Patrick McGee
 - [Atomic habits](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Atomic%20habits.epub) — James Clear
 - [Chip War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Chip%20War%20-%20The%20Fight%20for%20the%20Worlds%20Most%20Critical%20Technology.epub) — Chris Miller
+- [Collapse](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Collapse.epub) — Vladislav Zubok
 - [Currency Wars](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Currency%20Wars.epub) — James Rickards
 - [Destined for War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Destined%20for%20War.epub) — Graham T Allison
 - [Dont Believe Everything You Think](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Dont%20Believe%20Everything%20You%20Think%20-%20Why%20Your%20Thinking%20Is%20the%20Beginning%20%20End%20of%20Suffering.epub) — Joseph Nguyen
@@ -29,12 +30,14 @@
 - [The End of the World is Just the Beginning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20End%20of%20the%20World%20is%20Just%20the%20Beginning.epub) — Peter Zeihan
 - [The Hard Thing About Hard Things](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Hard%20Thing%20About%20Hard%20Things.epub) — Ben Horowitz
 - [The Innovator’s Dilemma](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Innovators%20Dilemma.epub) — Clayton Christensen
+- [The Last Empire](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Last%20Empire.epub) — Serhii Plokhy
 - [The lean startup](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Lean%20Startup.epub) — Eric Ries
 - [The Let Them Theory](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Let%20Them%20Theory.epub) — ̨Mel Robbins
 - [The Long Game](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Long%20Game.epub) — Rush Doshi
 - [The Mountain Is You](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Mountain%20Is%20You.epub) — Brianna Wiest
 - [The Second World War](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Second%20World%20War.epub) — Antony Beevor
 - [The Silk Roads](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Silk%20Roads.epub) — Peter Frankopan
+- [The Soviet Tragedy](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Soviet%20Tragedy.epub) — Martin Malia
 - [The World for Sale](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20for%20Sale.epub) — Javier Blas & Jack farchy
 - [The World in Turnmoil](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20World%20in%20Turmoil.epub) — John Andrews
 - [The Prize](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20prize.epub) — Daniel Yergin
