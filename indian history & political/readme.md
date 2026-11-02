@@ -18,7 +18,9 @@
 - [Lords Of Earth And Sea](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Lords%20Of%20Earth%20And%20Sea.epub) — Anirudh Kanisetti
 - [Rebel Sultans](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Rebel%20Sultans.epub) — Manu S. Pillai
 - [Reminiscences of the Nehru Age](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Reminiscences%20of%20the%20Nehru%20Age.pdf) — M O Mathai
+- [Shattered Lands](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/Shattered%20Lands.epub) — Sam Dalrymple
 - [The Anarchy](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Anarchy-The%20East%20India%20Company%2C%20Corporate%20Violence%2C%20And%20The%20Pillage%20Of%20An%20Empire.epub) — William Dalrymple
+- [The Golden Road](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Golden%20Road.epub) — William Dalrymple
 - [The Idol Thief](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Idol%20Thief.epub) — S. Vijay Kumar
 - [The Last Mughal - The Fall of a Dynasty Delhi, 1857](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Last%20Mughal-The%20Fall%20of%20a%20Dynasty%20Delhi%2C%201857.epub) — William Dalrymple
 - [The Man Who Saved India - Sardar Patel and His Idea of India](https://github.com/pirate-barbosa/ebooks/blob/main/indian%20history%20%26%20political/The%20Man%20Who%20Saved%20India-Sardar%20Patel%20and%20His%20Idea%20of%20India.epub) — Hindol Sengupta
