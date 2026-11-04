@@ -41,6 +41,7 @@
 - [Liz Moore](https://github.com/pirate-barbosa/ebooks/tree/main/liz%20moore)
 - [Michael Connelly](https://github.com/pirate-barbosa/ebooks/tree/main/michael%20connelly)
 - [Peter Swanson](https://github.com/pirate-barbosa/ebooks/tree/main/peter%20swanson)
+- [Riley Sager](https://github.com/pirate-barbosa/ebooks/tree/main/riley%20sager)
 - [S A Cosby](https://github.com/pirate-barbosa/ebooks/tree/main/s%20a%20cosby)
 - [Samantha Downing](https://github.com/pirate-barbosa/ebooks/tree/main/samantha%20downing)
 - [Shari Lapena](https://github.com/pirate-barbosa/ebooks/tree/main/shari%20lapena)
