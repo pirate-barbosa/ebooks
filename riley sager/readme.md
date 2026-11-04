@@ -6,7 +6,7 @@
 - [Lock Every Door](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/Lock%20Every%20Door.epub)
 - [Final Girls](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/Final%20Girls.epub)
 - [The Last Time I Lied](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/The%20Last%20Time%20I%20Lied.epub)
-- Middle of the Night
+- [Middle of the Night](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/Middle%20of%20the%20Night.epub)
 - [Survive the Night](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/Survive%20the%20Night.epub)
 - [The Unknown](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/The%20Unknown.epub)
-- With a Vengeance	
+- [With a Vengeance](https://github.com/pirate-barbosa/ebooks/blob/main/riley%20sager/With%20a%20Vengeance.epub)
