@@ -30,6 +30,7 @@
 - [Alex Michaelides](https://github.com/pirate-barbosa/ebooks/tree/main/alex%20michaelides)
 - [Alice Feeney](https://github.com/pirate-barbosa/ebooks/tree/main/alice%20feeney)
 - [David Ellis](https://github.com/pirate-barbosa/ebooks/tree/main/david%20ellis)
+- [Dennis Lehane](https://github.com/pirate-barbosa/ebooks/tree/main/dennis%20lehane)
 - [Freida McFadden](https://github.com/pirate-barbosa/ebooks/tree/main/freida%20mcFadden)
 - [Gillian Flynn](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20flynn)
 - [Gillian McAllister](https://github.com/pirate-barbosa/ebooks/tree/main/gillian%20mcAllister)
