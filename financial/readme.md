@@ -16,6 +16,7 @@
 - [One Up On Wall Street](https://github.com/pirate-barbosa/ebooks/blob/main/financial/One%20Up%20On%20Wall%20Street.epub) — Peter Lynch
 - [Price Action Trading](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Price%20Action%20Trading%20A%20Simple%20Stock%20Market%20Trading%20Book%20for%20Beginners%20%E2%80%93%20Applicable%20to%20Intraday%20Trading%2C%20Swing%20Trading.epub) — Indrazith Shantharaj
 - [Rich Dad Poor Dad](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Rich%20Dad%20Poor%20Dad.epub) — Robert T.Kiyosaki
+- [Secrets For Profiting in Bull and Bear Markets](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Secrets%20For%20Profiting%20in%20Bull%20and%20Bear%20Markets.epub) — Stan Weinstein
 - [Stock Investing Mastermind](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Stock%20Investing%20Mastermind.epub) — Zebra Learn
 - [Stocks to Riches Insights on Investor Behaviour](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Stocks%20to%20Riches%20Insights%20on%20Investor%20Behaviour.epub) — Parag Parikh
 - [Technical Analysis of the Financial Markets](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Technical%20Analysis%20of%20the%20Financial%20Markets.epub) — John J. Murphy
