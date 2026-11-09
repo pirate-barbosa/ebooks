@@ -18,12 +18,14 @@
 - [Indias Most Fearless 3](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Indias%20Most%20Fearless%203.epub) — Shiv Aroor, Rahul Singh
 - [Influence](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Influence-The%20Psychology%20of%20Persuasion.epub) — Robert B Cialdini
 - [Man's Search for Meaning](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Man%E2%80%99s%20Search%20for%20Meaning.epub) — Viktor E. Frankl
+- [Mind Management, Not Time Management](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Mind%20Management%2C%20Not%20Time%20Management.epub) — David Kadavy
 - [Narcotopia](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Narcotopia.epub) — Patrick Winn
 - [The New Map](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/New%20Map.epub) — Daniel Yergin
 - [Nexus](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Nexus-A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI.epub) — Yuval Noah Harari
 - [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
 - [Prisoners of Geography](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Prisoners%20of%20Geography.epub) — Tim Marshall
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
+- [The % AM Club](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%205%20AM%20Club.epub) — Robin Sharma
 - [The Almanack of Naval Ravikant](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Almanack%20of%20Naval%20Ravikant%20-%20A%20Guide%20to%20Wealth%20and%20Happiness.epub) — Eric Jorgenson
 - [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) — Rolf Dobel
 - [The Death of Money](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Death%20of%20Money.epub) — James Rickards
