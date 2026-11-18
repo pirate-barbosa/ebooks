@@ -79,6 +79,7 @@
 - [Fredrik Backman](https://github.com/pirate-barbosa/ebooks/tree/main/fredrik%20backman)
 
 **🇮🇳 Indian Mythology, Historical & Mythological Fiction**
+- [Akshat Gupta](https://github.com/pirate-barbosa/ebooks/tree/main/akshat%20gupta)
 - [Amish Tripathi](https://github.com/pirate-barbosa/ebooks/tree/main/amish%20tripathi)
 - [Anand Neelakantan](https://github.com/pirate-barbosa/ebooks/tree/main/anand%20neelakantan)
 - [Ashwin Sanghi](https://github.com/pirate-barbosa/ebooks/tree/main/ashwin%20sanghi)
