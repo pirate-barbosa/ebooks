@@ -1,6 +1,6 @@
 ## Akshat Gupta books
 
 ### The Hidden Hindu series
-- The hidden Hindu
-- The hidden Hindu 2
-- The hidden Hindu 3
+- The Hidden Hindu
+- The Hidden Hindu 2
+- The Hidden Hindu 3
