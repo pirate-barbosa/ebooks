@@ -11,4 +11,4 @@
 - [A Parade of Horribles](https://github.com/pirate-barbosa/ebooks/blob/main/matt%20dinniman/A%20Parade%20of%20Horribles.epub)
 
 ### Standalone
-- [Operation Bounce House]()
+- [Operation Bounce House](https://github.com/pirate-barbosa/ebooks/blob/main/matt%20dinniman/Operation%20Bounce%20House.epub)
