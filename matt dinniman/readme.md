@@ -9,3 +9,6 @@
 - [The Eye of the Bedlam Bride](https://github.com/pirate-barbosa/ebooks/blob/main/matt%20dinniman/The%20Eye%20of%20the%20Bedlam%20Bride.epub)
 - [This Inevitable Ruin](https://github.com/pirate-barbosa/ebooks/blob/main/matt%20dinniman/This%20Inevitable%20Ruin.epub)
 - [A Parade of Horribles](https://github.com/pirate-barbosa/ebooks/blob/main/matt%20dinniman/A%20Parade%20of%20Horribles.epub)
+
+### Standalone
+- [Operation Bounce House]()
