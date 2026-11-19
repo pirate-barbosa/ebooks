@@ -25,7 +25,7 @@
 - [Poor Charlie's Almanack](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Poor%20Charlie%E2%80%99s%20Almanack.epub) — Charlie Munger
 - [Prisoners of Geography](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Prisoners%20of%20Geography.epub) — Tim Marshall
 - [Sapiens](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/Sapiens.epub) — Yuval Noah Harari
-- [The % AM Club](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%205%20AM%20Club.epub) — Robin Sharma
+- [The 5 AM Club](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%205%20AM%20Club.epub) — Robin Sharma
 - [The Almanack of Naval Ravikant](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Almanack%20of%20Naval%20Ravikant%20-%20A%20Guide%20to%20Wealth%20and%20Happiness.epub) — Eric Jorgenson
 - [The Art of Thinking Clearly](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Art%20of%20Thinking%20Clearly.epub) — Rolf Dobel
 - [The Death of Money](https://github.com/pirate-barbosa/ebooks/blob/main/non-fiction/The%20Death%20of%20Money.epub) — James Rickards
