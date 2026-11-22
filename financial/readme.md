@@ -6,6 +6,7 @@
 - [Coffee Can Investing](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Coffee%20Can%20Investing%20The%20Low%20Risk%20Road%20to%20Stupendous%20Wealth.epub) — Pranab Uniyal, Rakshit Ranjan, and Saurabh Mukherjea
 - [Common Stocks Uncommon Profits](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Common%20Stocks%20and%20Uncommon%20Profits.epub) — Philip A.Fisher
 - [Financial Statements](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Financial%20Statements%20A%20Step-by-Step%20Guide%20to%20Understanding%20and%20Creating%20Financial%20Reports.epub) — Thomas R. Ittelson
+- [Freakonomics](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Freakonomics.epub) — Stephen J. Dubner and Steven Levitt
 - [Fundamental Analysis for Investors](https://github.com/pirate-barbosa/ebooks/blob/main/financial/Fundamental%20Analysis%20for%20Investors.epub) — Raghu Palat
 - [How to Make Money With Breakout Trading](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20With%20Breakout%20Trading%20A%20Simple%20Stock%20Market%20Book%20for%20Beginners%20-%20The%20Secret%20of%20becoming%20Intelligent%20Investor.epub) — Indrazith Shantharaj
 - [How to Make Money in Stocks](https://github.com/pirate-barbosa/ebooks/blob/main/financial/How%20to%20Make%20Money%20in%20Stocks%20-%20A%20Winning%20System%20in%20Good%20Times%20and%20Bad%204th%20edition%202009.epub) — William J. O'Neil
